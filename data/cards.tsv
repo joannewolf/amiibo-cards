@@ -1,0 +1,449 @@
+id	en	ja	zh-Hant	species	gender	birthday	diceValue	handSign	backgroundColor
+001	Isabelle	しずえ	西施惠	Special	Female	12/20	1	scissors	teal
+002	Tom Nook	たぬきち	狸克	Special	Male	05/30	6	rock	orange
+003	DJ KK	DJ K.K	DJ KK	Special	Male	08/23	3	rock	green
+004	Sable	あさみ	絹代	Special	Female	11/22	4	rock	yellow
+005	Kapp'n	かっぺい	航平	Special	Male	07/12	5	scissors	blue
+006	Resetti	リセットさん	乘龍	Special	Male	04/06	2	paper	red
+007	Joan	カブリバ	曹賣	Special	Female	01/08	2	scissors	tangerine
+008	Timmy	まめきち	豆吉	Special	Male	06/07	4	paper	orange
+009	Digby	ケント	健兆	Special	Male	12/20	6	rock	teal
+010	Pascal	ラコスケ	阿獺	Special	Male	07/19	1	paper	blue
+011	Harriet	カットリーヌ	凱薩琳	Special	Female	01/31	3	scissors	brown
+012	Redd	つねきち	狐利	Special	Male	10/18	5	rock	purple
+013	Saharah	ローラン	乘龍	Special	Female	11/10	4	scissors	yellow
+014	Luna	ゆめみ	夢美	Special	Female	02/29	1	paper	pink
+015	Tortimer	コトブキ	壽伯	Special	Male	12/31	6	rock	tangerine
+016	Lyle	ホンマさん	保美	Special	Male	06/06	5	paper	orange
+017	Lottie	タクミ	巧美	Special	Female	09/12	3	rock	green
+018	Bob	ニコバン	阿判	Cat	Male	01/01	2	scissors	tangerine
+019	Fauna	ドレミ	朵蕾咪	Deer	Female	03/26	5	rock	red
+020	Curt	ガンテツ	鐵熊	Bear	Male	07/01	3	paper	blue
+021	Portia	ブレンダ	布蘭達	Dog	Female	10/25	1	scissors	yellow
+022	Leonardo	ヒョウタ	秀太	Tiger	Male	05/15	4	rock	darkGreen
+023	Cheri	アセロラ	櫻桃	Bear cub	Female	03/17	6	scissors	pink
+024	Kyle	リカルド	李乾	Wolf	Male	12/06	2	paper	teal
+025	Al	たもつ	阿保	Gorilla	Male	10/18	4	scissors	purple
+026	Renée	おさい	戴安	Rhino	Female	05/28	3	rock	orange
+027	Lopez	トムソン	湯仕	Deer	Male	08/20	2	paper	sakura
+028	Jambette	エスメラルダ	艾絲梅拉達	Frog	Female	10/27	1	scissors	yellow
+029	Rasher	グレオ	格雷歐	Pig	Male	04/07	6	paper	red
+030	Tiffany	バズレー	露西	Rabbit	Female	01/09	5	rock	tangerine
+031	Sheldon	クリス	柯利斯	Squirrel	Male	02/26	3	paper	pink
+032	Bluebear	グルミン	小潤	Bear cub	Female	06/24	1	scissors	blue
+033	Bill	ピータン	皮蛋	Duck	Male	02/01	5	rock	brown
+034	Kiki	キャビア	嘉碧	Cat	Female	10/08	6	paper	purple
+035	Deli	デリー	狄利	Monkey	Male	05/24	4	rock	orange
+036	Alli	クロコ	鱷羅斯	Alligator	Female	11/08	2	scissors	yellow
+037	Kabuki	かぶきち	歌舞伎	Cat	Male	11/29	6	rock	teal
+038	Patty	カルピ	嘉碧	Cow	Female	05/10	1	scissors	darkGreen
+039	Jitters	ジーニョ	紀諾	Bird	Male	02/02	5	paper	brown
+040	Gigi	リンダ	琳達	Frog	Female	08/11	2	rock	sakura
+041	Quillson	タックン	阿達	Duck	Male	12/22	4	paper	tangerine
+042	Marcie	マリア	瑪利亞	Kangaroo	Female	05/31	3	scissors	orange
+043	Puck	ホッケー	阿冰	Penguin	Male	02/21	1	paper	pink
+044	Shari	シェリー	雪莉	Monkey	Female	04/10	5	rock	red
+045	Octavian	おくたろう	章魚燒	Octopus	Male	09/20	2	scissors	green
+046	Winnie	マキバスター	夢奇	Horse	Female	01/31	4	paper	brown
+047	Knox	キンカク	金角	Chicken	Male	11/23	3	scissors	teal
+048	Sterling	ギンカク	銀角	Eagle	Male	12/11	6	rock	teal
+049	Bonbon	ミミィ	蜜米	Rabbit	Female	03/03	5	scissors	pink
+050	Punchy	ビンタ	彬太	Cat	Male	04/11	6	rock	red
+051	Opal	オパール	蛋白石	Elephant	Female	01/20	3	paper	brown
+052	Poppy	グミ	古蜜	Squirrel	Female	08/05	4	rock	sakura
+053	Limberg	らっきょ	辣醬	Mouse	Male	10/17	2	scissors	purple
+054	Deena	まりも	茉莉	Duck	Female	06/27	1	paper	blue
+055	Snake	モモチ	桃之	Rabbit	Male	11/03	3	scissors	yellow
+056	Bangle	ルーズ	露絲	Tiger	Female	08/27	1	paper	green
+057	Phil	ケイン	凱恩	Ostrich	Male	11/27	6	rock	teal
+058	Monique	ジェーン	珍妮	Cat	Female	09/30	2	paper	purple
+059	Nate	バッカス	巴格斯	Bear	Male	08/16	4	scissors	sakura
+060	Samson	ピース	阿健	Mouse	Male	07/05	5	rock	blue
+061	Tutu	れんにゅう	仁乳	Bear	Female	09/15	1	scissors	green
+062	T-Bone	ボルシチ	波麗	Bull	Male	05/20	4	paper	darkGreen
+063	Mint	ミント	薄荷	Squirrel	Female	05/02	2	rock	darkGreen
+064	Pudge	きんぞう	金三	Bear cub	Male	06/11	6	paper	orange
+065	Midge	うずまき	渦卷	Bird	Female	03/12	3	rock	pink
+066	Gruff	ビリー	比利	Goat	Male	08/29	5	scissors	green
+067	Flurry	ゆきみ	雪美	Hamster	Female	01/30	6	rock	brown
+068	Clyde	デースケ	大介	Horse	Male	05/01	2	paper	darkGreen
+069	Bella	イザベラ	伊芙	Mouse	Female	12/28	5	scissors	tangerine
+070	Biff	ガブリエル	加百列	Hippo	Male	03/29	3	rock	red
+071	Yuka	ユーカリ	尤加利	Koala	Female	07/20	1	scissors	blue
+072	Lionel	ライオネル	萊乃爾	Lion	Male	07/29	4	paper	sakura
+073	Flo	レイラ	蕾拉	Penguin	Female	09/02	2	scissors	green
+074	Cobb	ハカセ	博士	Pig	Male	10/07	3	rock	purple
+075	Amelia	アンデス	安迪絲	Eagle	Female	11/19	4	paper	yellow
+076	Jeremiah	クワトロ	四角	Frog	Male	07/08	5	scissors	blue
+077	Cherry	ハンナ	漢娜	Dog	Female	05/11	6	paper	darkGreen
+078	Roscoe	シュバルツ	乘龍	Horse	Male	06/16	1	rock	orange
+079	Truffles	トンコ	阿豚	Pig	Female	07/28	4	paper	sakura
+080	Eugene	ロッキー	洛乘	Koala	Male	10/26	3	scissors	yellow
+081	Eunice	モヘア	毛海	Sheep	Female	04/03	2	rock	red
+082	Goose	ケンタ	健太	Chicken	Male	10/04	5	paper	purple
+083	Annalisa	みやび	雅	Anteater	Female	02/06	1	rock	brown
+084	Benjamin	ハチ	小八	Dog	Male	08/03	6	scissors	sakura
+085	Pancetti	ブリトニー	布妮	Pig	Female	11/14	3	rock	yellow
+086	Chief	チーフ	乘龍	Wolf	Male	12/19	1	scissors	teal
+087	Bunnie	リリアン	莉莉安	Rabbit	Female	05/09	2	paper	darkGreen
+088	Clay	どぐろう	土偶	Hamster	Male	10/19	6	rock	purple
+089	Diana	ナタリー	娜塔莉	Deer	Female	01/04	5	paper	tangerine
+090	Axel	エックスエル	阿壯	Elephant	Male	03/23	4	scissors	red
+091	Muffy	フリル	芙莉露	Sheep	Female	02/14	6	paper	brown
+092	Henry	ヘンリー	亨利	Frog	Male	09/21	3	rock	green
+093	Bertha	あんこ	紅豆	Hippo	Female	04/25	4	scissors	darkGreen
+094	Cyrano	さくらじま	阿壯	Anteater	Male	03/09	2	paper	pink
+095	Peanut	ももこ	桃子	Squirrel	Female	06/08	1	scissors	orange
+096	Cole	アマミン	阿麻	Rabbit	Male	08/10	5	rock	sakura
+097	Willow	マリー	瑪莉	Sheep	Female	11/26	3	scissors	teal
+098	Roald	ペンタ	企鵝達	Penguin	Male	01/05	1	paper	tangerine
+099	Molly	カモミ	鴨美	Duck	Female	03/07	4	rock	pink
+100	Walker	ベン	阿班	Dog	Male	06/10	6	paper	orange
+101	K.K.	とたけけ	乘龍	Special	Male	08/23	2	rock	green
+102	Reese	リサ	莉詠	Special	Female	07/05	5	scissors	blue
+103	Kicks	シャンク	阿鞋	Special	Male	11/30	1	paper	teal
+104	Labelle	ケイト	琴乃	Special	Female	10/31	3	scissors	yellow
+105	Copper	おまわりさんA	門警A	Special	Male	06/28	2	rock	blue
+106	Booker	おまわりさんB	門警B	Special	Male	04/23	4	paper	darkGreen
+107	Katie	まいこちゃん	乘龍	Special	Female	10/22	6	rock	purple
+108	Tommy	つぶきち	粒吉	Special	Male	06/07	5	scissors	orange
+109	Porter	えきいんさん	站長	Special	Male	04/17	6	rock	red
+110	Leila	クク	夏美	Special	Female	08/16	5	paper	sakura
+111	Shrunk	ししょー	師匠	Special	Male	01/02	4	scissors	tangerine
+112	Don	ラケットさん	乘龍	Special	Male	05/01	2	rock	darkGreen
+113	Isabelle	しずえ	西施惠	Special	Female	12/20	3	paper	teal
+114	Blanca	あやしいネコ	怪貓	Special	Female	02/08	1	scissors	brown
+115	Nat	カメヤマさん	龜山	Special	Male	07/25	3	paper	sakura
+116	Chip	うおまさ	魚正	Special	Male	12/09	4	rock	teal
+117	Jack	パンプキング	南瓜王	Special	Male	10/31	2	scissors	yellow
+118	Poncho	ポンチョ	肌肉	Bear cub	Male	01/02	5	paper	tangerine
+119	Felicity	みかっち	蜜柑	Cat	Female	03/30	1	scissors	red
+120	Ozzie	ドングリ	宣夫	Koala	Male	05/07	6	rock	darkGreen
+121	Tia	ティーナ	蒂娜	Elephant	Female	11/18	1	scissors	yellow
+122	Lucha	マスカラス	雷斯利	Bird	Male	12/12	2	rock	teal
+123	Fuchsia	ジェシカ	安妮	Deer	Female	09/19	3	paper	green
+124	Harry	オリバー	哈力	Hippo	Male	01/07	4	scissors	tangerine
+125	Gwen	ポーラ	茱莉	Penguin	Female	01/23	5	paper	brown
+126	Coach	テッチャン	鐵丸	Bull	Male	04/29	6	rock	darkGreen
+127	Kitt	アップリケ	媽咪	Kangaroo	Female	10/11	5	paper	purple
+128	Tom	バンタム	崑奇	Cat	Male	12/10	1	scissors	teal
+129	Tipper	まきば	愛美	Cow	Female	08/25	6	rock	green
+130	Prince	カール	嘉次	Frog	Male	07/21	3	paper	blue
+131	Pate	ナッキー	倪奇	Duck	Female	02/23	4	rock	pink
+132	Vladimir	ガビ	恰可	Bear cub	Male	08/02	2	scissors	sakura
+133	Savannah	サバンナ	莎彬娜	Horse	Female	01/25	5	rock	brown
+134	Kidd	やさお	文生	Goat	Male	06/28	3	scissors	blue
+135	Phoebe	ヒノコ	火鳥	Ostrich	Female	04/22	1	paper	darkGreen
+136	Egbert	しもやけ	蛋蛋	Chicken	Male	10/14	4	rock	purple
+137	Cookie	ペリーヌ	真琴	Dog	Female	06/18	6	paper	orange
+138	Sly	ハイド	乘龍	Alligator	Male	11/15	2	scissors	yellow
+139	Blaire	シルエット	乘龍	Squirrel	Female	07/03	4	paper	blue
+140	Avery	クスケチャ	太平	Eagle	Male	02/22	1	rock	pink
+141	Nana	チッチ	琪琪	Monkey	Female	08/23	2	scissors	green
+142	Peck	ふみたろう	達磨	Bird	Male	07/25	6	paper	sakura
+143	Olivia	オリビア	乘龍	Cat	Female	02/03	3	scissors	brown
+144	Cesar	アラン	波以德	Gorilla	Male	09/06	5	rock	green
+145	Carmen	チョコ	乘龍	Rabbit	Female	01/06	4	scissors	tangerine
+146	Rodney	ジミー	吉米	Hamster	Male	11/10	3	rock	yellow
+147	Scoot	マモル	阿倒	Duck	Male	06/13	2	paper	orange
+148	Whitney	ビアンカ	碧安卡	Wolf	Female	09/17	1	rock	green
+149	Broccolo	ブロッコリー	服子	Mouse	Male	06/30	6	scissors	blue
+150	Coco	やよい	彌生	Rabbit	Female	03/01	5	paper	pink
+151	Groucho	クロー	岡薩雷斯	Bear	Male	10/23	3	scissors	purple
+152	Wendy	みぞれ	壓克力	Sheep	Female	08/15	1	paper	sakura
+153	Alfonso	アルベルト	阿博	Alligator	Male	06/09	5	rock	orange
+154	Rhonda	ユメコ	乘龍	Rhino	Female	01/24	6	paper	brown
+155	Butch	ジョン	乘龍	Dog	Male	11/01	4	scissors	yellow
+156	Gabi	ペチカ	莉莉	Rabbit	Female	12/16	2	rock	teal
+157	Moose	ピン	亞瑟	Mouse	Male	09/13	6	scissors	green
+158	Timbra	つかさ	梅莉	Sheep	Female	10/21	1	paper	purple
+159	Zell	ネルソン	尼爾森	Deer	Male	06/07	5	rock	orange
+160	Pekoe	ジャスミン	乘龍	Bear cub	Female	05/18	2	paper	darkGreen
+161	Teddy	たいへいた	乘龍	Bear	Male	09/26	4	rock	purple
+162	Mathilda	アザラク	阿格	Kangaroo	Female	11/12	3	scissors	yellow
+163	Ed	キザノホマレ	沙拉	Horse	Male	09/16	1	rock	green
+164	Bianca	コユキ	小雪	Tiger	Female	12/13	5	paper	teal
+165	Filbert	リッキー	瑞奇	Squirrel	Male	06/03	2	scissors	orange
+166	Kitty	ショコラ	巧可	Cat	Female	02/15	4	rock	brown
+167	Beau	ペーター	彼得	Deer	Male	04/05	3	scissors	red
+168	Nan	スミ	乘龍	Goat	Female	08/24	6	paper	green
+169	Bud	グラさん	馬薩拉	Lion	Male	08/08	5	scissors	sakura
+170	Ruby	ルナ	芙蘭	Rabbit	Female	12/25	6	rock	tangerine
+171	Benedict	ぺしみち	乘龍	Chicken	Male	10/10	3	paper	purple
+172	Agnes	アグネス	安妮絲	Pig	Female	04/21	4	scissors	darkGreen
+173	Julian	ジュリー	乘龍	Horse	Male	03/15	2	paper	pink
+174	Bettina	マルコ	千歲	Mouse	Female	06/12	1	rock	orange
+175	Jay	ツバクロ	燕太郎	Bird	Male	07/17	2	paper	blue
+176	Sprinkle	フラッペ	刨冰	Penguin	Female	02/20	6	scissors	pink
+177	Flip	さすけ	猴塞雷	Monkey	Male	11/21	1	rock	yellow
+178	Hugh	クッチャネ	戴克	Pig	Male	12/30	4	paper	tangerine
+179	Hopper	ダルマン	正男	Penguin	Male	04/06	5	rock	red
+180	Pecan	レベッカ	乘龍	Squirrel	Female	09/10	3	scissors	green
+181	Drake	フォアグラ	肥鵝肝	Duck	Male	06/25	6	rock	blue
+182	Alice	メルボルン	墨爾本	Koala	Female	08/19	4	scissors	sakura
+183	Camofrog	フルメタル	全金屬	Frog	Male	06/05	5	paper	orange
+184	Anicotti	ラザニア	乘龍	Mouse	Female	02/24	3	rock	pink
+185	Chops	トンファン	炸豬排	Pig	Male	10/13	1	paper	purple
+186	Charlise	チャーミー	乘龍	Bear	Female	04/17	2	scissors	red
+187	Vic	ノルマン	大武	Bull	Male	12/29	1	paper	tangerine
+188	Ankha	ナイル	尼羅	Cat	Female	09/22	3	rock	green
+189	Drift	ドク	乘龍	Frog	Male	10/09	5	scissors	purple
+190	Vesta	メリヤス	梅伊	Sheep	Female	04/16	2	paper	red
+191	Marcel	もんじゃ	法蘭	Dog	Male	12/31	4	scissors	tangerine
+192	Pango	パトラ	帕特拉	Anteater	Female	11/09	6	rock	yellow
+193	Keaton	フランク	阿波羅	Eagle	Male	06/01	3	scissors	orange
+194	Gladys	ちとせ	小櫻	Ostrich	Female	01/15	4	paper	tangerine
+195	Hamphrey	ハムジ	哈姆	Hamster	Male	02/25	2	rock	pink
+196	Freya	ツンドラ	凍原	Wolf	Female	12/14	5	paper	teal
+197	Kid Cat	1ごう	一號	Cat	Male	08/01	6	rock	sakura
+198	Agent S	2ごう	二號	Squirrel	Female	07/02	1	scissors	blue
+199	Big Top	3ごう	三號	Elephant	Male	10/03	3	rock	purple
+200	Rocket	4ごう	四號	Gorilla	Female	04/14	1	paper	red
+201	Rover	みしらぬネコ	乘龍	Special	Male	02/01	6	scissors	brown
+202	Blathers	フータ	傅達	Special	Male	09/24	2	rock	purple
+203	Tom Nook	たぬきち	狸克	Special	Male	05/30	4	paper	orange
+204	Pelly	ぺりこ	佩莉	Special	Female	03/19	5	rock	pink
+205	Phyllis	ぺりみ	珮苓	Special	Female	11/21	6	scissors	yellow
+206	Pete	ぺりお	佩利歐	Special	Male	03/08	5	rock	pink
+207	Mabel	きぬよ	衣代	Special	Female	05/22	4	paper	orange
+208	Leif	レイジ	然然	Special	Male	08/08	3	rock	sakura
+209	Wendell	セイイチ	誠一	Special	Male	02/25	2	scissors	pink
+210	Cyrus	カイゾー	乘龍	Special	Male	01/26	1	paper	brown
+211	Grams	ゲコ	乘龍	Special	Female	04/15	2	scissors	red
+212	Timmy	まめきち	豆吉	Special	Male	06/07	4	paper	orange
+213	Digby	ケント	健兆	Special	Male	12/20	3	rock	teal
+214	Don	ラケットさん	乘龍	Special	Male	05/01	1	paper	darkGreen
+215	Isabelle	しずえ	西施惠	Special	Female	12/20	6	rock	teal
+216	Franklin	フランクリン	法蘭	Special	Male	10/10	5	scissors	purple
+217	Jingle	ジングル	叮鈴	Special	Male	12/24	1	rock	tangerine
+218	Lily	レイニー	蕾妮	Frog	Female	02/04	2	scissors	brown
+219	Anchovy	アンチョビ	鯷魚	Bird	Male	03/04	3	paper	pink
+220	Tabby	トラこ	乘龍	Cat	Female	08/13	4	scissors	sakura
+221	Kody	アイダホ	帕其	Bear cub	Male	09/28	5	paper	purple
+222	Miranda	ミランダ	塔琪安娜	Duck	Female	04/23	6	rock	darkGreen
+223	Del	ヤマト	阿深	Alligator	Male	05/27	5	paper	orange
+224	Paula	レイチェル	潔西卡	Bear	Female	03/22	3	scissors	red
+225	Ken	クロベエ	歌舞	Chicken	Male	12/23	1	rock	tangerine
+226	Mitzi	マール	麥克	Cat	Female	09/25	4	paper	purple
+227	Rodeo	ロデオ	羅迪歐	Bull	Male	10/29	6	rock	yellow
+228	Bubbles	チャコ	恰可	Hippo	Female	09/18	2	scissors	green
+229	Cousteau	ハルマキ	乘龍	Frog	Male	12/17	4	rock	teal
+230	Velma	ピティエ	瓦內莎	Goat	Female	01/14	3	scissors	tangerine
+231	Elvis	キング	乘龍	Lion	Male	07/23	2	paper	sakura
+232	Canberra	キャンベラ	坎培拉	Koala	Female	05/14	1	rock	darkGreen
+233	Colton	アンソニー	安東尼奧	Horse	Male	05/22	6	paper	orange
+234	Marina	タコリーナ	章丸丸	Octopus	Female	06/26	5	scissors	blue
+235	Spork	ポーク	肌肉	Pig	Male	09/03	3	paper	green
+236	Freckles	マグロ	乘龍	Duck	Female	02/19	1	rock	pink
+237	Bam	タケル	大武	Deer	Male	11/07	5	scissors	yellow
+238	Friga	サブリナ	莎賓娜	Penguin	Female	10/16	6	paper	purple
+239	Ricky	カジロウ	亞倫	Squirrel	Male	09/14	4	scissors	green
+240	Deirdre	ナディア	娜迪亞	Deer	Female	05/04	2	rock	darkGreen
+241	Hans	スナイル	乘龍	Gorilla	Male	12/05	6	scissors	teal
+242	Chevre	ユキ	小雪	Goat	Female	03/06	1	rock	pink
+243	Drago	タツオ	龍男	Alligator	Male	02/12	5	paper	brown
+244	Tangy	ヒャクパー	百趴	Cat	Female	06/17	2	rock	orange
+245	Mac	チャンプ	毛吉	Dog	Male	11/11	4	scissors	yellow
+246	Eloise	エレフィン	艾勒芬	Elephant	Female	12/08	3	paper	teal
+247	Wart Jr.	サム	乘龍	Frog	Male	08/21	1	scissors	sakura
+248	Hazel	アイリス	春捲	Squirrel	Female	08/30	5	paper	green
+249	Beardo	ベアード	乘龍	Bear	Male	09/27	2	rock	purple
+250	Ava	ドミグラ	乘龍	Chicken	Female	04/28	4	paper	darkGreen
+251	Chester	パンタ	乘龍	Bear cub	Male	08/06	3	scissors	sakura
+252	Merry	さっち	巧可	Cat	Female	06/29	6	rock	blue
+253	Genji	ゲンジ	源氏	Rabbit	Male	01/21	5	scissors	brown
+254	Greta	ふくこ	戴安	Mouse	Female	09/05	6	paper	green
+255	Wolfgang	ロボ	羅博	Wolf	Male	11/25	3	rock	teal
+256	Diva	アイーダ	乘龍	Frog	Female	10/02	4	paper	purple
+257	Klaus	クマロス	黑兵衛	Bear	Male	03/31	2	rock	red
+258	Daisy	バニラ	香草	Dog	Female	11/16	1	scissors	yellow
+259	Stinky	アセクサ	乘龍	Cat	Male	08/17	6	rock	sakura
+260	Tammi	エイプリル	愛達荷	Monkey	Female	04/02	2	paper	red
+261	Tucker	はじめ	乘龍	Elephant	Male	09/07	5	scissors	green
+262	Blanche	しのぶ	茱莉	Ostrich	Female	12/21	3	rock	teal
+263	Gaston	モサキチ	毛海	Rabbit	Male	10/28	1	scissors	yellow
+264	Marshal	ジュン	阿純	Squirrel	Male	09/29	4	paper	purple
+265	Gala	ためこ	乘龍	Pig	Female	03/05	2	scissors	pink
+266	Joey	リチャード	鐵丸	Duck	Male	01/03	3	rock	tangerine
+267	Pippy	ロッタ	花花	Rabbit	Female	06/14	4	paper	orange
+268	Buck	ヴァヤシコフ	乘龍	Horse	Male	04/04	5	scissors	red
+269	Bree	サラ	愛美	Mouse	Female	07/07	6	paper	blue
+270	Rooney	マイク	拳擊手	Kangaroo	Male	12/01	1	rock	teal
+271	Curlos	カルロス	乘龍	Sheep	Male	05/08	4	paper	darkGreen
+272	Skye	リリィ	天空	Wolf	Female	03/24	3	scissors	red
+273	Moe	ジンペイ	仁平	Cat	Male	01/12	2	rock	tangerine
+274	Flora	フララ	紅鶴	Ostrich	Female	02/09	5	paper	brown
+275	Hamlet	ハムスケ	乘龍	Hamster	Male	05/30	1	rock	orange
+276	Astrid	キッズ	乘龍	Kangaroo	Female	09/08	6	scissors	green
+277	Monty	サルモンティ	乘龍	Monkey	Male	12/07	3	rock	teal
+278	Dora	とめ	克莉琪	Mouse	Female	02/18	1	scissors	brown
+279	Biskit	ロビン	羅賓	Dog	Male	05/13	2	paper	darkGreen
+280	Victoria	セントアロー	乘龍	Horse	Female	07/11	6	rock	blue
+281	Lyman	オズモンド	番茄醬	Koala	Male	10/12	5	paper	purple
+282	Violet	ウズメ	乘龍	Gorilla	Female	09/01	4	scissors	green
+283	Frank	ハルク	麥克	Eagle	Male	07/30	1	paper	sakura
+284	Chadder	チーズ	乘龍	Mouse	Male	12/15	2	rock	teal
+285	Merengue	パティ	帕蒂	Rhino	Female	03/19	4	scissors	pink
+286	Cube	ビス	乘龍	Penguin	Male	01/29	3	paper	brown
+287	Claudia	マリリン	焦糖	Tiger	Female	11/22	6	scissors	yellow
+288	Curly	ハムカツ	炸豬排	Pig	Male	07/26	5	rock	sakura
+289	Boomer	ショーイ	乘龍	Penguin	Male	02/07	6	scissors	brown
+290	Caroline	キャロライン	卡洛琳	Squirrel	Female	07/15	1	paper	blue
+291	Sparro	ちゅんのすけ	乘龍	Bird	Male	11/20	3	rock	yellow
+292	Baabara	トロワ	乘龍	Sheep	Female	03/28	5	scissors	red
+293	Rolf	チョモラン	乘龍	Tiger	Male	08/22	4	rock	sakura
+294	Maple	メープル	楓葉	Bear cub	Female	06/15	2	paper	orange
+295	Antonio	マコト	安東尼奧	Anteater	Male	10/20	1	rock	purple
+296	Soleil	シャンティ	桑迪	Hamster	Female	08/09	2	scissors	sakura
+297	Apollo	アポロ	阿波羅	Eagle	Male	07/04	3	paper	blue
+298	Derwin	ボン	乘龍	Duck	Male	05/25	4	scissors	orange
+299	Francine	フランソワ	芙蘭	Rabbit	Female	01/22	5	paper	brown
+300	Chrissy	クリスチーヌ	乘龍	Rabbit	Female	08/28	6	rock	green
+301	Isabelle	しずえ	西施惠	Special	Female	12/20	5	paper	teal
+302	Brewster	マスター	店長	Special	Male	10/15	4	rock	purple
+303	Katrina	ハッケミィ	乘龍	Special	Female	10/28	2	scissors	yellow
+304	Phineas	パロンチーノ	乘龍	Special	Male	06/20	3	paper	orange
+305	Celeste	フーコ	傅珂	Special	Female	09/07	6	scissors	green
+306	Tommy	つぶきち	粒吉	Special	Male	06/07	1	rock	orange
+307	Gracie	グレース	乘龍	Special	Female	11/14	3	scissors	yellow
+308	Leilani	クーコ	夏美	Special	Female	09/26	5	rock	purple
+309	Resetti	リセットさん	乘龍	Special	Male	04/06	1	paper	red
+310	Timmy	まめきち	豆吉	Special	Male	06/07	6	scissors	orange
+311	Lottie	タクミ	巧美	Special	Female	09/12	4	paper	green
+312	Shrunk	ししょー	師匠	Special	Male	01/02	2	rock	tangerine
+313	Pavé	ベルリーナ	帕乘	Special	Male	03/03	1	paper	pink
+314	Gulliver	ジョニー	乘龍	Special	Male	05/25	5	scissors	orange
+315	Redd	つねきち	狐利	Special	Male	10/18	4	rock	purple
+316	Zipper	ぴょんたろう	乘龍	Special	Male	03/11	3	paper	pink
+317	Goldie	キャラメル	村民	Dog	Male	12/27	2	rock	tangerine
+318	Stitches	パッチ	帕其	Bear cub	Male	02/10	6	scissors	brown
+319	Pinky	タンタン	瑞秋	Bear	Female	09/09	2	rock	green
+320	Mott	リック	森藏	Lion	Male	07/10	4	scissors	blue
+321	Mallary	スミモモ	四角	Duck	Female	11/17	6	paper	yellow
+322	Rocco	ゴンザレス	乘龍	Hippo	Male	08/18	1	scissors	sakura
+323	Katt	ちょい	乘龍	Cat	Female	04/27	3	paper	darkGreen
+324	Graham	グラハム	格雷漢	Hamster	Male	06/20	5	rock	orange
+325	Peaches	ドサコ	盆梅	Horse	Female	11/28	3	paper	teal
+326	Dizzy	ヒュージ	乘龍	Elephant	Male	07/14	1	scissors	blue
+327	Penelope	チューこ	企鵝達	Mouse	Female	02/05	5	rock	brown
+328	Boone	まんたろう	戴克	Gorilla	Male	09/12	6	scissors	green
+329	Broffina	カサンドラ	渦卷	Chicken	Female	10/24	4	paper	yellow
+330	Croque	タイシ	嘉次	Frog	Male	07/18	2	rock	blue
+331	Pashmina	バーバラ	芭芭拉	Goat	Female	12/26	6	paper	tangerine
+332	Shep	ボブ	波利斯	Dog	Male	11/24	1	scissors	teal
+333	Lolly	ラムネ	彈珠汽水	Cat	Female	03/27	5	rock	red
+334	Erik	チャック	乘龍	Deer	Male	07/27	2	paper	sakura
+335	Dotty	マーサ	瑪莎	Rabbit	Female	03/14	4	rock	pink
+336	Pierce	セバスチャン	安東尼	Eagle	Male	01/08	3	scissors	tangerine
+337	Queenie	タキュ	格雷歐	Ostrich	Female	11/13	1	rock	yellow
+338	Fang	シベリア	西伯利亞	Wolf	Male	12/18	5	paper	teal
+339	Frita	ウェンディ	小潤	Sheep	Female	07/16	2	scissors	blue
+340	Tex	ボルト	德州	Penguin	Male	10/06	4	rock	purple
+341	Melba	アデレード	墨爾本	Koala	Female	04/12	3	scissors	red
+342	Bones	トミ	阿富	Dog	Male	08/04	6	paper	sakura
+343	Anabelle	あるみ	紅豆	Anteater	Female	02/16	5	rock	brown
+344	Rudy	チャス	乘龍	Cat	Male	12/20	6	paper	teal
+345	Naomi	ハナコ	哈克	Cow	Female	02/28	3	scissors	pink
+346	Peewee	ダンベル	乘龍	Gorilla	Male	09/11	4	rock	green
+347	Tammy	アネッサ	安妮	Bear cub	Female	06/23	2	scissors	blue
+348	Olaf	アントニオ	亞倫	Anteater	Male	05/19	1	paper	darkGreen
+349	Lucy	ルーシー	莎莉	Pig	Female	06/02	3	scissors	orange
+350	Elmer	サブレ	火鳥	Horse	Male	10/05	1	rock	purple
+351	Puddles	チョキ	蕾妮	Frog	Female	01/13	6	paper	tangerine
+352	Rory	アーサー	乘龍	Lion	Male	08/07	2	scissors	sakura
+353	Elise	モンこ	乘龍	Monkey	Female	03/21	4	paper	red
+354	Walt	カンロク	乘龍	Kangaroo	Male	04/24	5	rock	darkGreen
+355	Mira	ミラコ	乘龍	Rabbit	Female	07/06	1	paper	blue
+356	Pietro	ジュペッティ	乘龍	Sheep	Male	04/19	4	scissors	red
+357	Aurora	オーロラ	歐若拉	Penguin	Female	01/27	2	rock	brown
+358	Papi	オカッピ	珀西瓦	Horse	Male	01/10	6	paper	tangerine
+359	Apple	アップル	蘋果	Hamster	Female	09/24	3	rock	purple
+360	Rod	ジャン	查克	Mouse	Male	08/14	5	scissors	sakura
+361	Purrl	たま	玉美	Cat	Female	05/29	2	rock	orange
+362	Static	スパーク	火花	Squirrel	Male	07/09	4	scissors	blue
+363	Celia	ティファニー	珍妮	Eagle	Female	03/25	6	paper	red
+364	Zucker	タコヤ	章丸丸	Octopus	Male	03/08	1	rock	pink
+365	Peggy	ちえり	阿格	Pig	Female	05/23	5	paper	orange
+366	Ribbot	ガチャ	乘龍	Frog	Male	02/13	3	scissors	brown
+367	Annalise	シルブプレ	乘龍	Horse	Female	12/02	1	paper	teal
+368	Chow	チャウヤン	乘龍	Bear	Male	07/22	6	rock	blue
+369	Sylvia	シルビア	乘龍	Kangaroo	Female	05/03	4	scissors	darkGreen
+370	Jacques	ジョッキー	傑克	Bird	Male	06/22	2	paper	blue
+371	Sally	ララミー	盆梅	Squirrel	Female	06/19	3	scissors	orange
+372	Doc	トビオ	海苔卷	Rabbit	Male	03/16	5	rock	pink
+373	Pompom	のりっぺ	恰可	Duck	Female	02/11	1	scissors	brown
+374	Tank	くるぶし	正男	Rhino	Male	05/06	2	rock	darkGreen
+375	Becky	アリア	娜塔莉	Chicken	Female	12/09	3	paper	teal
+376	Rizzo	ちょろきち	千歲	Mouse	Male	01/17	4	rock	tangerine
+377	Sydney	シドニー	乘龍	Koala	Female	06/21	5	scissors	orange
+378	Barold	ニッシー	宣夫	Bear cub	Male	03/02	6	paper	pink
+379	Nibbles	ガリガリ	乘龍	Squirrel	Female	07/19	2	scissors	blue
+380	Kevin	イノッチ	乘龍	Pig	Male	04/26	6	paper	darkGreen
+381	Gloria	スワンソン	莎賓娜	Duck	Female	08/12	1	rock	sakura
+382	Lobo	ブンジロウ	文次郎	Wolf	Male	11/05	3	paper	yellow
+383	Hippeux	ディビッド	大介	Hippo	Male	10/15	5	scissors	purple
+384	Margie	サリー	莎莉	Elephant	Female	01/28	4	rock	brown
+385	Lucky	ラッキー	好運	Dog	Male	11/04	1	scissors	yellow
+386	Rosie	ブーケ	花花	Cat	Female	02/27	4	paper	pink
+387	Rowan	ゴメス	章魚燒	Tiger	Male	08/26	2	rock	green
+388	Maelle	アンヌ	櫻桃	Duck	Female	04/08	6	paper	red
+389	Bruce	ブルース	布魯斯	Deer	Male	05/26	5	rock	orange
+390	O'Hare	サントス	薄荷	Rabbit	Male	07/24	3	scissors	sakura
+391	Gayle	アリゲッティ	乘龍	Alligator	Female	05/17	5	rock	darkGreen
+392	Cranston	トキオ	乘龍	Ostrich	Male	09/23	2	paper	purple
+393	Frobert	コージィ	卡爾	Frog	Male	02/08	6	scissors	brown
+394	Grizzly	ムー	阿牧	Bear	Male	07/31	4	rock	sakura
+395	Cally	パセリ	巴西利	Squirrel	Female	09/04	3	scissors	green
+396	Simon	エテキチ	乘龍	Monkey	Male	01/19	1	paper	tangerine
+397	Iggly	のりまき	企鵝達	Penguin	Male	11/02	2	scissors	yellow
+398	Angus	セルバンテス	波爾奇	Bull	Male	04/30	5	rock	darkGreen
+399	Twiggy	ピーチク	皮可蘿	Bird	Female	07/13	4	paper	blue
+400	Robin	パーチク	時雄	Bird	Female	12/04	3	scissors	teal
+401	Tom Nook	たぬきち	狸克	Special	Male	05/30			orange
+402	Timmy & Tommy	まめきち＆つぶきち	豆吉&粒吉	Special	Male	06/07			orange
+403	Isabelle	しずえ	西施惠	Special	Female	12/20			teal
+404	Orville	モーリー	莫利	Special	Male	10/02			purple
+405	Wilbur	ロドリー	羅德利	Special	Male	07/04			blue
+406	Blathers	フータ	傅達	Special	Male	09/24			purple
+407	Celeste	フーコ	傅珂	Special	Female	09/07			green
+408	Mabel	きぬよ	衣代	Special	Female	05/22			orange
+409	Sable	あさみ	絹代	Special	Female	11/22			yellow
+410	Label	ことの	琴乃	Special	Female	10/31			yellow
+411	K.K.	とたけけ	乘龍	Special	Male	08/23			green
+412	C.J.	ジャスティン	賈斯丁	Special	Male	03/07			pink
+413	Flick	レックス	俐落思	Special	Male	05/10			darkGreen
+414	Daisy Mae	ウリ	曹賣妹	Special	Female	03/30			red
+415	Kicks	シャンク	阿鞋	Special	Male	11/30			teal
+416	Saharah	ローラン	乘龍	Special	Female	11/10			yellow
+417	Harvey	パニエル	巴獵	Special	Male	08/02			sakura
+418	Gulliver	ジョニー	乘龍	Special	Male	05/25			orange
+419	Wisp	ゆうたろう	幽太郎	Special	Male	02/26			pink
+420	Lottie	タクミ	巧美	Special	Female	09/12			green
+421	Niko	ニコ	尼克	Special	Male	01/11			tangerine
+422	Wardell	ナッティー	浩一	Special	Male	02/07			brown
+423	Tom Nook	たぬきち	狸克	Special	Male	05/30			orange
+424	Isabelle	しずえ	西施惠	Special	Female	12/20			teal
+425	Sherb	レム	雷姆	Goat	Male	01/18			tangerine
+426	Megan	キャンディ	惠美	Bear	Female	03/13			pink
+427	Dom	ちゃちゃまる	恰恰	Sheep	Male	03/18			pink
+428	Audie	モニカ	莫妮卡	Wolf	Female	08/31			green
+429	Cyd	パンクス	乘龍	Elephant	Male	06/09			orange
+430	Judy	みすず	美鈴	Bear cub	Female	03/10			pink
+431	Raymond	ジャック	傑克	Cat	Male	10/01			purple
+432	Reneigh	リアーナ	蕾妮	Horse	Female	06/04			orange
+433	Sasha	ミッチェル	米乘爾	Rabbit	Male	05/19			darkGreen
+434	Ione	スピカ	蜜拉可	Squirrel	Female	09/11			green
+435	Tiansheng	テンシン	天神	Monkey	Male	08/18			sakura
+436	Shino	よしの	詩乃	Deer	Female	10/31			yellow
+437	Marlo	ドンチャン	卡西諾	Hamster	Male	06/26			blue
+438	Petri	リカ	茱莉亞	Mouse	Female	10/23			purple
+439	Cephalobot	ギーガー	仁平	Octopus	Male	04/01			red
+440	Quinn	シオン	秀吉	Eagle	Female	01/20			brown
+441	Chabwick	のぶお	乘龍	Penguin	Male	12/24			tangerine
+442	Zoe	ビーフン	乘龍	Anteater	Female	02/10			brown
+443	Ace	フェザー	秀一	Bird	Male	08/11			sakura
+444	Rio	デジャネイロ	乘龍	Ostrich	Female	09/10			green
+445	Frett	シャンペン	哈姆	Dog	Male	10/30			yellow
+446	Azalea	ペチュニア	杜鵑	Rhino	Female	12/18			teal
+447	Roswell	ピロンコン	波以德	Alligator	Male	05/02			darkGreen
+448	Faith	マーチ	光男	Koala	Female	03/21			red

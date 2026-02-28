@@ -1,0 +1,9410 @@
+[
+  {
+    "id": "001",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Isabelle",
+      "ja": "しずえ",
+      "zh-Hant": "西施惠"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "12/20",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "teal",
+    "image": "001.png"
+  },
+  {
+    "id": "002",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Tom Nook",
+      "ja": "たぬきち",
+      "zh-Hant": "狸克"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "05/30",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "orange",
+    "image": "002.png"
+  },
+  {
+    "id": "003",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "DJ KK",
+      "ja": "DJ K.K",
+      "zh-Hant": "DJ KK"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "08/23",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "green",
+    "image": "003.png"
+  },
+  {
+    "id": "004",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Sable",
+      "ja": "あさみ",
+      "zh-Hant": "絹代"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "11/22",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "yellow",
+    "image": "004.png"
+  },
+  {
+    "id": "005",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Kapp'n",
+      "ja": "かっぺい",
+      "zh-Hant": "航平"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "07/12",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "blue",
+    "image": "005.png"
+  },
+  {
+    "id": "006",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Resetti",
+      "ja": "リセットさん",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "04/06",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "red",
+    "image": "006.png"
+  },
+  {
+    "id": "007",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Joan",
+      "ja": "カブリバ",
+      "zh-Hant": "曹賣"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "01/08",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "tangerine",
+    "image": "007.png"
+  },
+  {
+    "id": "008",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Timmy",
+      "ja": "まめきち",
+      "zh-Hant": "豆吉"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "06/07",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "008.png"
+  },
+  {
+    "id": "009",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Digby",
+      "ja": "ケント",
+      "zh-Hant": "健兆"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "12/20",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "teal",
+    "image": "009.png"
+  },
+  {
+    "id": "010",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Pascal",
+      "ja": "ラコスケ",
+      "zh-Hant": "阿獺"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "07/19",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "blue",
+    "image": "010.png"
+  },
+  {
+    "id": "011",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Harriet",
+      "ja": "カットリーヌ",
+      "zh-Hant": "凱薩琳"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "01/31",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "brown",
+    "image": "011.png"
+  },
+  {
+    "id": "012",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Redd",
+      "ja": "つねきち",
+      "zh-Hant": "狐利"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "10/18",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "012.png"
+  },
+  {
+    "id": "013",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Saharah",
+      "ja": "ローラン",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "11/10",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "013.png"
+  },
+  {
+    "id": "014",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Luna",
+      "ja": "ゆめみ",
+      "zh-Hant": "夢美"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "02/29",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "pink",
+    "image": "014.png"
+  },
+  {
+    "id": "015",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Tortimer",
+      "ja": "コトブキ",
+      "zh-Hant": "壽伯"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "12/31",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "tangerine",
+    "image": "015.png"
+  },
+  {
+    "id": "016",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Lyle",
+      "ja": "ホンマさん",
+      "zh-Hant": "保美"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "06/06",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "016.png"
+  },
+  {
+    "id": "017",
+    "series": 1,
+    "type": "special",
+    "name": {
+      "en": "Lottie",
+      "ja": "タクミ",
+      "zh-Hant": "巧美"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "09/12",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "green",
+    "image": "017.png"
+  },
+  {
+    "id": "018",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Bob",
+      "ja": "ニコバン",
+      "zh-Hant": "阿判"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Male",
+    "birthday": "01/01",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "tangerine",
+    "image": "018.png"
+  },
+  {
+    "id": "019",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Fauna",
+      "ja": "ドレミ",
+      "zh-Hant": "朵蕾咪"
+    },
+    "species": {
+      "en": "Deer",
+      "ja": "シカ",
+      "zh-Hant": "鹿"
+    },
+    "gender": "Female",
+    "birthday": "03/26",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "red",
+    "image": "019.png"
+  },
+  {
+    "id": "020",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Curt",
+      "ja": "ガンテツ",
+      "zh-Hant": "鐵熊"
+    },
+    "species": {
+      "en": "Bear",
+      "ja": "クマ",
+      "zh-Hant": "熊"
+    },
+    "gender": "Male",
+    "birthday": "07/01",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "blue",
+    "image": "020.png"
+  },
+  {
+    "id": "021",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Portia",
+      "ja": "ブレンダ",
+      "zh-Hant": "布蘭達"
+    },
+    "species": {
+      "en": "Dog",
+      "ja": "イヌ",
+      "zh-Hant": "狗"
+    },
+    "gender": "Female",
+    "birthday": "10/25",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "021.png"
+  },
+  {
+    "id": "022",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Leonardo",
+      "ja": "ヒョウタ",
+      "zh-Hant": "秀太"
+    },
+    "species": {
+      "en": "Tiger",
+      "ja": "トラ",
+      "zh-Hant": "老虎"
+    },
+    "gender": "Male",
+    "birthday": "05/15",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "darkGreen",
+    "image": "022.png"
+  },
+  {
+    "id": "023",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Cheri",
+      "ja": "アセロラ",
+      "zh-Hant": "櫻桃"
+    },
+    "species": {
+      "en": "Bear cub",
+      "ja": "コグマ",
+      "zh-Hant": "小熊"
+    },
+    "gender": "Female",
+    "birthday": "03/17",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "pink",
+    "image": "023.png"
+  },
+  {
+    "id": "024",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Kyle",
+      "ja": "リカルド",
+      "zh-Hant": "李乾"
+    },
+    "species": {
+      "en": "Wolf",
+      "ja": "オオカミ",
+      "zh-Hant": "狼"
+    },
+    "gender": "Male",
+    "birthday": "12/06",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "teal",
+    "image": "024.png"
+  },
+  {
+    "id": "025",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Al",
+      "ja": "たもつ",
+      "zh-Hant": "阿保"
+    },
+    "species": {
+      "en": "Gorilla",
+      "ja": "ゴリラ",
+      "zh-Hant": "猩猩"
+    },
+    "gender": "Male",
+    "birthday": "10/18",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "purple",
+    "image": "025.png"
+  },
+  {
+    "id": "026",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Renée",
+      "ja": "おさい",
+      "zh-Hant": "戴安"
+    },
+    "species": {
+      "en": "Rhino",
+      "ja": "サイ",
+      "zh-Hant": "犀牛"
+    },
+    "gender": "Female",
+    "birthday": "05/28",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "orange",
+    "image": "026.png"
+  },
+  {
+    "id": "027",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Lopez",
+      "ja": "トムソン",
+      "zh-Hant": "湯仕"
+    },
+    "species": {
+      "en": "Deer",
+      "ja": "シカ",
+      "zh-Hant": "鹿"
+    },
+    "gender": "Male",
+    "birthday": "08/20",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "sakura",
+    "image": "027.png"
+  },
+  {
+    "id": "028",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Jambette",
+      "ja": "エスメラルダ",
+      "zh-Hant": "艾絲梅拉達"
+    },
+    "species": {
+      "en": "Frog",
+      "ja": "カエル",
+      "zh-Hant": "青蛙"
+    },
+    "gender": "Female",
+    "birthday": "10/27",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "028.png"
+  },
+  {
+    "id": "029",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Rasher",
+      "ja": "グレオ",
+      "zh-Hant": "格雷歐"
+    },
+    "species": {
+      "en": "Pig",
+      "ja": "ブタ",
+      "zh-Hant": "豬"
+    },
+    "gender": "Male",
+    "birthday": "04/07",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "red",
+    "image": "029.png"
+  },
+  {
+    "id": "030",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Tiffany",
+      "ja": "バズレー",
+      "zh-Hant": "露西"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Female",
+    "birthday": "01/09",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "tangerine",
+    "image": "030.png"
+  },
+  {
+    "id": "031",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Sheldon",
+      "ja": "クリス",
+      "zh-Hant": "柯利斯"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Male",
+    "birthday": "02/26",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "pink",
+    "image": "031.png"
+  },
+  {
+    "id": "032",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Bluebear",
+      "ja": "グルミン",
+      "zh-Hant": "小潤"
+    },
+    "species": {
+      "en": "Bear cub",
+      "ja": "コグマ",
+      "zh-Hant": "小熊"
+    },
+    "gender": "Female",
+    "birthday": "06/24",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "blue",
+    "image": "032.png"
+  },
+  {
+    "id": "033",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Bill",
+      "ja": "ピータン",
+      "zh-Hant": "皮蛋"
+    },
+    "species": {
+      "en": "Duck",
+      "ja": "アヒル",
+      "zh-Hant": "鴨"
+    },
+    "gender": "Male",
+    "birthday": "02/01",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "brown",
+    "image": "033.png"
+  },
+  {
+    "id": "034",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Kiki",
+      "ja": "キャビア",
+      "zh-Hant": "嘉碧"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Female",
+    "birthday": "10/08",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "purple",
+    "image": "034.png"
+  },
+  {
+    "id": "035",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Deli",
+      "ja": "デリー",
+      "zh-Hant": "狄利"
+    },
+    "species": {
+      "en": "Monkey",
+      "ja": "サル",
+      "zh-Hant": "猴子"
+    },
+    "gender": "Male",
+    "birthday": "05/24",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "orange",
+    "image": "035.png"
+  },
+  {
+    "id": "036",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Alli",
+      "ja": "クロコ",
+      "zh-Hant": "鱷羅斯"
+    },
+    "species": {
+      "en": "Alligator",
+      "ja": "ワニ",
+      "zh-Hant": "鱷魚"
+    },
+    "gender": "Female",
+    "birthday": "11/08",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "036.png"
+  },
+  {
+    "id": "037",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Kabuki",
+      "ja": "かぶきち",
+      "zh-Hant": "歌舞伎"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Male",
+    "birthday": "11/29",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "teal",
+    "image": "037.png"
+  },
+  {
+    "id": "038",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Patty",
+      "ja": "カルピ",
+      "zh-Hant": "嘉碧"
+    },
+    "species": {
+      "en": "Cow",
+      "ja": "ウシ",
+      "zh-Hant": "乳牛"
+    },
+    "gender": "Female",
+    "birthday": "05/10",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "darkGreen",
+    "image": "038.png"
+  },
+  {
+    "id": "039",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Jitters",
+      "ja": "ジーニョ",
+      "zh-Hant": "紀諾"
+    },
+    "species": {
+      "en": "Bird",
+      "ja": "トリ",
+      "zh-Hant": "鳥"
+    },
+    "gender": "Male",
+    "birthday": "02/02",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "brown",
+    "image": "039.png"
+  },
+  {
+    "id": "040",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Gigi",
+      "ja": "リンダ",
+      "zh-Hant": "琳達"
+    },
+    "species": {
+      "en": "Frog",
+      "ja": "カエル",
+      "zh-Hant": "青蛙"
+    },
+    "gender": "Female",
+    "birthday": "08/11",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "sakura",
+    "image": "040.png"
+  },
+  {
+    "id": "041",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Quillson",
+      "ja": "タックン",
+      "zh-Hant": "阿達"
+    },
+    "species": {
+      "en": "Duck",
+      "ja": "アヒル",
+      "zh-Hant": "鴨"
+    },
+    "gender": "Male",
+    "birthday": "12/22",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "tangerine",
+    "image": "041.png"
+  },
+  {
+    "id": "042",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Marcie",
+      "ja": "マリア",
+      "zh-Hant": "瑪利亞"
+    },
+    "species": {
+      "en": "Kangaroo",
+      "ja": "カンガルー",
+      "zh-Hant": "袋鼠"
+    },
+    "gender": "Female",
+    "birthday": "05/31",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "orange",
+    "image": "042.png"
+  },
+  {
+    "id": "043",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Puck",
+      "ja": "ホッケー",
+      "zh-Hant": "阿冰"
+    },
+    "species": {
+      "en": "Penguin",
+      "ja": "ペンギン",
+      "zh-Hant": "企鵝"
+    },
+    "gender": "Male",
+    "birthday": "02/21",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "pink",
+    "image": "043.png"
+  },
+  {
+    "id": "044",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Shari",
+      "ja": "シェリー",
+      "zh-Hant": "雪莉"
+    },
+    "species": {
+      "en": "Monkey",
+      "ja": "サル",
+      "zh-Hant": "猴子"
+    },
+    "gender": "Female",
+    "birthday": "04/10",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "red",
+    "image": "044.png"
+  },
+  {
+    "id": "045",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Octavian",
+      "ja": "おくたろう",
+      "zh-Hant": "章魚燒"
+    },
+    "species": {
+      "en": "Octopus",
+      "ja": "タコ",
+      "zh-Hant": "章魚"
+    },
+    "gender": "Male",
+    "birthday": "09/20",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "green",
+    "image": "045.png"
+  },
+  {
+    "id": "046",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Winnie",
+      "ja": "マキバスター",
+      "zh-Hant": "夢奇"
+    },
+    "species": {
+      "en": "Horse",
+      "ja": "ウマ",
+      "zh-Hant": "馬"
+    },
+    "gender": "Female",
+    "birthday": "01/31",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "brown",
+    "image": "046.png"
+  },
+  {
+    "id": "047",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Knox",
+      "ja": "キンカク",
+      "zh-Hant": "金角"
+    },
+    "species": {
+      "en": "Chicken",
+      "ja": "ニワトリ",
+      "zh-Hant": "雞"
+    },
+    "gender": "Male",
+    "birthday": "11/23",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "teal",
+    "image": "047.png"
+  },
+  {
+    "id": "048",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Sterling",
+      "ja": "ギンカク",
+      "zh-Hant": "銀角"
+    },
+    "species": {
+      "en": "Eagle",
+      "ja": "ワシ",
+      "zh-Hant": "鷹"
+    },
+    "gender": "Male",
+    "birthday": "12/11",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "teal",
+    "image": "048.png"
+  },
+  {
+    "id": "049",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Bonbon",
+      "ja": "ミミィ",
+      "zh-Hant": "蜜米"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Female",
+    "birthday": "03/03",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "pink",
+    "image": "049.png"
+  },
+  {
+    "id": "050",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Punchy",
+      "ja": "ビンタ",
+      "zh-Hant": "彬太"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Male",
+    "birthday": "04/11",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "red",
+    "image": "050.png"
+  },
+  {
+    "id": "051",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Opal",
+      "ja": "オパール",
+      "zh-Hant": "蛋白石"
+    },
+    "species": {
+      "en": "Elephant",
+      "ja": "ゾウ",
+      "zh-Hant": "大象"
+    },
+    "gender": "Female",
+    "birthday": "01/20",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "brown",
+    "image": "051.png"
+  },
+  {
+    "id": "052",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Poppy",
+      "ja": "グミ",
+      "zh-Hant": "古蜜"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Female",
+    "birthday": "08/05",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "sakura",
+    "image": "052.png"
+  },
+  {
+    "id": "053",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Limberg",
+      "ja": "らっきょ",
+      "zh-Hant": "辣醬"
+    },
+    "species": {
+      "en": "Mouse",
+      "ja": "ネズミ",
+      "zh-Hant": "老鼠"
+    },
+    "gender": "Male",
+    "birthday": "10/17",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "purple",
+    "image": "053.png"
+  },
+  {
+    "id": "054",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Deena",
+      "ja": "まりも",
+      "zh-Hant": "茉莉"
+    },
+    "species": {
+      "en": "Duck",
+      "ja": "アヒル",
+      "zh-Hant": "鴨"
+    },
+    "gender": "Female",
+    "birthday": "06/27",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "blue",
+    "image": "054.png"
+  },
+  {
+    "id": "055",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Snake",
+      "ja": "モモチ",
+      "zh-Hant": "桃之"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Male",
+    "birthday": "11/03",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "055.png"
+  },
+  {
+    "id": "056",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Bangle",
+      "ja": "ルーズ",
+      "zh-Hant": "露絲"
+    },
+    "species": {
+      "en": "Tiger",
+      "ja": "トラ",
+      "zh-Hant": "老虎"
+    },
+    "gender": "Female",
+    "birthday": "08/27",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "green",
+    "image": "056.png"
+  },
+  {
+    "id": "057",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Phil",
+      "ja": "ケイン",
+      "zh-Hant": "凱恩"
+    },
+    "species": {
+      "en": "Ostrich",
+      "ja": "ダチョウ",
+      "zh-Hant": "鴕鳥"
+    },
+    "gender": "Male",
+    "birthday": "11/27",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "teal",
+    "image": "057.png"
+  },
+  {
+    "id": "058",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Monique",
+      "ja": "ジェーン",
+      "zh-Hant": "珍妮"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Female",
+    "birthday": "09/30",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "purple",
+    "image": "058.png"
+  },
+  {
+    "id": "059",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Nate",
+      "ja": "バッカス",
+      "zh-Hant": "巴格斯"
+    },
+    "species": {
+      "en": "Bear",
+      "ja": "クマ",
+      "zh-Hant": "熊"
+    },
+    "gender": "Male",
+    "birthday": "08/16",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "sakura",
+    "image": "059.png"
+  },
+  {
+    "id": "060",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Samson",
+      "ja": "ピース",
+      "zh-Hant": "阿健"
+    },
+    "species": {
+      "en": "Mouse",
+      "ja": "ネズミ",
+      "zh-Hant": "老鼠"
+    },
+    "gender": "Male",
+    "birthday": "07/05",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "blue",
+    "image": "060.png"
+  },
+  {
+    "id": "061",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Tutu",
+      "ja": "れんにゅう",
+      "zh-Hant": "仁乳"
+    },
+    "species": {
+      "en": "Bear",
+      "ja": "クマ",
+      "zh-Hant": "熊"
+    },
+    "gender": "Female",
+    "birthday": "09/15",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "green",
+    "image": "061.png"
+  },
+  {
+    "id": "062",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "T-Bone",
+      "ja": "ボルシチ",
+      "zh-Hant": "波麗"
+    },
+    "species": {
+      "en": "Bull",
+      "ja": "ウシ",
+      "zh-Hant": "公牛"
+    },
+    "gender": "Male",
+    "birthday": "05/20",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "darkGreen",
+    "image": "062.png"
+  },
+  {
+    "id": "063",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Mint",
+      "ja": "ミント",
+      "zh-Hant": "薄荷"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Female",
+    "birthday": "05/02",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "darkGreen",
+    "image": "063.png"
+  },
+  {
+    "id": "064",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Pudge",
+      "ja": "きんぞう",
+      "zh-Hant": "金三"
+    },
+    "species": {
+      "en": "Bear cub",
+      "ja": "コグマ",
+      "zh-Hant": "小熊"
+    },
+    "gender": "Male",
+    "birthday": "06/11",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "064.png"
+  },
+  {
+    "id": "065",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Midge",
+      "ja": "うずまき",
+      "zh-Hant": "渦卷"
+    },
+    "species": {
+      "en": "Bird",
+      "ja": "トリ",
+      "zh-Hant": "鳥"
+    },
+    "gender": "Female",
+    "birthday": "03/12",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "pink",
+    "image": "065.png"
+  },
+  {
+    "id": "066",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Gruff",
+      "ja": "ビリー",
+      "zh-Hant": "比利"
+    },
+    "species": {
+      "en": "Goat",
+      "ja": "ヤギ",
+      "zh-Hant": "山羊"
+    },
+    "gender": "Male",
+    "birthday": "08/29",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "green",
+    "image": "066.png"
+  },
+  {
+    "id": "067",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Flurry",
+      "ja": "ゆきみ",
+      "zh-Hant": "雪美"
+    },
+    "species": {
+      "en": "Hamster",
+      "ja": "ハムスター",
+      "zh-Hant": "倉鼠"
+    },
+    "gender": "Female",
+    "birthday": "01/30",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "brown",
+    "image": "067.png"
+  },
+  {
+    "id": "068",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Clyde",
+      "ja": "デースケ",
+      "zh-Hant": "大介"
+    },
+    "species": {
+      "en": "Horse",
+      "ja": "ウマ",
+      "zh-Hant": "馬"
+    },
+    "gender": "Male",
+    "birthday": "05/01",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "darkGreen",
+    "image": "068.png"
+  },
+  {
+    "id": "069",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Bella",
+      "ja": "イザベラ",
+      "zh-Hant": "伊芙"
+    },
+    "species": {
+      "en": "Mouse",
+      "ja": "ネズミ",
+      "zh-Hant": "老鼠"
+    },
+    "gender": "Female",
+    "birthday": "12/28",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "tangerine",
+    "image": "069.png"
+  },
+  {
+    "id": "070",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Biff",
+      "ja": "ガブリエル",
+      "zh-Hant": "加百列"
+    },
+    "species": {
+      "en": "Hippo",
+      "ja": "カバ",
+      "zh-Hant": "河馬"
+    },
+    "gender": "Male",
+    "birthday": "03/29",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "red",
+    "image": "070.png"
+  },
+  {
+    "id": "071",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Yuka",
+      "ja": "ユーカリ",
+      "zh-Hant": "尤加利"
+    },
+    "species": {
+      "en": "Koala",
+      "ja": "コアラ",
+      "zh-Hant": "無尾熊"
+    },
+    "gender": "Female",
+    "birthday": "07/20",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "blue",
+    "image": "071.png"
+  },
+  {
+    "id": "072",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Lionel",
+      "ja": "ライオネル",
+      "zh-Hant": "萊乃爾"
+    },
+    "species": {
+      "en": "Lion",
+      "ja": "ライオン",
+      "zh-Hant": "獅子"
+    },
+    "gender": "Male",
+    "birthday": "07/29",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "sakura",
+    "image": "072.png"
+  },
+  {
+    "id": "073",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Flo",
+      "ja": "レイラ",
+      "zh-Hant": "蕾拉"
+    },
+    "species": {
+      "en": "Penguin",
+      "ja": "ペンギン",
+      "zh-Hant": "企鵝"
+    },
+    "gender": "Female",
+    "birthday": "09/02",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "green",
+    "image": "073.png"
+  },
+  {
+    "id": "074",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Cobb",
+      "ja": "ハカセ",
+      "zh-Hant": "博士"
+    },
+    "species": {
+      "en": "Pig",
+      "ja": "ブタ",
+      "zh-Hant": "豬"
+    },
+    "gender": "Male",
+    "birthday": "10/07",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "074.png"
+  },
+  {
+    "id": "075",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Amelia",
+      "ja": "アンデス",
+      "zh-Hant": "安迪絲"
+    },
+    "species": {
+      "en": "Eagle",
+      "ja": "ワシ",
+      "zh-Hant": "鷹"
+    },
+    "gender": "Female",
+    "birthday": "11/19",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "yellow",
+    "image": "075.png"
+  },
+  {
+    "id": "076",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Jeremiah",
+      "ja": "クワトロ",
+      "zh-Hant": "四角"
+    },
+    "species": {
+      "en": "Frog",
+      "ja": "カエル",
+      "zh-Hant": "青蛙"
+    },
+    "gender": "Male",
+    "birthday": "07/08",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "blue",
+    "image": "076.png"
+  },
+  {
+    "id": "077",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Cherry",
+      "ja": "ハンナ",
+      "zh-Hant": "漢娜"
+    },
+    "species": {
+      "en": "Dog",
+      "ja": "イヌ",
+      "zh-Hant": "狗"
+    },
+    "gender": "Female",
+    "birthday": "05/11",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "darkGreen",
+    "image": "077.png"
+  },
+  {
+    "id": "078",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Roscoe",
+      "ja": "シュバルツ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Horse",
+      "ja": "ウマ",
+      "zh-Hant": "馬"
+    },
+    "gender": "Male",
+    "birthday": "06/16",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "orange",
+    "image": "078.png"
+  },
+  {
+    "id": "079",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Truffles",
+      "ja": "トンコ",
+      "zh-Hant": "阿豚"
+    },
+    "species": {
+      "en": "Pig",
+      "ja": "ブタ",
+      "zh-Hant": "豬"
+    },
+    "gender": "Female",
+    "birthday": "07/28",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "sakura",
+    "image": "079.png"
+  },
+  {
+    "id": "080",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Eugene",
+      "ja": "ロッキー",
+      "zh-Hant": "洛乘"
+    },
+    "species": {
+      "en": "Koala",
+      "ja": "コアラ",
+      "zh-Hant": "無尾熊"
+    },
+    "gender": "Male",
+    "birthday": "10/26",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "080.png"
+  },
+  {
+    "id": "081",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Eunice",
+      "ja": "モヘア",
+      "zh-Hant": "毛海"
+    },
+    "species": {
+      "en": "Sheep",
+      "ja": "ヒツジ",
+      "zh-Hant": "綿羊"
+    },
+    "gender": "Female",
+    "birthday": "04/03",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "red",
+    "image": "081.png"
+  },
+  {
+    "id": "082",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Goose",
+      "ja": "ケンタ",
+      "zh-Hant": "健太"
+    },
+    "species": {
+      "en": "Chicken",
+      "ja": "ニワトリ",
+      "zh-Hant": "雞"
+    },
+    "gender": "Male",
+    "birthday": "10/04",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "purple",
+    "image": "082.png"
+  },
+  {
+    "id": "083",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Annalisa",
+      "ja": "みやび",
+      "zh-Hant": "雅"
+    },
+    "species": {
+      "en": "Anteater",
+      "ja": "アリクイ",
+      "zh-Hant": "食蟻獸"
+    },
+    "gender": "Female",
+    "birthday": "02/06",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "brown",
+    "image": "083.png"
+  },
+  {
+    "id": "084",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Benjamin",
+      "ja": "ハチ",
+      "zh-Hant": "小八"
+    },
+    "species": {
+      "en": "Dog",
+      "ja": "イヌ",
+      "zh-Hant": "狗"
+    },
+    "gender": "Male",
+    "birthday": "08/03",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "sakura",
+    "image": "084.png"
+  },
+  {
+    "id": "085",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Pancetti",
+      "ja": "ブリトニー",
+      "zh-Hant": "布妮"
+    },
+    "species": {
+      "en": "Pig",
+      "ja": "ブタ",
+      "zh-Hant": "豬"
+    },
+    "gender": "Female",
+    "birthday": "11/14",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "yellow",
+    "image": "085.png"
+  },
+  {
+    "id": "086",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Chief",
+      "ja": "チーフ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Wolf",
+      "ja": "オオカミ",
+      "zh-Hant": "狼"
+    },
+    "gender": "Male",
+    "birthday": "12/19",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "teal",
+    "image": "086.png"
+  },
+  {
+    "id": "087",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Bunnie",
+      "ja": "リリアン",
+      "zh-Hant": "莉莉安"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Female",
+    "birthday": "05/09",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "darkGreen",
+    "image": "087.png"
+  },
+  {
+    "id": "088",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Clay",
+      "ja": "どぐろう",
+      "zh-Hant": "土偶"
+    },
+    "species": {
+      "en": "Hamster",
+      "ja": "ハムスター",
+      "zh-Hant": "倉鼠"
+    },
+    "gender": "Male",
+    "birthday": "10/19",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "088.png"
+  },
+  {
+    "id": "089",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Diana",
+      "ja": "ナタリー",
+      "zh-Hant": "娜塔莉"
+    },
+    "species": {
+      "en": "Deer",
+      "ja": "シカ",
+      "zh-Hant": "鹿"
+    },
+    "gender": "Female",
+    "birthday": "01/04",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "tangerine",
+    "image": "089.png"
+  },
+  {
+    "id": "090",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Axel",
+      "ja": "エックスエル",
+      "zh-Hant": "阿壯"
+    },
+    "species": {
+      "en": "Elephant",
+      "ja": "ゾウ",
+      "zh-Hant": "大象"
+    },
+    "gender": "Male",
+    "birthday": "03/23",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "red",
+    "image": "090.png"
+  },
+  {
+    "id": "091",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Muffy",
+      "ja": "フリル",
+      "zh-Hant": "芙莉露"
+    },
+    "species": {
+      "en": "Sheep",
+      "ja": "ヒツジ",
+      "zh-Hant": "綿羊"
+    },
+    "gender": "Female",
+    "birthday": "02/14",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "brown",
+    "image": "091.png"
+  },
+  {
+    "id": "092",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Henry",
+      "ja": "ヘンリー",
+      "zh-Hant": "亨利"
+    },
+    "species": {
+      "en": "Frog",
+      "ja": "カエル",
+      "zh-Hant": "青蛙"
+    },
+    "gender": "Male",
+    "birthday": "09/21",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "green",
+    "image": "092.png"
+  },
+  {
+    "id": "093",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Bertha",
+      "ja": "あんこ",
+      "zh-Hant": "紅豆"
+    },
+    "species": {
+      "en": "Hippo",
+      "ja": "カバ",
+      "zh-Hant": "河馬"
+    },
+    "gender": "Female",
+    "birthday": "04/25",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "darkGreen",
+    "image": "093.png"
+  },
+  {
+    "id": "094",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Cyrano",
+      "ja": "さくらじま",
+      "zh-Hant": "阿壯"
+    },
+    "species": {
+      "en": "Anteater",
+      "ja": "アリクイ",
+      "zh-Hant": "食蟻獸"
+    },
+    "gender": "Male",
+    "birthday": "03/09",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "pink",
+    "image": "094.png"
+  },
+  {
+    "id": "095",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Peanut",
+      "ja": "ももこ",
+      "zh-Hant": "桃子"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Female",
+    "birthday": "06/08",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "orange",
+    "image": "095.png"
+  },
+  {
+    "id": "096",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Cole",
+      "ja": "アマミン",
+      "zh-Hant": "阿麻"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Male",
+    "birthday": "08/10",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "sakura",
+    "image": "096.png"
+  },
+  {
+    "id": "097",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Willow",
+      "ja": "マリー",
+      "zh-Hant": "瑪莉"
+    },
+    "species": {
+      "en": "Sheep",
+      "ja": "ヒツジ",
+      "zh-Hant": "綿羊"
+    },
+    "gender": "Female",
+    "birthday": "11/26",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "teal",
+    "image": "097.png"
+  },
+  {
+    "id": "098",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Roald",
+      "ja": "ペンタ",
+      "zh-Hant": "企鵝達"
+    },
+    "species": {
+      "en": "Penguin",
+      "ja": "ペンギン",
+      "zh-Hant": "企鵝"
+    },
+    "gender": "Male",
+    "birthday": "01/05",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "tangerine",
+    "image": "098.png"
+  },
+  {
+    "id": "099",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Molly",
+      "ja": "カモミ",
+      "zh-Hant": "鴨美"
+    },
+    "species": {
+      "en": "Duck",
+      "ja": "アヒル",
+      "zh-Hant": "鴨"
+    },
+    "gender": "Female",
+    "birthday": "03/07",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "pink",
+    "image": "099.png"
+  },
+  {
+    "id": "100",
+    "series": 1,
+    "type": "normal",
+    "name": {
+      "en": "Walker",
+      "ja": "ベン",
+      "zh-Hant": "阿班"
+    },
+    "species": {
+      "en": "Dog",
+      "ja": "イヌ",
+      "zh-Hant": "狗"
+    },
+    "gender": "Male",
+    "birthday": "06/10",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "100.png"
+  },
+  {
+    "id": "101",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "K.K.",
+      "ja": "とたけけ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "08/23",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "green",
+    "image": "101.png"
+  },
+  {
+    "id": "102",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Reese",
+      "ja": "リサ",
+      "zh-Hant": "莉詠"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "07/05",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "blue",
+    "image": "102.png"
+  },
+  {
+    "id": "103",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Kicks",
+      "ja": "シャンク",
+      "zh-Hant": "阿鞋"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "11/30",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "teal",
+    "image": "103.png"
+  },
+  {
+    "id": "104",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Labelle",
+      "ja": "ケイト",
+      "zh-Hant": "琴乃"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "10/31",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "104.png"
+  },
+  {
+    "id": "105",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Copper",
+      "ja": "おまわりさんA",
+      "zh-Hant": "門警A"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "06/28",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "blue",
+    "image": "105.png"
+  },
+  {
+    "id": "106",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Booker",
+      "ja": "おまわりさんB",
+      "zh-Hant": "門警B"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "04/23",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "darkGreen",
+    "image": "106.png"
+  },
+  {
+    "id": "107",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Katie",
+      "ja": "まいこちゃん",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "10/22",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "107.png"
+  },
+  {
+    "id": "108",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Tommy",
+      "ja": "つぶきち",
+      "zh-Hant": "粒吉"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "06/07",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "orange",
+    "image": "108.png"
+  },
+  {
+    "id": "109",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Porter",
+      "ja": "えきいんさん",
+      "zh-Hant": "站長"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "04/17",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "red",
+    "image": "109.png"
+  },
+  {
+    "id": "110",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Leila",
+      "ja": "クク",
+      "zh-Hant": "夏美"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "08/16",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "sakura",
+    "image": "110.png"
+  },
+  {
+    "id": "111",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Shrunk",
+      "ja": "ししょー",
+      "zh-Hant": "師匠"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "01/02",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "tangerine",
+    "image": "111.png"
+  },
+  {
+    "id": "112",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Don",
+      "ja": "ラケットさん",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "05/01",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "darkGreen",
+    "image": "112.png"
+  },
+  {
+    "id": "113",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Isabelle",
+      "ja": "しずえ",
+      "zh-Hant": "西施惠"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "12/20",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "teal",
+    "image": "113.png"
+  },
+  {
+    "id": "114",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Blanca",
+      "ja": "あやしいネコ",
+      "zh-Hant": "怪貓"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "02/08",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "brown",
+    "image": "114.png"
+  },
+  {
+    "id": "115",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Nat",
+      "ja": "カメヤマさん",
+      "zh-Hant": "龜山"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "07/25",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "sakura",
+    "image": "115.png"
+  },
+  {
+    "id": "116",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Chip",
+      "ja": "うおまさ",
+      "zh-Hant": "魚正"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "12/09",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "teal",
+    "image": "116.png"
+  },
+  {
+    "id": "117",
+    "series": 2,
+    "type": "special",
+    "name": {
+      "en": "Jack",
+      "ja": "パンプキング",
+      "zh-Hant": "南瓜王"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "10/31",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "117.png"
+  },
+  {
+    "id": "118",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Poncho",
+      "ja": "ポンチョ",
+      "zh-Hant": "肌肉"
+    },
+    "species": {
+      "en": "Bear cub",
+      "ja": "コグマ",
+      "zh-Hant": "小熊"
+    },
+    "gender": "Male",
+    "birthday": "01/02",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "tangerine",
+    "image": "118.png"
+  },
+  {
+    "id": "119",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Felicity",
+      "ja": "みかっち",
+      "zh-Hant": "蜜柑"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Female",
+    "birthday": "03/30",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "red",
+    "image": "119.png"
+  },
+  {
+    "id": "120",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Ozzie",
+      "ja": "ドングリ",
+      "zh-Hant": "宣夫"
+    },
+    "species": {
+      "en": "Koala",
+      "ja": "コアラ",
+      "zh-Hant": "無尾熊"
+    },
+    "gender": "Male",
+    "birthday": "05/07",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "darkGreen",
+    "image": "120.png"
+  },
+  {
+    "id": "121",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Tia",
+      "ja": "ティーナ",
+      "zh-Hant": "蒂娜"
+    },
+    "species": {
+      "en": "Elephant",
+      "ja": "ゾウ",
+      "zh-Hant": "大象"
+    },
+    "gender": "Female",
+    "birthday": "11/18",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "121.png"
+  },
+  {
+    "id": "122",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Lucha",
+      "ja": "マスカラス",
+      "zh-Hant": "雷斯利"
+    },
+    "species": {
+      "en": "Bird",
+      "ja": "トリ",
+      "zh-Hant": "鳥"
+    },
+    "gender": "Male",
+    "birthday": "12/12",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "teal",
+    "image": "122.png"
+  },
+  {
+    "id": "123",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Fuchsia",
+      "ja": "ジェシカ",
+      "zh-Hant": "安妮"
+    },
+    "species": {
+      "en": "Deer",
+      "ja": "シカ",
+      "zh-Hant": "鹿"
+    },
+    "gender": "Female",
+    "birthday": "09/19",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "green",
+    "image": "123.png"
+  },
+  {
+    "id": "124",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Harry",
+      "ja": "オリバー",
+      "zh-Hant": "哈力"
+    },
+    "species": {
+      "en": "Hippo",
+      "ja": "カバ",
+      "zh-Hant": "河馬"
+    },
+    "gender": "Male",
+    "birthday": "01/07",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "tangerine",
+    "image": "124.png"
+  },
+  {
+    "id": "125",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Gwen",
+      "ja": "ポーラ",
+      "zh-Hant": "茱莉"
+    },
+    "species": {
+      "en": "Penguin",
+      "ja": "ペンギン",
+      "zh-Hant": "企鵝"
+    },
+    "gender": "Female",
+    "birthday": "01/23",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "brown",
+    "image": "125.png"
+  },
+  {
+    "id": "126",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Coach",
+      "ja": "テッチャン",
+      "zh-Hant": "鐵丸"
+    },
+    "species": {
+      "en": "Bull",
+      "ja": "ウシ",
+      "zh-Hant": "公牛"
+    },
+    "gender": "Male",
+    "birthday": "04/29",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "darkGreen",
+    "image": "126.png"
+  },
+  {
+    "id": "127",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Kitt",
+      "ja": "アップリケ",
+      "zh-Hant": "媽咪"
+    },
+    "species": {
+      "en": "Kangaroo",
+      "ja": "カンガルー",
+      "zh-Hant": "袋鼠"
+    },
+    "gender": "Female",
+    "birthday": "10/11",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "purple",
+    "image": "127.png"
+  },
+  {
+    "id": "128",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Tom",
+      "ja": "バンタム",
+      "zh-Hant": "崑奇"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Male",
+    "birthday": "12/10",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "teal",
+    "image": "128.png"
+  },
+  {
+    "id": "129",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Tipper",
+      "ja": "まきば",
+      "zh-Hant": "愛美"
+    },
+    "species": {
+      "en": "Cow",
+      "ja": "ウシ",
+      "zh-Hant": "乳牛"
+    },
+    "gender": "Female",
+    "birthday": "08/25",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "green",
+    "image": "129.png"
+  },
+  {
+    "id": "130",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Prince",
+      "ja": "カール",
+      "zh-Hant": "嘉次"
+    },
+    "species": {
+      "en": "Frog",
+      "ja": "カエル",
+      "zh-Hant": "青蛙"
+    },
+    "gender": "Male",
+    "birthday": "07/21",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "blue",
+    "image": "130.png"
+  },
+  {
+    "id": "131",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Pate",
+      "ja": "ナッキー",
+      "zh-Hant": "倪奇"
+    },
+    "species": {
+      "en": "Duck",
+      "ja": "アヒル",
+      "zh-Hant": "鴨"
+    },
+    "gender": "Female",
+    "birthday": "02/23",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "pink",
+    "image": "131.png"
+  },
+  {
+    "id": "132",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Vladimir",
+      "ja": "ガビ",
+      "zh-Hant": "恰可"
+    },
+    "species": {
+      "en": "Bear cub",
+      "ja": "コグマ",
+      "zh-Hant": "小熊"
+    },
+    "gender": "Male",
+    "birthday": "08/02",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "sakura",
+    "image": "132.png"
+  },
+  {
+    "id": "133",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Savannah",
+      "ja": "サバンナ",
+      "zh-Hant": "莎彬娜"
+    },
+    "species": {
+      "en": "Horse",
+      "ja": "ウマ",
+      "zh-Hant": "馬"
+    },
+    "gender": "Female",
+    "birthday": "01/25",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "brown",
+    "image": "133.png"
+  },
+  {
+    "id": "134",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Kidd",
+      "ja": "やさお",
+      "zh-Hant": "文生"
+    },
+    "species": {
+      "en": "Goat",
+      "ja": "ヤギ",
+      "zh-Hant": "山羊"
+    },
+    "gender": "Male",
+    "birthday": "06/28",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "blue",
+    "image": "134.png"
+  },
+  {
+    "id": "135",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Phoebe",
+      "ja": "ヒノコ",
+      "zh-Hant": "火鳥"
+    },
+    "species": {
+      "en": "Ostrich",
+      "ja": "ダチョウ",
+      "zh-Hant": "鴕鳥"
+    },
+    "gender": "Female",
+    "birthday": "04/22",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "darkGreen",
+    "image": "135.png"
+  },
+  {
+    "id": "136",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Egbert",
+      "ja": "しもやけ",
+      "zh-Hant": "蛋蛋"
+    },
+    "species": {
+      "en": "Chicken",
+      "ja": "ニワトリ",
+      "zh-Hant": "雞"
+    },
+    "gender": "Male",
+    "birthday": "10/14",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "136.png"
+  },
+  {
+    "id": "137",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Cookie",
+      "ja": "ペリーヌ",
+      "zh-Hant": "真琴"
+    },
+    "species": {
+      "en": "Dog",
+      "ja": "イヌ",
+      "zh-Hant": "狗"
+    },
+    "gender": "Female",
+    "birthday": "06/18",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "137.png"
+  },
+  {
+    "id": "138",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Sly",
+      "ja": "ハイド",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Alligator",
+      "ja": "ワニ",
+      "zh-Hant": "鱷魚"
+    },
+    "gender": "Male",
+    "birthday": "11/15",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "138.png"
+  },
+  {
+    "id": "139",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Blaire",
+      "ja": "シルエット",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Female",
+    "birthday": "07/03",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "blue",
+    "image": "139.png"
+  },
+  {
+    "id": "140",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Avery",
+      "ja": "クスケチャ",
+      "zh-Hant": "太平"
+    },
+    "species": {
+      "en": "Eagle",
+      "ja": "ワシ",
+      "zh-Hant": "鷹"
+    },
+    "gender": "Male",
+    "birthday": "02/22",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "pink",
+    "image": "140.png"
+  },
+  {
+    "id": "141",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Nana",
+      "ja": "チッチ",
+      "zh-Hant": "琪琪"
+    },
+    "species": {
+      "en": "Monkey",
+      "ja": "サル",
+      "zh-Hant": "猴子"
+    },
+    "gender": "Female",
+    "birthday": "08/23",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "green",
+    "image": "141.png"
+  },
+  {
+    "id": "142",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Peck",
+      "ja": "ふみたろう",
+      "zh-Hant": "達磨"
+    },
+    "species": {
+      "en": "Bird",
+      "ja": "トリ",
+      "zh-Hant": "鳥"
+    },
+    "gender": "Male",
+    "birthday": "07/25",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "sakura",
+    "image": "142.png"
+  },
+  {
+    "id": "143",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Olivia",
+      "ja": "オリビア",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Female",
+    "birthday": "02/03",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "brown",
+    "image": "143.png"
+  },
+  {
+    "id": "144",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Cesar",
+      "ja": "アラン",
+      "zh-Hant": "波以德"
+    },
+    "species": {
+      "en": "Gorilla",
+      "ja": "ゴリラ",
+      "zh-Hant": "猩猩"
+    },
+    "gender": "Male",
+    "birthday": "09/06",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "green",
+    "image": "144.png"
+  },
+  {
+    "id": "145",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Carmen",
+      "ja": "チョコ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Female",
+    "birthday": "01/06",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "tangerine",
+    "image": "145.png"
+  },
+  {
+    "id": "146",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Rodney",
+      "ja": "ジミー",
+      "zh-Hant": "吉米"
+    },
+    "species": {
+      "en": "Hamster",
+      "ja": "ハムスター",
+      "zh-Hant": "倉鼠"
+    },
+    "gender": "Male",
+    "birthday": "11/10",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "yellow",
+    "image": "146.png"
+  },
+  {
+    "id": "147",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Scoot",
+      "ja": "マモル",
+      "zh-Hant": "阿倒"
+    },
+    "species": {
+      "en": "Duck",
+      "ja": "アヒル",
+      "zh-Hant": "鴨"
+    },
+    "gender": "Male",
+    "birthday": "06/13",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "147.png"
+  },
+  {
+    "id": "148",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Whitney",
+      "ja": "ビアンカ",
+      "zh-Hant": "碧安卡"
+    },
+    "species": {
+      "en": "Wolf",
+      "ja": "オオカミ",
+      "zh-Hant": "狼"
+    },
+    "gender": "Female",
+    "birthday": "09/17",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "green",
+    "image": "148.png"
+  },
+  {
+    "id": "149",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Broccolo",
+      "ja": "ブロッコリー",
+      "zh-Hant": "服子"
+    },
+    "species": {
+      "en": "Mouse",
+      "ja": "ネズミ",
+      "zh-Hant": "老鼠"
+    },
+    "gender": "Male",
+    "birthday": "06/30",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "blue",
+    "image": "149.png"
+  },
+  {
+    "id": "150",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Coco",
+      "ja": "やよい",
+      "zh-Hant": "彌生"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Female",
+    "birthday": "03/01",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "pink",
+    "image": "150.png"
+  },
+  {
+    "id": "151",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Groucho",
+      "ja": "クロー",
+      "zh-Hant": "岡薩雷斯"
+    },
+    "species": {
+      "en": "Bear",
+      "ja": "クマ",
+      "zh-Hant": "熊"
+    },
+    "gender": "Male",
+    "birthday": "10/23",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "purple",
+    "image": "151.png"
+  },
+  {
+    "id": "152",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Wendy",
+      "ja": "みぞれ",
+      "zh-Hant": "壓克力"
+    },
+    "species": {
+      "en": "Sheep",
+      "ja": "ヒツジ",
+      "zh-Hant": "綿羊"
+    },
+    "gender": "Female",
+    "birthday": "08/15",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "sakura",
+    "image": "152.png"
+  },
+  {
+    "id": "153",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Alfonso",
+      "ja": "アルベルト",
+      "zh-Hant": "阿博"
+    },
+    "species": {
+      "en": "Alligator",
+      "ja": "ワニ",
+      "zh-Hant": "鱷魚"
+    },
+    "gender": "Male",
+    "birthday": "06/09",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "orange",
+    "image": "153.png"
+  },
+  {
+    "id": "154",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Rhonda",
+      "ja": "ユメコ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Rhino",
+      "ja": "サイ",
+      "zh-Hant": "犀牛"
+    },
+    "gender": "Female",
+    "birthday": "01/24",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "brown",
+    "image": "154.png"
+  },
+  {
+    "id": "155",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Butch",
+      "ja": "ジョン",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Dog",
+      "ja": "イヌ",
+      "zh-Hant": "狗"
+    },
+    "gender": "Male",
+    "birthday": "11/01",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "155.png"
+  },
+  {
+    "id": "156",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Gabi",
+      "ja": "ペチカ",
+      "zh-Hant": "莉莉"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Female",
+    "birthday": "12/16",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "teal",
+    "image": "156.png"
+  },
+  {
+    "id": "157",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Moose",
+      "ja": "ピン",
+      "zh-Hant": "亞瑟"
+    },
+    "species": {
+      "en": "Mouse",
+      "ja": "ネズミ",
+      "zh-Hant": "老鼠"
+    },
+    "gender": "Male",
+    "birthday": "09/13",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "green",
+    "image": "157.png"
+  },
+  {
+    "id": "158",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Timbra",
+      "ja": "つかさ",
+      "zh-Hant": "梅莉"
+    },
+    "species": {
+      "en": "Sheep",
+      "ja": "ヒツジ",
+      "zh-Hant": "綿羊"
+    },
+    "gender": "Female",
+    "birthday": "10/21",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "purple",
+    "image": "158.png"
+  },
+  {
+    "id": "159",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Zell",
+      "ja": "ネルソン",
+      "zh-Hant": "尼爾森"
+    },
+    "species": {
+      "en": "Deer",
+      "ja": "シカ",
+      "zh-Hant": "鹿"
+    },
+    "gender": "Male",
+    "birthday": "06/07",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "orange",
+    "image": "159.png"
+  },
+  {
+    "id": "160",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Pekoe",
+      "ja": "ジャスミン",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Bear cub",
+      "ja": "コグマ",
+      "zh-Hant": "小熊"
+    },
+    "gender": "Female",
+    "birthday": "05/18",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "darkGreen",
+    "image": "160.png"
+  },
+  {
+    "id": "161",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Teddy",
+      "ja": "たいへいた",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Bear",
+      "ja": "クマ",
+      "zh-Hant": "熊"
+    },
+    "gender": "Male",
+    "birthday": "09/26",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "161.png"
+  },
+  {
+    "id": "162",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Mathilda",
+      "ja": "アザラク",
+      "zh-Hant": "阿格"
+    },
+    "species": {
+      "en": "Kangaroo",
+      "ja": "カンガルー",
+      "zh-Hant": "袋鼠"
+    },
+    "gender": "Female",
+    "birthday": "11/12",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "162.png"
+  },
+  {
+    "id": "163",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Ed",
+      "ja": "キザノホマレ",
+      "zh-Hant": "沙拉"
+    },
+    "species": {
+      "en": "Horse",
+      "ja": "ウマ",
+      "zh-Hant": "馬"
+    },
+    "gender": "Male",
+    "birthday": "09/16",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "green",
+    "image": "163.png"
+  },
+  {
+    "id": "164",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Bianca",
+      "ja": "コユキ",
+      "zh-Hant": "小雪"
+    },
+    "species": {
+      "en": "Tiger",
+      "ja": "トラ",
+      "zh-Hant": "老虎"
+    },
+    "gender": "Female",
+    "birthday": "12/13",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "teal",
+    "image": "164.png"
+  },
+  {
+    "id": "165",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Filbert",
+      "ja": "リッキー",
+      "zh-Hant": "瑞奇"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Male",
+    "birthday": "06/03",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "orange",
+    "image": "165.png"
+  },
+  {
+    "id": "166",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Kitty",
+      "ja": "ショコラ",
+      "zh-Hant": "巧可"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Female",
+    "birthday": "02/15",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "brown",
+    "image": "166.png"
+  },
+  {
+    "id": "167",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Beau",
+      "ja": "ペーター",
+      "zh-Hant": "彼得"
+    },
+    "species": {
+      "en": "Deer",
+      "ja": "シカ",
+      "zh-Hant": "鹿"
+    },
+    "gender": "Male",
+    "birthday": "04/05",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "red",
+    "image": "167.png"
+  },
+  {
+    "id": "168",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Nan",
+      "ja": "スミ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Goat",
+      "ja": "ヤギ",
+      "zh-Hant": "山羊"
+    },
+    "gender": "Female",
+    "birthday": "08/24",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "green",
+    "image": "168.png"
+  },
+  {
+    "id": "169",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Bud",
+      "ja": "グラさん",
+      "zh-Hant": "馬薩拉"
+    },
+    "species": {
+      "en": "Lion",
+      "ja": "ライオン",
+      "zh-Hant": "獅子"
+    },
+    "gender": "Male",
+    "birthday": "08/08",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "sakura",
+    "image": "169.png"
+  },
+  {
+    "id": "170",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Ruby",
+      "ja": "ルナ",
+      "zh-Hant": "芙蘭"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Female",
+    "birthday": "12/25",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "tangerine",
+    "image": "170.png"
+  },
+  {
+    "id": "171",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Benedict",
+      "ja": "ぺしみち",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Chicken",
+      "ja": "ニワトリ",
+      "zh-Hant": "雞"
+    },
+    "gender": "Male",
+    "birthday": "10/10",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "purple",
+    "image": "171.png"
+  },
+  {
+    "id": "172",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Agnes",
+      "ja": "アグネス",
+      "zh-Hant": "安妮絲"
+    },
+    "species": {
+      "en": "Pig",
+      "ja": "ブタ",
+      "zh-Hant": "豬"
+    },
+    "gender": "Female",
+    "birthday": "04/21",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "darkGreen",
+    "image": "172.png"
+  },
+  {
+    "id": "173",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Julian",
+      "ja": "ジュリー",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Horse",
+      "ja": "ウマ",
+      "zh-Hant": "馬"
+    },
+    "gender": "Male",
+    "birthday": "03/15",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "pink",
+    "image": "173.png"
+  },
+  {
+    "id": "174",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Bettina",
+      "ja": "マルコ",
+      "zh-Hant": "千歲"
+    },
+    "species": {
+      "en": "Mouse",
+      "ja": "ネズミ",
+      "zh-Hant": "老鼠"
+    },
+    "gender": "Female",
+    "birthday": "06/12",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "orange",
+    "image": "174.png"
+  },
+  {
+    "id": "175",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Jay",
+      "ja": "ツバクロ",
+      "zh-Hant": "燕太郎"
+    },
+    "species": {
+      "en": "Bird",
+      "ja": "トリ",
+      "zh-Hant": "鳥"
+    },
+    "gender": "Male",
+    "birthday": "07/17",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "blue",
+    "image": "175.png"
+  },
+  {
+    "id": "176",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Sprinkle",
+      "ja": "フラッペ",
+      "zh-Hant": "刨冰"
+    },
+    "species": {
+      "en": "Penguin",
+      "ja": "ペンギン",
+      "zh-Hant": "企鵝"
+    },
+    "gender": "Female",
+    "birthday": "02/20",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "pink",
+    "image": "176.png"
+  },
+  {
+    "id": "177",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Flip",
+      "ja": "さすけ",
+      "zh-Hant": "猴塞雷"
+    },
+    "species": {
+      "en": "Monkey",
+      "ja": "サル",
+      "zh-Hant": "猴子"
+    },
+    "gender": "Male",
+    "birthday": "11/21",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "yellow",
+    "image": "177.png"
+  },
+  {
+    "id": "178",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Hugh",
+      "ja": "クッチャネ",
+      "zh-Hant": "戴克"
+    },
+    "species": {
+      "en": "Pig",
+      "ja": "ブタ",
+      "zh-Hant": "豬"
+    },
+    "gender": "Male",
+    "birthday": "12/30",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "tangerine",
+    "image": "178.png"
+  },
+  {
+    "id": "179",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Hopper",
+      "ja": "ダルマン",
+      "zh-Hant": "正男"
+    },
+    "species": {
+      "en": "Penguin",
+      "ja": "ペンギン",
+      "zh-Hant": "企鵝"
+    },
+    "gender": "Male",
+    "birthday": "04/06",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "red",
+    "image": "179.png"
+  },
+  {
+    "id": "180",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Pecan",
+      "ja": "レベッカ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Female",
+    "birthday": "09/10",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "green",
+    "image": "180.png"
+  },
+  {
+    "id": "181",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Drake",
+      "ja": "フォアグラ",
+      "zh-Hant": "肥鵝肝"
+    },
+    "species": {
+      "en": "Duck",
+      "ja": "アヒル",
+      "zh-Hant": "鴨"
+    },
+    "gender": "Male",
+    "birthday": "06/25",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "blue",
+    "image": "181.png"
+  },
+  {
+    "id": "182",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Alice",
+      "ja": "メルボルン",
+      "zh-Hant": "墨爾本"
+    },
+    "species": {
+      "en": "Koala",
+      "ja": "コアラ",
+      "zh-Hant": "無尾熊"
+    },
+    "gender": "Female",
+    "birthday": "08/19",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "sakura",
+    "image": "182.png"
+  },
+  {
+    "id": "183",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Camofrog",
+      "ja": "フルメタル",
+      "zh-Hant": "全金屬"
+    },
+    "species": {
+      "en": "Frog",
+      "ja": "カエル",
+      "zh-Hant": "青蛙"
+    },
+    "gender": "Male",
+    "birthday": "06/05",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "183.png"
+  },
+  {
+    "id": "184",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Anicotti",
+      "ja": "ラザニア",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Mouse",
+      "ja": "ネズミ",
+      "zh-Hant": "老鼠"
+    },
+    "gender": "Female",
+    "birthday": "02/24",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "pink",
+    "image": "184.png"
+  },
+  {
+    "id": "185",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Chops",
+      "ja": "トンファン",
+      "zh-Hant": "炸豬排"
+    },
+    "species": {
+      "en": "Pig",
+      "ja": "ブタ",
+      "zh-Hant": "豬"
+    },
+    "gender": "Male",
+    "birthday": "10/13",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "purple",
+    "image": "185.png"
+  },
+  {
+    "id": "186",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Charlise",
+      "ja": "チャーミー",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Bear",
+      "ja": "クマ",
+      "zh-Hant": "熊"
+    },
+    "gender": "Female",
+    "birthday": "04/17",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "red",
+    "image": "186.png"
+  },
+  {
+    "id": "187",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Vic",
+      "ja": "ノルマン",
+      "zh-Hant": "大武"
+    },
+    "species": {
+      "en": "Bull",
+      "ja": "ウシ",
+      "zh-Hant": "公牛"
+    },
+    "gender": "Male",
+    "birthday": "12/29",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "tangerine",
+    "image": "187.png"
+  },
+  {
+    "id": "188",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Ankha",
+      "ja": "ナイル",
+      "zh-Hant": "尼羅"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Female",
+    "birthday": "09/22",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "green",
+    "image": "188.png"
+  },
+  {
+    "id": "189",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Drift",
+      "ja": "ドク",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Frog",
+      "ja": "カエル",
+      "zh-Hant": "青蛙"
+    },
+    "gender": "Male",
+    "birthday": "10/09",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "purple",
+    "image": "189.png"
+  },
+  {
+    "id": "190",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Vesta",
+      "ja": "メリヤス",
+      "zh-Hant": "梅伊"
+    },
+    "species": {
+      "en": "Sheep",
+      "ja": "ヒツジ",
+      "zh-Hant": "綿羊"
+    },
+    "gender": "Female",
+    "birthday": "04/16",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "red",
+    "image": "190.png"
+  },
+  {
+    "id": "191",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Marcel",
+      "ja": "もんじゃ",
+      "zh-Hant": "法蘭"
+    },
+    "species": {
+      "en": "Dog",
+      "ja": "イヌ",
+      "zh-Hant": "狗"
+    },
+    "gender": "Male",
+    "birthday": "12/31",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "tangerine",
+    "image": "191.png"
+  },
+  {
+    "id": "192",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Pango",
+      "ja": "パトラ",
+      "zh-Hant": "帕特拉"
+    },
+    "species": {
+      "en": "Anteater",
+      "ja": "アリクイ",
+      "zh-Hant": "食蟻獸"
+    },
+    "gender": "Female",
+    "birthday": "11/09",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "yellow",
+    "image": "192.png"
+  },
+  {
+    "id": "193",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Keaton",
+      "ja": "フランク",
+      "zh-Hant": "阿波羅"
+    },
+    "species": {
+      "en": "Eagle",
+      "ja": "ワシ",
+      "zh-Hant": "鷹"
+    },
+    "gender": "Male",
+    "birthday": "06/01",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "orange",
+    "image": "193.png"
+  },
+  {
+    "id": "194",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Gladys",
+      "ja": "ちとせ",
+      "zh-Hant": "小櫻"
+    },
+    "species": {
+      "en": "Ostrich",
+      "ja": "ダチョウ",
+      "zh-Hant": "鴕鳥"
+    },
+    "gender": "Female",
+    "birthday": "01/15",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "tangerine",
+    "image": "194.png"
+  },
+  {
+    "id": "195",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Hamphrey",
+      "ja": "ハムジ",
+      "zh-Hant": "哈姆"
+    },
+    "species": {
+      "en": "Hamster",
+      "ja": "ハムスター",
+      "zh-Hant": "倉鼠"
+    },
+    "gender": "Male",
+    "birthday": "02/25",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "pink",
+    "image": "195.png"
+  },
+  {
+    "id": "196",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Freya",
+      "ja": "ツンドラ",
+      "zh-Hant": "凍原"
+    },
+    "species": {
+      "en": "Wolf",
+      "ja": "オオカミ",
+      "zh-Hant": "狼"
+    },
+    "gender": "Female",
+    "birthday": "12/14",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "teal",
+    "image": "196.png"
+  },
+  {
+    "id": "197",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Kid Cat",
+      "ja": "1ごう",
+      "zh-Hant": "一號"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Male",
+    "birthday": "08/01",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "sakura",
+    "image": "197.png"
+  },
+  {
+    "id": "198",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Agent S",
+      "ja": "2ごう",
+      "zh-Hant": "二號"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Female",
+    "birthday": "07/02",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "blue",
+    "image": "198.png"
+  },
+  {
+    "id": "199",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Big Top",
+      "ja": "3ごう",
+      "zh-Hant": "三號"
+    },
+    "species": {
+      "en": "Elephant",
+      "ja": "ゾウ",
+      "zh-Hant": "大象"
+    },
+    "gender": "Male",
+    "birthday": "10/03",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "199.png"
+  },
+  {
+    "id": "200",
+    "series": 2,
+    "type": "normal",
+    "name": {
+      "en": "Rocket",
+      "ja": "4ごう",
+      "zh-Hant": "四號"
+    },
+    "species": {
+      "en": "Gorilla",
+      "ja": "ゴリラ",
+      "zh-Hant": "猩猩"
+    },
+    "gender": "Female",
+    "birthday": "04/14",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "red",
+    "image": "200.png"
+  },
+  {
+    "id": "201",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Rover",
+      "ja": "みしらぬネコ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "02/01",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "brown",
+    "image": "201.png"
+  },
+  {
+    "id": "202",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Blathers",
+      "ja": "フータ",
+      "zh-Hant": "傅達"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "09/24",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "202.png"
+  },
+  {
+    "id": "203",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Tom Nook",
+      "ja": "たぬきち",
+      "zh-Hant": "狸克"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "05/30",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "203.png"
+  },
+  {
+    "id": "204",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Pelly",
+      "ja": "ぺりこ",
+      "zh-Hant": "佩莉"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "03/19",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "pink",
+    "image": "204.png"
+  },
+  {
+    "id": "205",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Phyllis",
+      "ja": "ぺりみ",
+      "zh-Hant": "珮苓"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "11/21",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "205.png"
+  },
+  {
+    "id": "206",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Pete",
+      "ja": "ぺりお",
+      "zh-Hant": "佩利歐"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "03/08",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "pink",
+    "image": "206.png"
+  },
+  {
+    "id": "207",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Mabel",
+      "ja": "きぬよ",
+      "zh-Hant": "衣代"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "05/22",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "207.png"
+  },
+  {
+    "id": "208",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Leif",
+      "ja": "レイジ",
+      "zh-Hant": "然然"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "08/08",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "sakura",
+    "image": "208.png"
+  },
+  {
+    "id": "209",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Wendell",
+      "ja": "セイイチ",
+      "zh-Hant": "誠一"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "02/25",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "pink",
+    "image": "209.png"
+  },
+  {
+    "id": "210",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Cyrus",
+      "ja": "カイゾー",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "01/26",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "brown",
+    "image": "210.png"
+  },
+  {
+    "id": "211",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Grams",
+      "ja": "ゲコ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "04/15",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "red",
+    "image": "211.png"
+  },
+  {
+    "id": "212",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Timmy",
+      "ja": "まめきち",
+      "zh-Hant": "豆吉"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "06/07",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "212.png"
+  },
+  {
+    "id": "213",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Digby",
+      "ja": "ケント",
+      "zh-Hant": "健兆"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "12/20",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "teal",
+    "image": "213.png"
+  },
+  {
+    "id": "214",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Don",
+      "ja": "ラケットさん",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "05/01",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "darkGreen",
+    "image": "214.png"
+  },
+  {
+    "id": "215",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Isabelle",
+      "ja": "しずえ",
+      "zh-Hant": "西施惠"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "12/20",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "teal",
+    "image": "215.png"
+  },
+  {
+    "id": "216",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Franklin",
+      "ja": "フランクリン",
+      "zh-Hant": "法蘭"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "10/10",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "purple",
+    "image": "216.png"
+  },
+  {
+    "id": "217",
+    "series": 3,
+    "type": "special",
+    "name": {
+      "en": "Jingle",
+      "ja": "ジングル",
+      "zh-Hant": "叮鈴"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "12/24",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "tangerine",
+    "image": "217.png"
+  },
+  {
+    "id": "218",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Lily",
+      "ja": "レイニー",
+      "zh-Hant": "蕾妮"
+    },
+    "species": {
+      "en": "Frog",
+      "ja": "カエル",
+      "zh-Hant": "青蛙"
+    },
+    "gender": "Female",
+    "birthday": "02/04",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "brown",
+    "image": "218.png"
+  },
+  {
+    "id": "219",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Anchovy",
+      "ja": "アンチョビ",
+      "zh-Hant": "鯷魚"
+    },
+    "species": {
+      "en": "Bird",
+      "ja": "トリ",
+      "zh-Hant": "鳥"
+    },
+    "gender": "Male",
+    "birthday": "03/04",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "pink",
+    "image": "219.png"
+  },
+  {
+    "id": "220",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Tabby",
+      "ja": "トラこ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Female",
+    "birthday": "08/13",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "sakura",
+    "image": "220.png"
+  },
+  {
+    "id": "221",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Kody",
+      "ja": "アイダホ",
+      "zh-Hant": "帕其"
+    },
+    "species": {
+      "en": "Bear cub",
+      "ja": "コグマ",
+      "zh-Hant": "小熊"
+    },
+    "gender": "Male",
+    "birthday": "09/28",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "purple",
+    "image": "221.png"
+  },
+  {
+    "id": "222",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Miranda",
+      "ja": "ミランダ",
+      "zh-Hant": "塔琪安娜"
+    },
+    "species": {
+      "en": "Duck",
+      "ja": "アヒル",
+      "zh-Hant": "鴨"
+    },
+    "gender": "Female",
+    "birthday": "04/23",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "darkGreen",
+    "image": "222.png"
+  },
+  {
+    "id": "223",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Del",
+      "ja": "ヤマト",
+      "zh-Hant": "阿深"
+    },
+    "species": {
+      "en": "Alligator",
+      "ja": "ワニ",
+      "zh-Hant": "鱷魚"
+    },
+    "gender": "Male",
+    "birthday": "05/27",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "223.png"
+  },
+  {
+    "id": "224",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Paula",
+      "ja": "レイチェル",
+      "zh-Hant": "潔西卡"
+    },
+    "species": {
+      "en": "Bear",
+      "ja": "クマ",
+      "zh-Hant": "熊"
+    },
+    "gender": "Female",
+    "birthday": "03/22",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "red",
+    "image": "224.png"
+  },
+  {
+    "id": "225",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Ken",
+      "ja": "クロベエ",
+      "zh-Hant": "歌舞"
+    },
+    "species": {
+      "en": "Chicken",
+      "ja": "ニワトリ",
+      "zh-Hant": "雞"
+    },
+    "gender": "Male",
+    "birthday": "12/23",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "tangerine",
+    "image": "225.png"
+  },
+  {
+    "id": "226",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Mitzi",
+      "ja": "マール",
+      "zh-Hant": "麥克"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Female",
+    "birthday": "09/25",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "purple",
+    "image": "226.png"
+  },
+  {
+    "id": "227",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Rodeo",
+      "ja": "ロデオ",
+      "zh-Hant": "羅迪歐"
+    },
+    "species": {
+      "en": "Bull",
+      "ja": "ウシ",
+      "zh-Hant": "公牛"
+    },
+    "gender": "Male",
+    "birthday": "10/29",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "yellow",
+    "image": "227.png"
+  },
+  {
+    "id": "228",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Bubbles",
+      "ja": "チャコ",
+      "zh-Hant": "恰可"
+    },
+    "species": {
+      "en": "Hippo",
+      "ja": "カバ",
+      "zh-Hant": "河馬"
+    },
+    "gender": "Female",
+    "birthday": "09/18",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "green",
+    "image": "228.png"
+  },
+  {
+    "id": "229",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Cousteau",
+      "ja": "ハルマキ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Frog",
+      "ja": "カエル",
+      "zh-Hant": "青蛙"
+    },
+    "gender": "Male",
+    "birthday": "12/17",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "teal",
+    "image": "229.png"
+  },
+  {
+    "id": "230",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Velma",
+      "ja": "ピティエ",
+      "zh-Hant": "瓦內莎"
+    },
+    "species": {
+      "en": "Goat",
+      "ja": "ヤギ",
+      "zh-Hant": "山羊"
+    },
+    "gender": "Female",
+    "birthday": "01/14",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "tangerine",
+    "image": "230.png"
+  },
+  {
+    "id": "231",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Elvis",
+      "ja": "キング",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Lion",
+      "ja": "ライオン",
+      "zh-Hant": "獅子"
+    },
+    "gender": "Male",
+    "birthday": "07/23",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "sakura",
+    "image": "231.png"
+  },
+  {
+    "id": "232",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Canberra",
+      "ja": "キャンベラ",
+      "zh-Hant": "坎培拉"
+    },
+    "species": {
+      "en": "Koala",
+      "ja": "コアラ",
+      "zh-Hant": "無尾熊"
+    },
+    "gender": "Female",
+    "birthday": "05/14",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "darkGreen",
+    "image": "232.png"
+  },
+  {
+    "id": "233",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Colton",
+      "ja": "アンソニー",
+      "zh-Hant": "安東尼奧"
+    },
+    "species": {
+      "en": "Horse",
+      "ja": "ウマ",
+      "zh-Hant": "馬"
+    },
+    "gender": "Male",
+    "birthday": "05/22",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "233.png"
+  },
+  {
+    "id": "234",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Marina",
+      "ja": "タコリーナ",
+      "zh-Hant": "章丸丸"
+    },
+    "species": {
+      "en": "Octopus",
+      "ja": "タコ",
+      "zh-Hant": "章魚"
+    },
+    "gender": "Female",
+    "birthday": "06/26",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "blue",
+    "image": "234.png"
+  },
+  {
+    "id": "235",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Spork",
+      "ja": "ポーク",
+      "zh-Hant": "肌肉"
+    },
+    "species": {
+      "en": "Pig",
+      "ja": "ブタ",
+      "zh-Hant": "豬"
+    },
+    "gender": "Male",
+    "birthday": "09/03",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "green",
+    "image": "235.png"
+  },
+  {
+    "id": "236",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Freckles",
+      "ja": "マグロ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Duck",
+      "ja": "アヒル",
+      "zh-Hant": "鴨"
+    },
+    "gender": "Female",
+    "birthday": "02/19",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "pink",
+    "image": "236.png"
+  },
+  {
+    "id": "237",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Bam",
+      "ja": "タケル",
+      "zh-Hant": "大武"
+    },
+    "species": {
+      "en": "Deer",
+      "ja": "シカ",
+      "zh-Hant": "鹿"
+    },
+    "gender": "Male",
+    "birthday": "11/07",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "237.png"
+  },
+  {
+    "id": "238",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Friga",
+      "ja": "サブリナ",
+      "zh-Hant": "莎賓娜"
+    },
+    "species": {
+      "en": "Penguin",
+      "ja": "ペンギン",
+      "zh-Hant": "企鵝"
+    },
+    "gender": "Female",
+    "birthday": "10/16",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "purple",
+    "image": "238.png"
+  },
+  {
+    "id": "239",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Ricky",
+      "ja": "カジロウ",
+      "zh-Hant": "亞倫"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Male",
+    "birthday": "09/14",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "green",
+    "image": "239.png"
+  },
+  {
+    "id": "240",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Deirdre",
+      "ja": "ナディア",
+      "zh-Hant": "娜迪亞"
+    },
+    "species": {
+      "en": "Deer",
+      "ja": "シカ",
+      "zh-Hant": "鹿"
+    },
+    "gender": "Female",
+    "birthday": "05/04",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "darkGreen",
+    "image": "240.png"
+  },
+  {
+    "id": "241",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Hans",
+      "ja": "スナイル",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Gorilla",
+      "ja": "ゴリラ",
+      "zh-Hant": "猩猩"
+    },
+    "gender": "Male",
+    "birthday": "12/05",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "teal",
+    "image": "241.png"
+  },
+  {
+    "id": "242",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Chevre",
+      "ja": "ユキ",
+      "zh-Hant": "小雪"
+    },
+    "species": {
+      "en": "Goat",
+      "ja": "ヤギ",
+      "zh-Hant": "山羊"
+    },
+    "gender": "Female",
+    "birthday": "03/06",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "pink",
+    "image": "242.png"
+  },
+  {
+    "id": "243",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Drago",
+      "ja": "タツオ",
+      "zh-Hant": "龍男"
+    },
+    "species": {
+      "en": "Alligator",
+      "ja": "ワニ",
+      "zh-Hant": "鱷魚"
+    },
+    "gender": "Male",
+    "birthday": "02/12",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "brown",
+    "image": "243.png"
+  },
+  {
+    "id": "244",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Tangy",
+      "ja": "ヒャクパー",
+      "zh-Hant": "百趴"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Female",
+    "birthday": "06/17",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "orange",
+    "image": "244.png"
+  },
+  {
+    "id": "245",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Mac",
+      "ja": "チャンプ",
+      "zh-Hant": "毛吉"
+    },
+    "species": {
+      "en": "Dog",
+      "ja": "イヌ",
+      "zh-Hant": "狗"
+    },
+    "gender": "Male",
+    "birthday": "11/11",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "245.png"
+  },
+  {
+    "id": "246",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Eloise",
+      "ja": "エレフィン",
+      "zh-Hant": "艾勒芬"
+    },
+    "species": {
+      "en": "Elephant",
+      "ja": "ゾウ",
+      "zh-Hant": "大象"
+    },
+    "gender": "Female",
+    "birthday": "12/08",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "teal",
+    "image": "246.png"
+  },
+  {
+    "id": "247",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Wart Jr.",
+      "ja": "サム",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Frog",
+      "ja": "カエル",
+      "zh-Hant": "青蛙"
+    },
+    "gender": "Male",
+    "birthday": "08/21",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "sakura",
+    "image": "247.png"
+  },
+  {
+    "id": "248",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Hazel",
+      "ja": "アイリス",
+      "zh-Hant": "春捲"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Female",
+    "birthday": "08/30",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "green",
+    "image": "248.png"
+  },
+  {
+    "id": "249",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Beardo",
+      "ja": "ベアード",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Bear",
+      "ja": "クマ",
+      "zh-Hant": "熊"
+    },
+    "gender": "Male",
+    "birthday": "09/27",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "249.png"
+  },
+  {
+    "id": "250",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Ava",
+      "ja": "ドミグラ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Chicken",
+      "ja": "ニワトリ",
+      "zh-Hant": "雞"
+    },
+    "gender": "Female",
+    "birthday": "04/28",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "darkGreen",
+    "image": "250.png"
+  },
+  {
+    "id": "251",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Chester",
+      "ja": "パンタ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Bear cub",
+      "ja": "コグマ",
+      "zh-Hant": "小熊"
+    },
+    "gender": "Male",
+    "birthday": "08/06",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "sakura",
+    "image": "251.png"
+  },
+  {
+    "id": "252",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Merry",
+      "ja": "さっち",
+      "zh-Hant": "巧可"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Female",
+    "birthday": "06/29",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "blue",
+    "image": "252.png"
+  },
+  {
+    "id": "253",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Genji",
+      "ja": "ゲンジ",
+      "zh-Hant": "源氏"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Male",
+    "birthday": "01/21",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "brown",
+    "image": "253.png"
+  },
+  {
+    "id": "254",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Greta",
+      "ja": "ふくこ",
+      "zh-Hant": "戴安"
+    },
+    "species": {
+      "en": "Mouse",
+      "ja": "ネズミ",
+      "zh-Hant": "老鼠"
+    },
+    "gender": "Female",
+    "birthday": "09/05",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "green",
+    "image": "254.png"
+  },
+  {
+    "id": "255",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Wolfgang",
+      "ja": "ロボ",
+      "zh-Hant": "羅博"
+    },
+    "species": {
+      "en": "Wolf",
+      "ja": "オオカミ",
+      "zh-Hant": "狼"
+    },
+    "gender": "Male",
+    "birthday": "11/25",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "teal",
+    "image": "255.png"
+  },
+  {
+    "id": "256",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Diva",
+      "ja": "アイーダ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Frog",
+      "ja": "カエル",
+      "zh-Hant": "青蛙"
+    },
+    "gender": "Female",
+    "birthday": "10/02",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "purple",
+    "image": "256.png"
+  },
+  {
+    "id": "257",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Klaus",
+      "ja": "クマロス",
+      "zh-Hant": "黑兵衛"
+    },
+    "species": {
+      "en": "Bear",
+      "ja": "クマ",
+      "zh-Hant": "熊"
+    },
+    "gender": "Male",
+    "birthday": "03/31",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "red",
+    "image": "257.png"
+  },
+  {
+    "id": "258",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Daisy",
+      "ja": "バニラ",
+      "zh-Hant": "香草"
+    },
+    "species": {
+      "en": "Dog",
+      "ja": "イヌ",
+      "zh-Hant": "狗"
+    },
+    "gender": "Female",
+    "birthday": "11/16",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "258.png"
+  },
+  {
+    "id": "259",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Stinky",
+      "ja": "アセクサ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Male",
+    "birthday": "08/17",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "sakura",
+    "image": "259.png"
+  },
+  {
+    "id": "260",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Tammi",
+      "ja": "エイプリル",
+      "zh-Hant": "愛達荷"
+    },
+    "species": {
+      "en": "Monkey",
+      "ja": "サル",
+      "zh-Hant": "猴子"
+    },
+    "gender": "Female",
+    "birthday": "04/02",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "red",
+    "image": "260.png"
+  },
+  {
+    "id": "261",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Tucker",
+      "ja": "はじめ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Elephant",
+      "ja": "ゾウ",
+      "zh-Hant": "大象"
+    },
+    "gender": "Male",
+    "birthday": "09/07",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "green",
+    "image": "261.png"
+  },
+  {
+    "id": "262",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Blanche",
+      "ja": "しのぶ",
+      "zh-Hant": "茱莉"
+    },
+    "species": {
+      "en": "Ostrich",
+      "ja": "ダチョウ",
+      "zh-Hant": "鴕鳥"
+    },
+    "gender": "Female",
+    "birthday": "12/21",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "teal",
+    "image": "262.png"
+  },
+  {
+    "id": "263",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Gaston",
+      "ja": "モサキチ",
+      "zh-Hant": "毛海"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Male",
+    "birthday": "10/28",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "263.png"
+  },
+  {
+    "id": "264",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Marshal",
+      "ja": "ジュン",
+      "zh-Hant": "阿純"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Male",
+    "birthday": "09/29",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "purple",
+    "image": "264.png"
+  },
+  {
+    "id": "265",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Gala",
+      "ja": "ためこ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Pig",
+      "ja": "ブタ",
+      "zh-Hant": "豬"
+    },
+    "gender": "Female",
+    "birthday": "03/05",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "pink",
+    "image": "265.png"
+  },
+  {
+    "id": "266",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Joey",
+      "ja": "リチャード",
+      "zh-Hant": "鐵丸"
+    },
+    "species": {
+      "en": "Duck",
+      "ja": "アヒル",
+      "zh-Hant": "鴨"
+    },
+    "gender": "Male",
+    "birthday": "01/03",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "tangerine",
+    "image": "266.png"
+  },
+  {
+    "id": "267",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Pippy",
+      "ja": "ロッタ",
+      "zh-Hant": "花花"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Female",
+    "birthday": "06/14",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "267.png"
+  },
+  {
+    "id": "268",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Buck",
+      "ja": "ヴァヤシコフ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Horse",
+      "ja": "ウマ",
+      "zh-Hant": "馬"
+    },
+    "gender": "Male",
+    "birthday": "04/04",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "red",
+    "image": "268.png"
+  },
+  {
+    "id": "269",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Bree",
+      "ja": "サラ",
+      "zh-Hant": "愛美"
+    },
+    "species": {
+      "en": "Mouse",
+      "ja": "ネズミ",
+      "zh-Hant": "老鼠"
+    },
+    "gender": "Female",
+    "birthday": "07/07",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "blue",
+    "image": "269.png"
+  },
+  {
+    "id": "270",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Rooney",
+      "ja": "マイク",
+      "zh-Hant": "拳擊手"
+    },
+    "species": {
+      "en": "Kangaroo",
+      "ja": "カンガルー",
+      "zh-Hant": "袋鼠"
+    },
+    "gender": "Male",
+    "birthday": "12/01",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "teal",
+    "image": "270.png"
+  },
+  {
+    "id": "271",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Curlos",
+      "ja": "カルロス",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Sheep",
+      "ja": "ヒツジ",
+      "zh-Hant": "綿羊"
+    },
+    "gender": "Male",
+    "birthday": "05/08",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "darkGreen",
+    "image": "271.png"
+  },
+  {
+    "id": "272",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Skye",
+      "ja": "リリィ",
+      "zh-Hant": "天空"
+    },
+    "species": {
+      "en": "Wolf",
+      "ja": "オオカミ",
+      "zh-Hant": "狼"
+    },
+    "gender": "Female",
+    "birthday": "03/24",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "red",
+    "image": "272.png"
+  },
+  {
+    "id": "273",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Moe",
+      "ja": "ジンペイ",
+      "zh-Hant": "仁平"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Male",
+    "birthday": "01/12",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "tangerine",
+    "image": "273.png"
+  },
+  {
+    "id": "274",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Flora",
+      "ja": "フララ",
+      "zh-Hant": "紅鶴"
+    },
+    "species": {
+      "en": "Ostrich",
+      "ja": "ダチョウ",
+      "zh-Hant": "鴕鳥"
+    },
+    "gender": "Female",
+    "birthday": "02/09",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "brown",
+    "image": "274.png"
+  },
+  {
+    "id": "275",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Hamlet",
+      "ja": "ハムスケ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Hamster",
+      "ja": "ハムスター",
+      "zh-Hant": "倉鼠"
+    },
+    "gender": "Male",
+    "birthday": "05/30",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "orange",
+    "image": "275.png"
+  },
+  {
+    "id": "276",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Astrid",
+      "ja": "キッズ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Kangaroo",
+      "ja": "カンガルー",
+      "zh-Hant": "袋鼠"
+    },
+    "gender": "Female",
+    "birthday": "09/08",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "green",
+    "image": "276.png"
+  },
+  {
+    "id": "277",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Monty",
+      "ja": "サルモンティ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Monkey",
+      "ja": "サル",
+      "zh-Hant": "猴子"
+    },
+    "gender": "Male",
+    "birthday": "12/07",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "teal",
+    "image": "277.png"
+  },
+  {
+    "id": "278",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Dora",
+      "ja": "とめ",
+      "zh-Hant": "克莉琪"
+    },
+    "species": {
+      "en": "Mouse",
+      "ja": "ネズミ",
+      "zh-Hant": "老鼠"
+    },
+    "gender": "Female",
+    "birthday": "02/18",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "brown",
+    "image": "278.png"
+  },
+  {
+    "id": "279",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Biskit",
+      "ja": "ロビン",
+      "zh-Hant": "羅賓"
+    },
+    "species": {
+      "en": "Dog",
+      "ja": "イヌ",
+      "zh-Hant": "狗"
+    },
+    "gender": "Male",
+    "birthday": "05/13",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "darkGreen",
+    "image": "279.png"
+  },
+  {
+    "id": "280",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Victoria",
+      "ja": "セントアロー",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Horse",
+      "ja": "ウマ",
+      "zh-Hant": "馬"
+    },
+    "gender": "Female",
+    "birthday": "07/11",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "blue",
+    "image": "280.png"
+  },
+  {
+    "id": "281",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Lyman",
+      "ja": "オズモンド",
+      "zh-Hant": "番茄醬"
+    },
+    "species": {
+      "en": "Koala",
+      "ja": "コアラ",
+      "zh-Hant": "無尾熊"
+    },
+    "gender": "Male",
+    "birthday": "10/12",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "purple",
+    "image": "281.png"
+  },
+  {
+    "id": "282",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Violet",
+      "ja": "ウズメ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Gorilla",
+      "ja": "ゴリラ",
+      "zh-Hant": "猩猩"
+    },
+    "gender": "Female",
+    "birthday": "09/01",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "green",
+    "image": "282.png"
+  },
+  {
+    "id": "283",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Frank",
+      "ja": "ハルク",
+      "zh-Hant": "麥克"
+    },
+    "species": {
+      "en": "Eagle",
+      "ja": "ワシ",
+      "zh-Hant": "鷹"
+    },
+    "gender": "Male",
+    "birthday": "07/30",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "sakura",
+    "image": "283.png"
+  },
+  {
+    "id": "284",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Chadder",
+      "ja": "チーズ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Mouse",
+      "ja": "ネズミ",
+      "zh-Hant": "老鼠"
+    },
+    "gender": "Male",
+    "birthday": "12/15",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "teal",
+    "image": "284.png"
+  },
+  {
+    "id": "285",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Merengue",
+      "ja": "パティ",
+      "zh-Hant": "帕蒂"
+    },
+    "species": {
+      "en": "Rhino",
+      "ja": "サイ",
+      "zh-Hant": "犀牛"
+    },
+    "gender": "Female",
+    "birthday": "03/19",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "pink",
+    "image": "285.png"
+  },
+  {
+    "id": "286",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Cube",
+      "ja": "ビス",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Penguin",
+      "ja": "ペンギン",
+      "zh-Hant": "企鵝"
+    },
+    "gender": "Male",
+    "birthday": "01/29",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "brown",
+    "image": "286.png"
+  },
+  {
+    "id": "287",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Claudia",
+      "ja": "マリリン",
+      "zh-Hant": "焦糖"
+    },
+    "species": {
+      "en": "Tiger",
+      "ja": "トラ",
+      "zh-Hant": "老虎"
+    },
+    "gender": "Female",
+    "birthday": "11/22",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "287.png"
+  },
+  {
+    "id": "288",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Curly",
+      "ja": "ハムカツ",
+      "zh-Hant": "炸豬排"
+    },
+    "species": {
+      "en": "Pig",
+      "ja": "ブタ",
+      "zh-Hant": "豬"
+    },
+    "gender": "Male",
+    "birthday": "07/26",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "sakura",
+    "image": "288.png"
+  },
+  {
+    "id": "289",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Boomer",
+      "ja": "ショーイ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Penguin",
+      "ja": "ペンギン",
+      "zh-Hant": "企鵝"
+    },
+    "gender": "Male",
+    "birthday": "02/07",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "brown",
+    "image": "289.png"
+  },
+  {
+    "id": "290",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Caroline",
+      "ja": "キャロライン",
+      "zh-Hant": "卡洛琳"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Female",
+    "birthday": "07/15",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "blue",
+    "image": "290.png"
+  },
+  {
+    "id": "291",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Sparro",
+      "ja": "ちゅんのすけ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Bird",
+      "ja": "トリ",
+      "zh-Hant": "鳥"
+    },
+    "gender": "Male",
+    "birthday": "11/20",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "yellow",
+    "image": "291.png"
+  },
+  {
+    "id": "292",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Baabara",
+      "ja": "トロワ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Sheep",
+      "ja": "ヒツジ",
+      "zh-Hant": "綿羊"
+    },
+    "gender": "Female",
+    "birthday": "03/28",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "red",
+    "image": "292.png"
+  },
+  {
+    "id": "293",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Rolf",
+      "ja": "チョモラン",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Tiger",
+      "ja": "トラ",
+      "zh-Hant": "老虎"
+    },
+    "gender": "Male",
+    "birthday": "08/22",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "sakura",
+    "image": "293.png"
+  },
+  {
+    "id": "294",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Maple",
+      "ja": "メープル",
+      "zh-Hant": "楓葉"
+    },
+    "species": {
+      "en": "Bear cub",
+      "ja": "コグマ",
+      "zh-Hant": "小熊"
+    },
+    "gender": "Female",
+    "birthday": "06/15",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "294.png"
+  },
+  {
+    "id": "295",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Antonio",
+      "ja": "マコト",
+      "zh-Hant": "安東尼奧"
+    },
+    "species": {
+      "en": "Anteater",
+      "ja": "アリクイ",
+      "zh-Hant": "食蟻獸"
+    },
+    "gender": "Male",
+    "birthday": "10/20",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "295.png"
+  },
+  {
+    "id": "296",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Soleil",
+      "ja": "シャンティ",
+      "zh-Hant": "桑迪"
+    },
+    "species": {
+      "en": "Hamster",
+      "ja": "ハムスター",
+      "zh-Hant": "倉鼠"
+    },
+    "gender": "Female",
+    "birthday": "08/09",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "sakura",
+    "image": "296.png"
+  },
+  {
+    "id": "297",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Apollo",
+      "ja": "アポロ",
+      "zh-Hant": "阿波羅"
+    },
+    "species": {
+      "en": "Eagle",
+      "ja": "ワシ",
+      "zh-Hant": "鷹"
+    },
+    "gender": "Male",
+    "birthday": "07/04",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "blue",
+    "image": "297.png"
+  },
+  {
+    "id": "298",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Derwin",
+      "ja": "ボン",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Duck",
+      "ja": "アヒル",
+      "zh-Hant": "鴨"
+    },
+    "gender": "Male",
+    "birthday": "05/25",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "orange",
+    "image": "298.png"
+  },
+  {
+    "id": "299",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Francine",
+      "ja": "フランソワ",
+      "zh-Hant": "芙蘭"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Female",
+    "birthday": "01/22",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "brown",
+    "image": "299.png"
+  },
+  {
+    "id": "300",
+    "series": 3,
+    "type": "normal",
+    "name": {
+      "en": "Chrissy",
+      "ja": "クリスチーヌ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Female",
+    "birthday": "08/28",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "green",
+    "image": "300.png"
+  },
+  {
+    "id": "301",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Isabelle",
+      "ja": "しずえ",
+      "zh-Hant": "西施惠"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "12/20",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "teal",
+    "image": "301.png"
+  },
+  {
+    "id": "302",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Brewster",
+      "ja": "マスター",
+      "zh-Hant": "店長"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "10/15",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "302.png"
+  },
+  {
+    "id": "303",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Katrina",
+      "ja": "ハッケミィ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "10/28",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "303.png"
+  },
+  {
+    "id": "304",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Phineas",
+      "ja": "パロンチーノ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "06/20",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "304.png"
+  },
+  {
+    "id": "305",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Celeste",
+      "ja": "フーコ",
+      "zh-Hant": "傅珂"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "09/07",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "green",
+    "image": "305.png"
+  },
+  {
+    "id": "306",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Tommy",
+      "ja": "つぶきち",
+      "zh-Hant": "粒吉"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "06/07",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "orange",
+    "image": "306.png"
+  },
+  {
+    "id": "307",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Gracie",
+      "ja": "グレース",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "11/14",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "307.png"
+  },
+  {
+    "id": "308",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Leilani",
+      "ja": "クーコ",
+      "zh-Hant": "夏美"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "09/26",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "308.png"
+  },
+  {
+    "id": "309",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Resetti",
+      "ja": "リセットさん",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "04/06",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "red",
+    "image": "309.png"
+  },
+  {
+    "id": "310",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Timmy",
+      "ja": "まめきち",
+      "zh-Hant": "豆吉"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "06/07",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "orange",
+    "image": "310.png"
+  },
+  {
+    "id": "311",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Lottie",
+      "ja": "タクミ",
+      "zh-Hant": "巧美"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "09/12",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "green",
+    "image": "311.png"
+  },
+  {
+    "id": "312",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Shrunk",
+      "ja": "ししょー",
+      "zh-Hant": "師匠"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "01/02",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "tangerine",
+    "image": "312.png"
+  },
+  {
+    "id": "313",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Pavé",
+      "ja": "ベルリーナ",
+      "zh-Hant": "帕乘"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "03/03",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "pink",
+    "image": "313.png"
+  },
+  {
+    "id": "314",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Gulliver",
+      "ja": "ジョニー",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "05/25",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "orange",
+    "image": "314.png"
+  },
+  {
+    "id": "315",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Redd",
+      "ja": "つねきち",
+      "zh-Hant": "狐利"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "10/18",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "315.png"
+  },
+  {
+    "id": "316",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Zipper",
+      "ja": "ぴょんたろう",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "03/11",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "pink",
+    "image": "316.png"
+  },
+  {
+    "id": "317",
+    "series": 4,
+    "type": "special",
+    "name": {
+      "en": "Goldie",
+      "ja": "キャラメル",
+      "zh-Hant": "村民"
+    },
+    "species": {
+      "en": "Dog",
+      "ja": "イヌ",
+      "zh-Hant": "狗"
+    },
+    "gender": "Male",
+    "birthday": "12/27",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "tangerine",
+    "image": "317.png"
+  },
+  {
+    "id": "318",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Stitches",
+      "ja": "パッチ",
+      "zh-Hant": "帕其"
+    },
+    "species": {
+      "en": "Bear cub",
+      "ja": "コグマ",
+      "zh-Hant": "小熊"
+    },
+    "gender": "Male",
+    "birthday": "02/10",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "brown",
+    "image": "318.png"
+  },
+  {
+    "id": "319",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Pinky",
+      "ja": "タンタン",
+      "zh-Hant": "瑞秋"
+    },
+    "species": {
+      "en": "Bear",
+      "ja": "クマ",
+      "zh-Hant": "熊"
+    },
+    "gender": "Female",
+    "birthday": "09/09",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "green",
+    "image": "319.png"
+  },
+  {
+    "id": "320",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Mott",
+      "ja": "リック",
+      "zh-Hant": "森藏"
+    },
+    "species": {
+      "en": "Lion",
+      "ja": "ライオン",
+      "zh-Hant": "獅子"
+    },
+    "gender": "Male",
+    "birthday": "07/10",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "blue",
+    "image": "320.png"
+  },
+  {
+    "id": "321",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Mallary",
+      "ja": "スミモモ",
+      "zh-Hant": "四角"
+    },
+    "species": {
+      "en": "Duck",
+      "ja": "アヒル",
+      "zh-Hant": "鴨"
+    },
+    "gender": "Female",
+    "birthday": "11/17",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "yellow",
+    "image": "321.png"
+  },
+  {
+    "id": "322",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Rocco",
+      "ja": "ゴンザレス",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Hippo",
+      "ja": "カバ",
+      "zh-Hant": "河馬"
+    },
+    "gender": "Male",
+    "birthday": "08/18",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "sakura",
+    "image": "322.png"
+  },
+  {
+    "id": "323",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Katt",
+      "ja": "ちょい",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Female",
+    "birthday": "04/27",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "darkGreen",
+    "image": "323.png"
+  },
+  {
+    "id": "324",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Graham",
+      "ja": "グラハム",
+      "zh-Hant": "格雷漢"
+    },
+    "species": {
+      "en": "Hamster",
+      "ja": "ハムスター",
+      "zh-Hant": "倉鼠"
+    },
+    "gender": "Male",
+    "birthday": "06/20",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "orange",
+    "image": "324.png"
+  },
+  {
+    "id": "325",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Peaches",
+      "ja": "ドサコ",
+      "zh-Hant": "盆梅"
+    },
+    "species": {
+      "en": "Horse",
+      "ja": "ウマ",
+      "zh-Hant": "馬"
+    },
+    "gender": "Female",
+    "birthday": "11/28",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "teal",
+    "image": "325.png"
+  },
+  {
+    "id": "326",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Dizzy",
+      "ja": "ヒュージ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Elephant",
+      "ja": "ゾウ",
+      "zh-Hant": "大象"
+    },
+    "gender": "Male",
+    "birthday": "07/14",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "blue",
+    "image": "326.png"
+  },
+  {
+    "id": "327",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Penelope",
+      "ja": "チューこ",
+      "zh-Hant": "企鵝達"
+    },
+    "species": {
+      "en": "Mouse",
+      "ja": "ネズミ",
+      "zh-Hant": "老鼠"
+    },
+    "gender": "Female",
+    "birthday": "02/05",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "brown",
+    "image": "327.png"
+  },
+  {
+    "id": "328",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Boone",
+      "ja": "まんたろう",
+      "zh-Hant": "戴克"
+    },
+    "species": {
+      "en": "Gorilla",
+      "ja": "ゴリラ",
+      "zh-Hant": "猩猩"
+    },
+    "gender": "Male",
+    "birthday": "09/12",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "green",
+    "image": "328.png"
+  },
+  {
+    "id": "329",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Broffina",
+      "ja": "カサンドラ",
+      "zh-Hant": "渦卷"
+    },
+    "species": {
+      "en": "Chicken",
+      "ja": "ニワトリ",
+      "zh-Hant": "雞"
+    },
+    "gender": "Female",
+    "birthday": "10/24",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "yellow",
+    "image": "329.png"
+  },
+  {
+    "id": "330",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Croque",
+      "ja": "タイシ",
+      "zh-Hant": "嘉次"
+    },
+    "species": {
+      "en": "Frog",
+      "ja": "カエル",
+      "zh-Hant": "青蛙"
+    },
+    "gender": "Male",
+    "birthday": "07/18",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "blue",
+    "image": "330.png"
+  },
+  {
+    "id": "331",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Pashmina",
+      "ja": "バーバラ",
+      "zh-Hant": "芭芭拉"
+    },
+    "species": {
+      "en": "Goat",
+      "ja": "ヤギ",
+      "zh-Hant": "山羊"
+    },
+    "gender": "Female",
+    "birthday": "12/26",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "tangerine",
+    "image": "331.png"
+  },
+  {
+    "id": "332",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Shep",
+      "ja": "ボブ",
+      "zh-Hant": "波利斯"
+    },
+    "species": {
+      "en": "Dog",
+      "ja": "イヌ",
+      "zh-Hant": "狗"
+    },
+    "gender": "Male",
+    "birthday": "11/24",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "teal",
+    "image": "332.png"
+  },
+  {
+    "id": "333",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Lolly",
+      "ja": "ラムネ",
+      "zh-Hant": "彈珠汽水"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Female",
+    "birthday": "03/27",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "red",
+    "image": "333.png"
+  },
+  {
+    "id": "334",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Erik",
+      "ja": "チャック",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Deer",
+      "ja": "シカ",
+      "zh-Hant": "鹿"
+    },
+    "gender": "Male",
+    "birthday": "07/27",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "sakura",
+    "image": "334.png"
+  },
+  {
+    "id": "335",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Dotty",
+      "ja": "マーサ",
+      "zh-Hant": "瑪莎"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Female",
+    "birthday": "03/14",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "pink",
+    "image": "335.png"
+  },
+  {
+    "id": "336",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Pierce",
+      "ja": "セバスチャン",
+      "zh-Hant": "安東尼"
+    },
+    "species": {
+      "en": "Eagle",
+      "ja": "ワシ",
+      "zh-Hant": "鷹"
+    },
+    "gender": "Male",
+    "birthday": "01/08",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "tangerine",
+    "image": "336.png"
+  },
+  {
+    "id": "337",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Queenie",
+      "ja": "タキュ",
+      "zh-Hant": "格雷歐"
+    },
+    "species": {
+      "en": "Ostrich",
+      "ja": "ダチョウ",
+      "zh-Hant": "鴕鳥"
+    },
+    "gender": "Female",
+    "birthday": "11/13",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "yellow",
+    "image": "337.png"
+  },
+  {
+    "id": "338",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Fang",
+      "ja": "シベリア",
+      "zh-Hant": "西伯利亞"
+    },
+    "species": {
+      "en": "Wolf",
+      "ja": "オオカミ",
+      "zh-Hant": "狼"
+    },
+    "gender": "Male",
+    "birthday": "12/18",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "teal",
+    "image": "338.png"
+  },
+  {
+    "id": "339",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Frita",
+      "ja": "ウェンディ",
+      "zh-Hant": "小潤"
+    },
+    "species": {
+      "en": "Sheep",
+      "ja": "ヒツジ",
+      "zh-Hant": "綿羊"
+    },
+    "gender": "Female",
+    "birthday": "07/16",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "blue",
+    "image": "339.png"
+  },
+  {
+    "id": "340",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Tex",
+      "ja": "ボルト",
+      "zh-Hant": "德州"
+    },
+    "species": {
+      "en": "Penguin",
+      "ja": "ペンギン",
+      "zh-Hant": "企鵝"
+    },
+    "gender": "Male",
+    "birthday": "10/06",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "340.png"
+  },
+  {
+    "id": "341",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Melba",
+      "ja": "アデレード",
+      "zh-Hant": "墨爾本"
+    },
+    "species": {
+      "en": "Koala",
+      "ja": "コアラ",
+      "zh-Hant": "無尾熊"
+    },
+    "gender": "Female",
+    "birthday": "04/12",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "red",
+    "image": "341.png"
+  },
+  {
+    "id": "342",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Bones",
+      "ja": "トミ",
+      "zh-Hant": "阿富"
+    },
+    "species": {
+      "en": "Dog",
+      "ja": "イヌ",
+      "zh-Hant": "狗"
+    },
+    "gender": "Male",
+    "birthday": "08/04",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "sakura",
+    "image": "342.png"
+  },
+  {
+    "id": "343",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Anabelle",
+      "ja": "あるみ",
+      "zh-Hant": "紅豆"
+    },
+    "species": {
+      "en": "Anteater",
+      "ja": "アリクイ",
+      "zh-Hant": "食蟻獸"
+    },
+    "gender": "Female",
+    "birthday": "02/16",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "brown",
+    "image": "343.png"
+  },
+  {
+    "id": "344",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Rudy",
+      "ja": "チャス",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Male",
+    "birthday": "12/20",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "teal",
+    "image": "344.png"
+  },
+  {
+    "id": "345",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Naomi",
+      "ja": "ハナコ",
+      "zh-Hant": "哈克"
+    },
+    "species": {
+      "en": "Cow",
+      "ja": "ウシ",
+      "zh-Hant": "乳牛"
+    },
+    "gender": "Female",
+    "birthday": "02/28",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "pink",
+    "image": "345.png"
+  },
+  {
+    "id": "346",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Peewee",
+      "ja": "ダンベル",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Gorilla",
+      "ja": "ゴリラ",
+      "zh-Hant": "猩猩"
+    },
+    "gender": "Male",
+    "birthday": "09/11",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "green",
+    "image": "346.png"
+  },
+  {
+    "id": "347",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Tammy",
+      "ja": "アネッサ",
+      "zh-Hant": "安妮"
+    },
+    "species": {
+      "en": "Bear cub",
+      "ja": "コグマ",
+      "zh-Hant": "小熊"
+    },
+    "gender": "Female",
+    "birthday": "06/23",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "blue",
+    "image": "347.png"
+  },
+  {
+    "id": "348",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Olaf",
+      "ja": "アントニオ",
+      "zh-Hant": "亞倫"
+    },
+    "species": {
+      "en": "Anteater",
+      "ja": "アリクイ",
+      "zh-Hant": "食蟻獸"
+    },
+    "gender": "Male",
+    "birthday": "05/19",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "darkGreen",
+    "image": "348.png"
+  },
+  {
+    "id": "349",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Lucy",
+      "ja": "ルーシー",
+      "zh-Hant": "莎莉"
+    },
+    "species": {
+      "en": "Pig",
+      "ja": "ブタ",
+      "zh-Hant": "豬"
+    },
+    "gender": "Female",
+    "birthday": "06/02",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "orange",
+    "image": "349.png"
+  },
+  {
+    "id": "350",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Elmer",
+      "ja": "サブレ",
+      "zh-Hant": "火鳥"
+    },
+    "species": {
+      "en": "Horse",
+      "ja": "ウマ",
+      "zh-Hant": "馬"
+    },
+    "gender": "Male",
+    "birthday": "10/05",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "350.png"
+  },
+  {
+    "id": "351",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Puddles",
+      "ja": "チョキ",
+      "zh-Hant": "蕾妮"
+    },
+    "species": {
+      "en": "Frog",
+      "ja": "カエル",
+      "zh-Hant": "青蛙"
+    },
+    "gender": "Female",
+    "birthday": "01/13",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "tangerine",
+    "image": "351.png"
+  },
+  {
+    "id": "352",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Rory",
+      "ja": "アーサー",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Lion",
+      "ja": "ライオン",
+      "zh-Hant": "獅子"
+    },
+    "gender": "Male",
+    "birthday": "08/07",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "sakura",
+    "image": "352.png"
+  },
+  {
+    "id": "353",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Elise",
+      "ja": "モンこ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Monkey",
+      "ja": "サル",
+      "zh-Hant": "猴子"
+    },
+    "gender": "Female",
+    "birthday": "03/21",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "red",
+    "image": "353.png"
+  },
+  {
+    "id": "354",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Walt",
+      "ja": "カンロク",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Kangaroo",
+      "ja": "カンガルー",
+      "zh-Hant": "袋鼠"
+    },
+    "gender": "Male",
+    "birthday": "04/24",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "darkGreen",
+    "image": "354.png"
+  },
+  {
+    "id": "355",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Mira",
+      "ja": "ミラコ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Female",
+    "birthday": "07/06",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "blue",
+    "image": "355.png"
+  },
+  {
+    "id": "356",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Pietro",
+      "ja": "ジュペッティ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Sheep",
+      "ja": "ヒツジ",
+      "zh-Hant": "綿羊"
+    },
+    "gender": "Male",
+    "birthday": "04/19",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "red",
+    "image": "356.png"
+  },
+  {
+    "id": "357",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Aurora",
+      "ja": "オーロラ",
+      "zh-Hant": "歐若拉"
+    },
+    "species": {
+      "en": "Penguin",
+      "ja": "ペンギン",
+      "zh-Hant": "企鵝"
+    },
+    "gender": "Female",
+    "birthday": "01/27",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "brown",
+    "image": "357.png"
+  },
+  {
+    "id": "358",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Papi",
+      "ja": "オカッピ",
+      "zh-Hant": "珀西瓦"
+    },
+    "species": {
+      "en": "Horse",
+      "ja": "ウマ",
+      "zh-Hant": "馬"
+    },
+    "gender": "Male",
+    "birthday": "01/10",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "tangerine",
+    "image": "358.png"
+  },
+  {
+    "id": "359",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Apple",
+      "ja": "アップル",
+      "zh-Hant": "蘋果"
+    },
+    "species": {
+      "en": "Hamster",
+      "ja": "ハムスター",
+      "zh-Hant": "倉鼠"
+    },
+    "gender": "Female",
+    "birthday": "09/24",
+    "diceValue": 3,
+    "handSign": "rock",
+    "backgroundColor": "purple",
+    "image": "359.png"
+  },
+  {
+    "id": "360",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Rod",
+      "ja": "ジャン",
+      "zh-Hant": "查克"
+    },
+    "species": {
+      "en": "Mouse",
+      "ja": "ネズミ",
+      "zh-Hant": "老鼠"
+    },
+    "gender": "Male",
+    "birthday": "08/14",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "sakura",
+    "image": "360.png"
+  },
+  {
+    "id": "361",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Purrl",
+      "ja": "たま",
+      "zh-Hant": "玉美"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Female",
+    "birthday": "05/29",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "orange",
+    "image": "361.png"
+  },
+  {
+    "id": "362",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Static",
+      "ja": "スパーク",
+      "zh-Hant": "火花"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Male",
+    "birthday": "07/09",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "blue",
+    "image": "362.png"
+  },
+  {
+    "id": "363",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Celia",
+      "ja": "ティファニー",
+      "zh-Hant": "珍妮"
+    },
+    "species": {
+      "en": "Eagle",
+      "ja": "ワシ",
+      "zh-Hant": "鷹"
+    },
+    "gender": "Female",
+    "birthday": "03/25",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "red",
+    "image": "363.png"
+  },
+  {
+    "id": "364",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Zucker",
+      "ja": "タコヤ",
+      "zh-Hant": "章丸丸"
+    },
+    "species": {
+      "en": "Octopus",
+      "ja": "タコ",
+      "zh-Hant": "章魚"
+    },
+    "gender": "Male",
+    "birthday": "03/08",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "pink",
+    "image": "364.png"
+  },
+  {
+    "id": "365",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Peggy",
+      "ja": "ちえり",
+      "zh-Hant": "阿格"
+    },
+    "species": {
+      "en": "Pig",
+      "ja": "ブタ",
+      "zh-Hant": "豬"
+    },
+    "gender": "Female",
+    "birthday": "05/23",
+    "diceValue": 5,
+    "handSign": "paper",
+    "backgroundColor": "orange",
+    "image": "365.png"
+  },
+  {
+    "id": "366",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Ribbot",
+      "ja": "ガチャ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Frog",
+      "ja": "カエル",
+      "zh-Hant": "青蛙"
+    },
+    "gender": "Male",
+    "birthday": "02/13",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "brown",
+    "image": "366.png"
+  },
+  {
+    "id": "367",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Annalise",
+      "ja": "シルブプレ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Horse",
+      "ja": "ウマ",
+      "zh-Hant": "馬"
+    },
+    "gender": "Female",
+    "birthday": "12/02",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "teal",
+    "image": "367.png"
+  },
+  {
+    "id": "368",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Chow",
+      "ja": "チャウヤン",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Bear",
+      "ja": "クマ",
+      "zh-Hant": "熊"
+    },
+    "gender": "Male",
+    "birthday": "07/22",
+    "diceValue": 6,
+    "handSign": "rock",
+    "backgroundColor": "blue",
+    "image": "368.png"
+  },
+  {
+    "id": "369",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Sylvia",
+      "ja": "シルビア",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Kangaroo",
+      "ja": "カンガルー",
+      "zh-Hant": "袋鼠"
+    },
+    "gender": "Female",
+    "birthday": "05/03",
+    "diceValue": 4,
+    "handSign": "scissors",
+    "backgroundColor": "darkGreen",
+    "image": "369.png"
+  },
+  {
+    "id": "370",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Jacques",
+      "ja": "ジョッキー",
+      "zh-Hant": "傑克"
+    },
+    "species": {
+      "en": "Bird",
+      "ja": "トリ",
+      "zh-Hant": "鳥"
+    },
+    "gender": "Male",
+    "birthday": "06/22",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "blue",
+    "image": "370.png"
+  },
+  {
+    "id": "371",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Sally",
+      "ja": "ララミー",
+      "zh-Hant": "盆梅"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Female",
+    "birthday": "06/19",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "orange",
+    "image": "371.png"
+  },
+  {
+    "id": "372",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Doc",
+      "ja": "トビオ",
+      "zh-Hant": "海苔卷"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Male",
+    "birthday": "03/16",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "pink",
+    "image": "372.png"
+  },
+  {
+    "id": "373",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Pompom",
+      "ja": "のりっぺ",
+      "zh-Hant": "恰可"
+    },
+    "species": {
+      "en": "Duck",
+      "ja": "アヒル",
+      "zh-Hant": "鴨"
+    },
+    "gender": "Female",
+    "birthday": "02/11",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "brown",
+    "image": "373.png"
+  },
+  {
+    "id": "374",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Tank",
+      "ja": "くるぶし",
+      "zh-Hant": "正男"
+    },
+    "species": {
+      "en": "Rhino",
+      "ja": "サイ",
+      "zh-Hant": "犀牛"
+    },
+    "gender": "Male",
+    "birthday": "05/06",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "darkGreen",
+    "image": "374.png"
+  },
+  {
+    "id": "375",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Becky",
+      "ja": "アリア",
+      "zh-Hant": "娜塔莉"
+    },
+    "species": {
+      "en": "Chicken",
+      "ja": "ニワトリ",
+      "zh-Hant": "雞"
+    },
+    "gender": "Female",
+    "birthday": "12/09",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "teal",
+    "image": "375.png"
+  },
+  {
+    "id": "376",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Rizzo",
+      "ja": "ちょろきち",
+      "zh-Hant": "千歲"
+    },
+    "species": {
+      "en": "Mouse",
+      "ja": "ネズミ",
+      "zh-Hant": "老鼠"
+    },
+    "gender": "Male",
+    "birthday": "01/17",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "tangerine",
+    "image": "376.png"
+  },
+  {
+    "id": "377",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Sydney",
+      "ja": "シドニー",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Koala",
+      "ja": "コアラ",
+      "zh-Hant": "無尾熊"
+    },
+    "gender": "Female",
+    "birthday": "06/21",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "orange",
+    "image": "377.png"
+  },
+  {
+    "id": "378",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Barold",
+      "ja": "ニッシー",
+      "zh-Hant": "宣夫"
+    },
+    "species": {
+      "en": "Bear cub",
+      "ja": "コグマ",
+      "zh-Hant": "小熊"
+    },
+    "gender": "Male",
+    "birthday": "03/02",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "pink",
+    "image": "378.png"
+  },
+  {
+    "id": "379",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Nibbles",
+      "ja": "ガリガリ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Female",
+    "birthday": "07/19",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "blue",
+    "image": "379.png"
+  },
+  {
+    "id": "380",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Kevin",
+      "ja": "イノッチ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Pig",
+      "ja": "ブタ",
+      "zh-Hant": "豬"
+    },
+    "gender": "Male",
+    "birthday": "04/26",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "darkGreen",
+    "image": "380.png"
+  },
+  {
+    "id": "381",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Gloria",
+      "ja": "スワンソン",
+      "zh-Hant": "莎賓娜"
+    },
+    "species": {
+      "en": "Duck",
+      "ja": "アヒル",
+      "zh-Hant": "鴨"
+    },
+    "gender": "Female",
+    "birthday": "08/12",
+    "diceValue": 1,
+    "handSign": "rock",
+    "backgroundColor": "sakura",
+    "image": "381.png"
+  },
+  {
+    "id": "382",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Lobo",
+      "ja": "ブンジロウ",
+      "zh-Hant": "文次郎"
+    },
+    "species": {
+      "en": "Wolf",
+      "ja": "オオカミ",
+      "zh-Hant": "狼"
+    },
+    "gender": "Male",
+    "birthday": "11/05",
+    "diceValue": 3,
+    "handSign": "paper",
+    "backgroundColor": "yellow",
+    "image": "382.png"
+  },
+  {
+    "id": "383",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Hippeux",
+      "ja": "ディビッド",
+      "zh-Hant": "大介"
+    },
+    "species": {
+      "en": "Hippo",
+      "ja": "カバ",
+      "zh-Hant": "河馬"
+    },
+    "gender": "Male",
+    "birthday": "10/15",
+    "diceValue": 5,
+    "handSign": "scissors",
+    "backgroundColor": "purple",
+    "image": "383.png"
+  },
+  {
+    "id": "384",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Margie",
+      "ja": "サリー",
+      "zh-Hant": "莎莉"
+    },
+    "species": {
+      "en": "Elephant",
+      "ja": "ゾウ",
+      "zh-Hant": "大象"
+    },
+    "gender": "Female",
+    "birthday": "01/28",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "brown",
+    "image": "384.png"
+  },
+  {
+    "id": "385",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Lucky",
+      "ja": "ラッキー",
+      "zh-Hant": "好運"
+    },
+    "species": {
+      "en": "Dog",
+      "ja": "イヌ",
+      "zh-Hant": "狗"
+    },
+    "gender": "Male",
+    "birthday": "11/04",
+    "diceValue": 1,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "385.png"
+  },
+  {
+    "id": "386",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Rosie",
+      "ja": "ブーケ",
+      "zh-Hant": "花花"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Female",
+    "birthday": "02/27",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "pink",
+    "image": "386.png"
+  },
+  {
+    "id": "387",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Rowan",
+      "ja": "ゴメス",
+      "zh-Hant": "章魚燒"
+    },
+    "species": {
+      "en": "Tiger",
+      "ja": "トラ",
+      "zh-Hant": "老虎"
+    },
+    "gender": "Male",
+    "birthday": "08/26",
+    "diceValue": 2,
+    "handSign": "rock",
+    "backgroundColor": "green",
+    "image": "387.png"
+  },
+  {
+    "id": "388",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Maelle",
+      "ja": "アンヌ",
+      "zh-Hant": "櫻桃"
+    },
+    "species": {
+      "en": "Duck",
+      "ja": "アヒル",
+      "zh-Hant": "鴨"
+    },
+    "gender": "Female",
+    "birthday": "04/08",
+    "diceValue": 6,
+    "handSign": "paper",
+    "backgroundColor": "red",
+    "image": "388.png"
+  },
+  {
+    "id": "389",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Bruce",
+      "ja": "ブルース",
+      "zh-Hant": "布魯斯"
+    },
+    "species": {
+      "en": "Deer",
+      "ja": "シカ",
+      "zh-Hant": "鹿"
+    },
+    "gender": "Male",
+    "birthday": "05/26",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "orange",
+    "image": "389.png"
+  },
+  {
+    "id": "390",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "O'Hare",
+      "ja": "サントス",
+      "zh-Hant": "薄荷"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Male",
+    "birthday": "07/24",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "sakura",
+    "image": "390.png"
+  },
+  {
+    "id": "391",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Gayle",
+      "ja": "アリゲッティ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Alligator",
+      "ja": "ワニ",
+      "zh-Hant": "鱷魚"
+    },
+    "gender": "Female",
+    "birthday": "05/17",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "darkGreen",
+    "image": "391.png"
+  },
+  {
+    "id": "392",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Cranston",
+      "ja": "トキオ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Ostrich",
+      "ja": "ダチョウ",
+      "zh-Hant": "鴕鳥"
+    },
+    "gender": "Male",
+    "birthday": "09/23",
+    "diceValue": 2,
+    "handSign": "paper",
+    "backgroundColor": "purple",
+    "image": "392.png"
+  },
+  {
+    "id": "393",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Frobert",
+      "ja": "コージィ",
+      "zh-Hant": "卡爾"
+    },
+    "species": {
+      "en": "Frog",
+      "ja": "カエル",
+      "zh-Hant": "青蛙"
+    },
+    "gender": "Male",
+    "birthday": "02/08",
+    "diceValue": 6,
+    "handSign": "scissors",
+    "backgroundColor": "brown",
+    "image": "393.png"
+  },
+  {
+    "id": "394",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Grizzly",
+      "ja": "ムー",
+      "zh-Hant": "阿牧"
+    },
+    "species": {
+      "en": "Bear",
+      "ja": "クマ",
+      "zh-Hant": "熊"
+    },
+    "gender": "Male",
+    "birthday": "07/31",
+    "diceValue": 4,
+    "handSign": "rock",
+    "backgroundColor": "sakura",
+    "image": "394.png"
+  },
+  {
+    "id": "395",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Cally",
+      "ja": "パセリ",
+      "zh-Hant": "巴西利"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Female",
+    "birthday": "09/04",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "green",
+    "image": "395.png"
+  },
+  {
+    "id": "396",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Simon",
+      "ja": "エテキチ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Monkey",
+      "ja": "サル",
+      "zh-Hant": "猴子"
+    },
+    "gender": "Male",
+    "birthday": "01/19",
+    "diceValue": 1,
+    "handSign": "paper",
+    "backgroundColor": "tangerine",
+    "image": "396.png"
+  },
+  {
+    "id": "397",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Iggly",
+      "ja": "のりまき",
+      "zh-Hant": "企鵝達"
+    },
+    "species": {
+      "en": "Penguin",
+      "ja": "ペンギン",
+      "zh-Hant": "企鵝"
+    },
+    "gender": "Male",
+    "birthday": "11/02",
+    "diceValue": 2,
+    "handSign": "scissors",
+    "backgroundColor": "yellow",
+    "image": "397.png"
+  },
+  {
+    "id": "398",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Angus",
+      "ja": "セルバンテス",
+      "zh-Hant": "波爾奇"
+    },
+    "species": {
+      "en": "Bull",
+      "ja": "ウシ",
+      "zh-Hant": "公牛"
+    },
+    "gender": "Male",
+    "birthday": "04/30",
+    "diceValue": 5,
+    "handSign": "rock",
+    "backgroundColor": "darkGreen",
+    "image": "398.png"
+  },
+  {
+    "id": "399",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Twiggy",
+      "ja": "ピーチク",
+      "zh-Hant": "皮可蘿"
+    },
+    "species": {
+      "en": "Bird",
+      "ja": "トリ",
+      "zh-Hant": "鳥"
+    },
+    "gender": "Female",
+    "birthday": "07/13",
+    "diceValue": 4,
+    "handSign": "paper",
+    "backgroundColor": "blue",
+    "image": "399.png"
+  },
+  {
+    "id": "400",
+    "series": 4,
+    "type": "normal",
+    "name": {
+      "en": "Robin",
+      "ja": "パーチク",
+      "zh-Hant": "時雄"
+    },
+    "species": {
+      "en": "Bird",
+      "ja": "トリ",
+      "zh-Hant": "鳥"
+    },
+    "gender": "Female",
+    "birthday": "12/04",
+    "diceValue": 3,
+    "handSign": "scissors",
+    "backgroundColor": "teal",
+    "image": "400.png"
+  },
+  {
+    "id": "401",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Tom Nook",
+      "ja": "たぬきち",
+      "zh-Hant": "狸克"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "05/30",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "orange",
+    "image": "401.png"
+  },
+  {
+    "id": "402",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Timmy & Tommy",
+      "ja": "まめきち＆つぶきち",
+      "zh-Hant": "豆吉&粒吉"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "06/07",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "orange",
+    "image": "402.png"
+  },
+  {
+    "id": "403",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Isabelle",
+      "ja": "しずえ",
+      "zh-Hant": "西施惠"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "12/20",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "teal",
+    "image": "403.png"
+  },
+  {
+    "id": "404",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Orville",
+      "ja": "モーリー",
+      "zh-Hant": "莫利"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "10/02",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "purple",
+    "image": "404.png"
+  },
+  {
+    "id": "405",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Wilbur",
+      "ja": "ロドリー",
+      "zh-Hant": "羅德利"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "07/04",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "blue",
+    "image": "405.png"
+  },
+  {
+    "id": "406",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Blathers",
+      "ja": "フータ",
+      "zh-Hant": "傅達"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "09/24",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "purple",
+    "image": "406.png"
+  },
+  {
+    "id": "407",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Celeste",
+      "ja": "フーコ",
+      "zh-Hant": "傅珂"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "09/07",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "green",
+    "image": "407.png"
+  },
+  {
+    "id": "408",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Mabel",
+      "ja": "きぬよ",
+      "zh-Hant": "衣代"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "05/22",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "orange",
+    "image": "408.png"
+  },
+  {
+    "id": "409",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Sable",
+      "ja": "あさみ",
+      "zh-Hant": "絹代"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "11/22",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "yellow",
+    "image": "409.png"
+  },
+  {
+    "id": "410",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Label",
+      "ja": "ことの",
+      "zh-Hant": "琴乃"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "10/31",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "yellow",
+    "image": "410.png"
+  },
+  {
+    "id": "411",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "K.K.",
+      "ja": "とたけけ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "08/23",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "green",
+    "image": "411.png"
+  },
+  {
+    "id": "412",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "C.J.",
+      "ja": "ジャスティン",
+      "zh-Hant": "賈斯丁"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "03/07",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "pink",
+    "image": "412.png"
+  },
+  {
+    "id": "413",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Flick",
+      "ja": "レックス",
+      "zh-Hant": "俐落思"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "05/10",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "darkGreen",
+    "image": "413.png"
+  },
+  {
+    "id": "414",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Daisy Mae",
+      "ja": "ウリ",
+      "zh-Hant": "曹賣妹"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "03/30",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "red",
+    "image": "414.png"
+  },
+  {
+    "id": "415",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Kicks",
+      "ja": "シャンク",
+      "zh-Hant": "阿鞋"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "11/30",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "teal",
+    "image": "415.png"
+  },
+  {
+    "id": "416",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Saharah",
+      "ja": "ローラン",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "11/10",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "yellow",
+    "image": "416.png"
+  },
+  {
+    "id": "417",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Harvey",
+      "ja": "パニエル",
+      "zh-Hant": "巴獵"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "08/02",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "sakura",
+    "image": "417.png"
+  },
+  {
+    "id": "418",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Gulliver",
+      "ja": "ジョニー",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "05/25",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "orange",
+    "image": "418.png"
+  },
+  {
+    "id": "419",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Wisp",
+      "ja": "ゆうたろう",
+      "zh-Hant": "幽太郎"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "02/26",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "pink",
+    "image": "419.png"
+  },
+  {
+    "id": "420",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Lottie",
+      "ja": "タクミ",
+      "zh-Hant": "巧美"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "09/12",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "green",
+    "image": "420.png"
+  },
+  {
+    "id": "421",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Niko",
+      "ja": "ニコ",
+      "zh-Hant": "尼克"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "01/11",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "tangerine",
+    "image": "421.png"
+  },
+  {
+    "id": "422",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Wardell",
+      "ja": "ナッティー",
+      "zh-Hant": "浩一"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "02/07",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "brown",
+    "image": "422.png"
+  },
+  {
+    "id": "423",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Tom Nook",
+      "ja": "たぬきち",
+      "zh-Hant": "狸克"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Male",
+    "birthday": "05/30",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "orange",
+    "image": "423.png"
+  },
+  {
+    "id": "424",
+    "series": 5,
+    "type": "special",
+    "name": {
+      "en": "Isabelle",
+      "ja": "しずえ",
+      "zh-Hant": "西施惠"
+    },
+    "species": {
+      "en": "Special",
+      "ja": "特殊",
+      "zh-Hant": "特殊"
+    },
+    "gender": "Female",
+    "birthday": "12/20",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "teal",
+    "image": "424.png"
+  },
+  {
+    "id": "425",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Sherb",
+      "ja": "レム",
+      "zh-Hant": "雷姆"
+    },
+    "species": {
+      "en": "Goat",
+      "ja": "ヤギ",
+      "zh-Hant": "山羊"
+    },
+    "gender": "Male",
+    "birthday": "01/18",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "tangerine",
+    "image": "425.png"
+  },
+  {
+    "id": "426",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Megan",
+      "ja": "キャンディ",
+      "zh-Hant": "惠美"
+    },
+    "species": {
+      "en": "Bear",
+      "ja": "クマ",
+      "zh-Hant": "熊"
+    },
+    "gender": "Female",
+    "birthday": "03/13",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "pink",
+    "image": "426.png"
+  },
+  {
+    "id": "427",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Dom",
+      "ja": "ちゃちゃまる",
+      "zh-Hant": "恰恰"
+    },
+    "species": {
+      "en": "Sheep",
+      "ja": "ヒツジ",
+      "zh-Hant": "綿羊"
+    },
+    "gender": "Male",
+    "birthday": "03/18",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "pink",
+    "image": "427.png"
+  },
+  {
+    "id": "428",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Audie",
+      "ja": "モニカ",
+      "zh-Hant": "莫妮卡"
+    },
+    "species": {
+      "en": "Wolf",
+      "ja": "オオカミ",
+      "zh-Hant": "狼"
+    },
+    "gender": "Female",
+    "birthday": "08/31",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "green",
+    "image": "428.png"
+  },
+  {
+    "id": "429",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Cyd",
+      "ja": "パンクス",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Elephant",
+      "ja": "ゾウ",
+      "zh-Hant": "大象"
+    },
+    "gender": "Male",
+    "birthday": "06/09",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "orange",
+    "image": "429.png"
+  },
+  {
+    "id": "430",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Judy",
+      "ja": "みすず",
+      "zh-Hant": "美鈴"
+    },
+    "species": {
+      "en": "Bear cub",
+      "ja": "コグマ",
+      "zh-Hant": "小熊"
+    },
+    "gender": "Female",
+    "birthday": "03/10",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "pink",
+    "image": "430.png"
+  },
+  {
+    "id": "431",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Raymond",
+      "ja": "ジャック",
+      "zh-Hant": "傑克"
+    },
+    "species": {
+      "en": "Cat",
+      "ja": "ネコ",
+      "zh-Hant": "貓"
+    },
+    "gender": "Male",
+    "birthday": "10/01",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "purple",
+    "image": "431.png"
+  },
+  {
+    "id": "432",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Reneigh",
+      "ja": "リアーナ",
+      "zh-Hant": "蕾妮"
+    },
+    "species": {
+      "en": "Horse",
+      "ja": "ウマ",
+      "zh-Hant": "馬"
+    },
+    "gender": "Female",
+    "birthday": "06/04",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "orange",
+    "image": "432.png"
+  },
+  {
+    "id": "433",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Sasha",
+      "ja": "ミッチェル",
+      "zh-Hant": "米乘爾"
+    },
+    "species": {
+      "en": "Rabbit",
+      "ja": "ウサギ",
+      "zh-Hant": "兔子"
+    },
+    "gender": "Male",
+    "birthday": "05/19",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "darkGreen",
+    "image": "433.png"
+  },
+  {
+    "id": "434",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Ione",
+      "ja": "スピカ",
+      "zh-Hant": "蜜拉可"
+    },
+    "species": {
+      "en": "Squirrel",
+      "ja": "リス",
+      "zh-Hant": "松鼠"
+    },
+    "gender": "Female",
+    "birthday": "09/11",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "green",
+    "image": "434.png"
+  },
+  {
+    "id": "435",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Tiansheng",
+      "ja": "テンシン",
+      "zh-Hant": "天神"
+    },
+    "species": {
+      "en": "Monkey",
+      "ja": "サル",
+      "zh-Hant": "猴子"
+    },
+    "gender": "Male",
+    "birthday": "08/18",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "sakura",
+    "image": "435.png"
+  },
+  {
+    "id": "436",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Shino",
+      "ja": "よしの",
+      "zh-Hant": "詩乃"
+    },
+    "species": {
+      "en": "Deer",
+      "ja": "シカ",
+      "zh-Hant": "鹿"
+    },
+    "gender": "Female",
+    "birthday": "10/31",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "yellow",
+    "image": "436.png"
+  },
+  {
+    "id": "437",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Marlo",
+      "ja": "ドンチャン",
+      "zh-Hant": "卡西諾"
+    },
+    "species": {
+      "en": "Hamster",
+      "ja": "ハムスター",
+      "zh-Hant": "倉鼠"
+    },
+    "gender": "Male",
+    "birthday": "06/26",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "blue",
+    "image": "437.png"
+  },
+  {
+    "id": "438",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Petri",
+      "ja": "リカ",
+      "zh-Hant": "茱莉亞"
+    },
+    "species": {
+      "en": "Mouse",
+      "ja": "ネズミ",
+      "zh-Hant": "老鼠"
+    },
+    "gender": "Female",
+    "birthday": "10/23",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "purple",
+    "image": "438.png"
+  },
+  {
+    "id": "439",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Cephalobot",
+      "ja": "ギーガー",
+      "zh-Hant": "仁平"
+    },
+    "species": {
+      "en": "Octopus",
+      "ja": "タコ",
+      "zh-Hant": "章魚"
+    },
+    "gender": "Male",
+    "birthday": "04/01",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "red",
+    "image": "439.png"
+  },
+  {
+    "id": "440",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Quinn",
+      "ja": "シオン",
+      "zh-Hant": "秀吉"
+    },
+    "species": {
+      "en": "Eagle",
+      "ja": "ワシ",
+      "zh-Hant": "鷹"
+    },
+    "gender": "Female",
+    "birthday": "01/20",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "brown",
+    "image": "440.png"
+  },
+  {
+    "id": "441",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Chabwick",
+      "ja": "のぶお",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Penguin",
+      "ja": "ペンギン",
+      "zh-Hant": "企鵝"
+    },
+    "gender": "Male",
+    "birthday": "12/24",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "tangerine",
+    "image": "441.png"
+  },
+  {
+    "id": "442",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Zoe",
+      "ja": "ビーフン",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Anteater",
+      "ja": "アリクイ",
+      "zh-Hant": "食蟻獸"
+    },
+    "gender": "Female",
+    "birthday": "02/10",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "brown",
+    "image": "442.png"
+  },
+  {
+    "id": "443",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Ace",
+      "ja": "フェザー",
+      "zh-Hant": "秀一"
+    },
+    "species": {
+      "en": "Bird",
+      "ja": "トリ",
+      "zh-Hant": "鳥"
+    },
+    "gender": "Male",
+    "birthday": "08/11",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "sakura",
+    "image": "443.png"
+  },
+  {
+    "id": "444",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Rio",
+      "ja": "デジャネイロ",
+      "zh-Hant": "乘龍"
+    },
+    "species": {
+      "en": "Ostrich",
+      "ja": "ダチョウ",
+      "zh-Hant": "鴕鳥"
+    },
+    "gender": "Female",
+    "birthday": "09/10",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "green",
+    "image": "444.png"
+  },
+  {
+    "id": "445",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Frett",
+      "ja": "シャンペン",
+      "zh-Hant": "哈姆"
+    },
+    "species": {
+      "en": "Dog",
+      "ja": "イヌ",
+      "zh-Hant": "狗"
+    },
+    "gender": "Male",
+    "birthday": "10/30",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "yellow",
+    "image": "445.png"
+  },
+  {
+    "id": "446",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Azalea",
+      "ja": "ペチュニア",
+      "zh-Hant": "杜鵑"
+    },
+    "species": {
+      "en": "Rhino",
+      "ja": "サイ",
+      "zh-Hant": "犀牛"
+    },
+    "gender": "Female",
+    "birthday": "12/18",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "teal",
+    "image": "446.png"
+  },
+  {
+    "id": "447",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Roswell",
+      "ja": "ピロンコン",
+      "zh-Hant": "波以德"
+    },
+    "species": {
+      "en": "Alligator",
+      "ja": "ワニ",
+      "zh-Hant": "鱷魚"
+    },
+    "gender": "Male",
+    "birthday": "05/02",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "darkGreen",
+    "image": "447.png"
+  },
+  {
+    "id": "448",
+    "series": 5,
+    "type": "normal",
+    "name": {
+      "en": "Faith",
+      "ja": "マーチ",
+      "zh-Hant": "光男"
+    },
+    "species": {
+      "en": "Koala",
+      "ja": "コアラ",
+      "zh-Hant": "無尾熊"
+    },
+    "gender": "Female",
+    "birthday": "03/21",
+    "diceValue": null,
+    "handSign": null,
+    "backgroundColor": "red",
+    "image": "448.png"
+  }
+]

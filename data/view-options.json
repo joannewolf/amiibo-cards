@@ -1,0 +1,56 @@
+[
+  {
+    "label": "Card Number",
+    "groupBy": null,
+    "sortBy": "id",
+    "sortOrder": "asc"
+  },
+  {
+    "label": "Series",
+    "groupBy": "series",
+    "sortBy": "id",
+    "sortOrder": "asc"
+  },
+  {
+    "label": "Species",
+    "groupBy": "species",
+    "sortBy": "id",
+    "sortOrder": "asc"
+  },
+  {
+    "label": "Gender",
+    "groupBy": "gender",
+    "sortBy": "id",
+    "sortOrder": "asc"
+  },
+  {
+    "label": "Hand Sign",
+    "groupBy": "handSign",
+    "sortBy": "id",
+    "sortOrder": "asc"
+  },
+  {
+    "label": "Dice Value",
+    "groupBy": "diceValue",
+    "sortBy": "id",
+    "sortOrder": "asc"
+  },
+  {
+    "label": "Birthday",
+    "groupBy": "birthdayMonth",
+    "sortBy": "birthday",
+    "sortOrder": "asc"
+  },
+  {
+    "label": "Name",
+    "groupBy": null,
+    "sortBy": "name",
+    "sortOrder": "asc"
+  },
+  {
+    "label": "Background Color",
+    "groupBy": "backgroundColor",
+    "sortBy": "id",
+    "sortOrder": "asc"
+  }
+]
