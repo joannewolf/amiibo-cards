@@ -48,7 +48,7 @@
     "name": {
       "en": "DJ KK",
       "ja": "DJ K.K",
-      "zh-Hant": "DJ KK"
+      "zh-Hant": "KK"
     },
     "species": {
       "en": "Special",
@@ -69,7 +69,7 @@
     "name": {
       "en": "Sable",
       "ja": "あさみ",
-      "zh-Hant": "絹代"
+      "zh-Hant": "麻兒"
     },
     "species": {
       "en": "Special",
@@ -111,7 +111,7 @@
     "name": {
       "en": "Resetti",
       "ja": "リセットさん",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Special",
@@ -258,7 +258,7 @@
     "name": {
       "en": "Saharah",
       "ja": "ローラン",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Special",
@@ -384,7 +384,7 @@
     "name": {
       "en": "Fauna",
       "ja": "ドレミ",
-      "zh-Hant": "朵蕾咪"
+      "zh-Hant": "音音"
     },
     "species": {
       "en": "Deer",
@@ -426,7 +426,7 @@
     "name": {
       "en": "Portia",
       "ja": "ブレンダ",
-      "zh-Hant": "布蘭達"
+      "zh-Hant": "傅蘭"
     },
     "species": {
       "en": "Dog",
@@ -447,7 +447,7 @@
     "name": {
       "en": "Leonardo",
       "ja": "ヒョウタ",
-      "zh-Hant": "秀太"
+      "zh-Hant": "阿彪"
     },
     "species": {
       "en": "Tiger",
@@ -489,7 +489,7 @@
     "name": {
       "en": "Kyle",
       "ja": "リカルド",
-      "zh-Hant": "李乾"
+      "zh-Hant": "李可"
     },
     "species": {
       "en": "Wolf",
@@ -531,7 +531,7 @@
     "name": {
       "en": "Renée",
       "ja": "おさい",
-      "zh-Hant": "戴安"
+      "zh-Hant": "柴姐"
     },
     "species": {
       "en": "Rhino",
@@ -552,7 +552,7 @@
     "name": {
       "en": "Lopez",
       "ja": "トムソン",
-      "zh-Hant": "湯仕"
+      "zh-Hant": "湯姆"
     },
     "species": {
       "en": "Deer",
@@ -573,7 +573,7 @@
     "name": {
       "en": "Jambette",
       "ja": "エスメラルダ",
-      "zh-Hant": "艾絲梅拉達"
+      "zh-Hant": "翡翠"
     },
     "species": {
       "en": "Frog",
@@ -594,7 +594,7 @@
     "name": {
       "en": "Rasher",
       "ja": "グレオ",
-      "zh-Hant": "格雷歐"
+      "zh-Hant": "古烈"
     },
     "species": {
       "en": "Pig",
@@ -615,7 +615,7 @@
     "name": {
       "en": "Tiffany",
       "ja": "バズレー",
-      "zh-Hant": "露西"
+      "zh-Hant": "大姐頭"
     },
     "species": {
       "en": "Rabbit",
@@ -636,7 +636,7 @@
     "name": {
       "en": "Sheldon",
       "ja": "クリス",
-      "zh-Hant": "柯利斯"
+      "zh-Hant": "克栗斯"
     },
     "species": {
       "en": "Squirrel",
@@ -657,7 +657,7 @@
     "name": {
       "en": "Bluebear",
       "ja": "グルミン",
-      "zh-Hant": "小潤"
+      "zh-Hant": "娃娃"
     },
     "species": {
       "en": "Bear cub",
@@ -699,7 +699,7 @@
     "name": {
       "en": "Kiki",
       "ja": "キャビア",
-      "zh-Hant": "嘉碧"
+      "zh-Hant": "余子醬"
     },
     "species": {
       "en": "Cat",
@@ -720,7 +720,7 @@
     "name": {
       "en": "Deli",
       "ja": "デリー",
-      "zh-Hant": "狄利"
+      "zh-Hant": "德里"
     },
     "species": {
       "en": "Monkey",
@@ -741,7 +741,7 @@
     "name": {
       "en": "Alli",
       "ja": "クロコ",
-      "zh-Hant": "鱷羅斯"
+      "zh-Hant": "鱷羅思"
     },
     "species": {
       "en": "Alligator",
@@ -762,7 +762,7 @@
     "name": {
       "en": "Kabuki",
       "ja": "かぶきち",
-      "zh-Hant": "歌舞伎"
+      "zh-Hant": "戈伍紀"
     },
     "species": {
       "en": "Cat",
@@ -783,7 +783,7 @@
     "name": {
       "en": "Patty",
       "ja": "カルピ",
-      "zh-Hant": "嘉碧"
+      "zh-Hant": "阿排"
     },
     "species": {
       "en": "Cow",
@@ -825,7 +825,7 @@
     "name": {
       "en": "Gigi",
       "ja": "リンダ",
-      "zh-Hant": "琳達"
+      "zh-Hant": "林妲"
     },
     "species": {
       "en": "Frog",
@@ -846,7 +846,7 @@
     "name": {
       "en": "Quillson",
       "ja": "タックン",
-      "zh-Hant": "阿達"
+      "zh-Hant": "何童"
     },
     "species": {
       "en": "Duck",
@@ -867,7 +867,7 @@
     "name": {
       "en": "Marcie",
       "ja": "マリア",
-      "zh-Hant": "瑪利亞"
+      "zh-Hant": "瑪莉亞"
     },
     "species": {
       "en": "Kangaroo",
@@ -888,7 +888,7 @@
     "name": {
       "en": "Puck",
       "ja": "ホッケー",
-      "zh-Hant": "阿冰"
+      "zh-Hant": "哈奇"
     },
     "species": {
       "en": "Penguin",
@@ -930,7 +930,7 @@
     "name": {
       "en": "Octavian",
       "ja": "おくたろう",
-      "zh-Hant": "章魚燒"
+      "zh-Hant": "張瑜"
     },
     "species": {
       "en": "Octopus",
@@ -951,7 +951,7 @@
     "name": {
       "en": "Winnie",
       "ja": "マキバスター",
-      "zh-Hant": "夢奇"
+      "zh-Hant": "馬星星"
     },
     "species": {
       "en": "Horse",
@@ -972,7 +972,7 @@
     "name": {
       "en": "Knox",
       "ja": "キンカク",
-      "zh-Hant": "金角"
+      "zh-Hant": "金閣"
     },
     "species": {
       "en": "Chicken",
@@ -993,7 +993,7 @@
     "name": {
       "en": "Sterling",
       "ja": "ギンカク",
-      "zh-Hant": "銀角"
+      "zh-Hant": "銀閣"
     },
     "species": {
       "en": "Eagle",
@@ -1014,7 +1014,7 @@
     "name": {
       "en": "Bonbon",
       "ja": "ミミィ",
-      "zh-Hant": "蜜米"
+      "zh-Hant": "妙妙"
     },
     "species": {
       "en": "Rabbit",
@@ -1035,7 +1035,7 @@
     "name": {
       "en": "Punchy",
       "ja": "ビンタ",
-      "zh-Hant": "彬太"
+      "zh-Hant": "爾光"
     },
     "species": {
       "en": "Cat",
@@ -1056,7 +1056,7 @@
     "name": {
       "en": "Opal",
       "ja": "オパール",
-      "zh-Hant": "蛋白石"
+      "zh-Hant": "露露"
     },
     "species": {
       "en": "Elephant",
@@ -1077,7 +1077,7 @@
     "name": {
       "en": "Poppy",
       "ja": "グミ",
-      "zh-Hant": "古蜜"
+      "zh-Hant": "軟糖"
     },
     "species": {
       "en": "Squirrel",
@@ -1098,7 +1098,7 @@
     "name": {
       "en": "Limberg",
       "ja": "らっきょ",
-      "zh-Hant": "辣醬"
+      "zh-Hant": "韭菜"
     },
     "species": {
       "en": "Mouse",
@@ -1119,7 +1119,7 @@
     "name": {
       "en": "Deena",
       "ja": "まりも",
-      "zh-Hant": "茉莉"
+      "zh-Hant": "毬藻"
     },
     "species": {
       "en": "Duck",
@@ -1140,7 +1140,7 @@
     "name": {
       "en": "Snake",
       "ja": "モモチ",
-      "zh-Hant": "桃之"
+      "zh-Hant": "百川"
     },
     "species": {
       "en": "Rabbit",
@@ -1161,7 +1161,7 @@
     "name": {
       "en": "Bangle",
       "ja": "ルーズ",
-      "zh-Hant": "露絲"
+      "zh-Hant": "盧姿"
     },
     "species": {
       "en": "Tiger",
@@ -1203,7 +1203,7 @@
     "name": {
       "en": "Monique",
       "ja": "ジェーン",
-      "zh-Hant": "珍妮"
+      "zh-Hant": "珍珍"
     },
     "species": {
       "en": "Cat",
@@ -1224,7 +1224,7 @@
     "name": {
       "en": "Nate",
       "ja": "バッカス",
-      "zh-Hant": "巴格斯"
+      "zh-Hant": "巴克思"
     },
     "species": {
       "en": "Bear",
@@ -1245,7 +1245,7 @@
     "name": {
       "en": "Samson",
       "ja": "ピース",
-      "zh-Hant": "阿健"
+      "zh-Hant": "和平"
     },
     "species": {
       "en": "Mouse",
@@ -1266,7 +1266,7 @@
     "name": {
       "en": "Tutu",
       "ja": "れんにゅう",
-      "zh-Hant": "仁乳"
+      "zh-Hant": "戀戀"
     },
     "species": {
       "en": "Bear",
@@ -1287,7 +1287,7 @@
     "name": {
       "en": "T-Bone",
       "ja": "ボルシチ",
-      "zh-Hant": "波麗"
+      "zh-Hant": "羅宋"
     },
     "species": {
       "en": "Bull",
@@ -1308,7 +1308,7 @@
     "name": {
       "en": "Mint",
       "ja": "ミント",
-      "zh-Hant": "薄荷"
+      "zh-Hant": "小敏"
     },
     "species": {
       "en": "Squirrel",
@@ -1329,7 +1329,7 @@
     "name": {
       "en": "Pudge",
       "ja": "きんぞう",
-      "zh-Hant": "金三"
+      "zh-Hant": "阿欽"
     },
     "species": {
       "en": "Bear cub",
@@ -1350,7 +1350,7 @@
     "name": {
       "en": "Midge",
       "ja": "うずまき",
-      "zh-Hant": "渦卷"
+      "zh-Hant": "小酒窩"
     },
     "species": {
       "en": "Bird",
@@ -1413,7 +1413,7 @@
     "name": {
       "en": "Clyde",
       "ja": "デースケ",
-      "zh-Hant": "大介"
+      "zh-Hant": "笛笛"
     },
     "species": {
       "en": "Horse",
@@ -1434,7 +1434,7 @@
     "name": {
       "en": "Bella",
       "ja": "イザベラ",
-      "zh-Hant": "伊芙"
+      "zh-Hant": "貝拉"
     },
     "species": {
       "en": "Mouse",
@@ -1455,7 +1455,7 @@
     "name": {
       "en": "Biff",
       "ja": "ガブリエル",
-      "zh-Hant": "加百列"
+      "zh-Hant": "賈寶為"
     },
     "species": {
       "en": "Hippo",
@@ -1476,7 +1476,7 @@
     "name": {
       "en": "Yuka",
       "ja": "ユーカリ",
-      "zh-Hant": "尤加利"
+      "zh-Hant": "尤嘉莉"
     },
     "species": {
       "en": "Koala",
@@ -1497,7 +1497,7 @@
     "name": {
       "en": "Lionel",
       "ja": "ライオネル",
-      "zh-Hant": "萊乃爾"
+      "zh-Hant": "賴恩睿"
     },
     "species": {
       "en": "Lion",
@@ -1560,7 +1560,7 @@
     "name": {
       "en": "Amelia",
       "ja": "アンデス",
-      "zh-Hant": "安迪絲"
+      "zh-Hant": "安地斯"
     },
     "species": {
       "en": "Eagle",
@@ -1581,7 +1581,7 @@
     "name": {
       "en": "Jeremiah",
       "ja": "クワトロ",
-      "zh-Hant": "四角"
+      "zh-Hant": "阿刻"
     },
     "species": {
       "en": "Frog",
@@ -1602,7 +1602,7 @@
     "name": {
       "en": "Cherry",
       "ja": "ハンナ",
-      "zh-Hant": "漢娜"
+      "zh-Hant": "花娜"
     },
     "species": {
       "en": "Dog",
@@ -1623,7 +1623,7 @@
     "name": {
       "en": "Roscoe",
       "ja": "シュバルツ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "黑馬"
     },
     "species": {
       "en": "Horse",
@@ -1644,7 +1644,7 @@
     "name": {
       "en": "Truffles",
       "ja": "トンコ",
-      "zh-Hant": "阿豚"
+      "zh-Hant": "嘟嘟"
     },
     "species": {
       "en": "Pig",
@@ -1665,7 +1665,7 @@
     "name": {
       "en": "Eugene",
       "ja": "ロッキー",
-      "zh-Hant": "洛乘"
+      "zh-Hant": "羅奇"
     },
     "species": {
       "en": "Koala",
@@ -1686,7 +1686,7 @@
     "name": {
       "en": "Eunice",
       "ja": "モヘア",
-      "zh-Hant": "毛海"
+      "zh-Hant": "毛海兒"
     },
     "species": {
       "en": "Sheep",
@@ -1707,7 +1707,7 @@
     "name": {
       "en": "Goose",
       "ja": "ケンタ",
-      "zh-Hant": "健太"
+      "zh-Hant": "肯肯"
     },
     "species": {
       "en": "Chicken",
@@ -1728,7 +1728,7 @@
     "name": {
       "en": "Annalisa",
       "ja": "みやび",
-      "zh-Hant": "雅"
+      "zh-Hant": "小雅"
     },
     "species": {
       "en": "Anteater",
@@ -1770,7 +1770,7 @@
     "name": {
       "en": "Pancetti",
       "ja": "ブリトニー",
-      "zh-Hant": "布妮"
+      "zh-Hant": "布蘭妮"
     },
     "species": {
       "en": "Pig",
@@ -1791,7 +1791,7 @@
     "name": {
       "en": "Chief",
       "ja": "チーフ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "施傅"
     },
     "species": {
       "en": "Wolf",
@@ -1833,7 +1833,7 @@
     "name": {
       "en": "Clay",
       "ja": "どぐろう",
-      "zh-Hant": "土偶"
+      "zh-Hant": "子墨"
     },
     "species": {
       "en": "Hamster",
@@ -1854,7 +1854,7 @@
     "name": {
       "en": "Diana",
       "ja": "ナタリー",
-      "zh-Hant": "娜塔莉"
+      "zh-Hant": "倪家莉"
     },
     "species": {
       "en": "Deer",
@@ -1875,7 +1875,7 @@
     "name": {
       "en": "Axel",
       "ja": "エックスエル",
-      "zh-Hant": "阿壯"
+      "zh-Hant": "大大"
     },
     "species": {
       "en": "Elephant",
@@ -1896,7 +1896,7 @@
     "name": {
       "en": "Muffy",
       "ja": "フリル",
-      "zh-Hant": "芙莉露"
+      "zh-Hant": "彭澎"
     },
     "species": {
       "en": "Sheep",
@@ -1938,7 +1938,7 @@
     "name": {
       "en": "Bertha",
       "ja": "あんこ",
-      "zh-Hant": "紅豆"
+      "zh-Hant": "豆沙"
     },
     "species": {
       "en": "Hippo",
@@ -1959,7 +1959,7 @@
     "name": {
       "en": "Cyrano",
       "ja": "さくらじま",
-      "zh-Hant": "阿壯"
+      "zh-Hant": "陽明"
     },
     "species": {
       "en": "Anteater",
@@ -1980,7 +1980,7 @@
     "name": {
       "en": "Peanut",
       "ja": "ももこ",
-      "zh-Hant": "桃子"
+      "zh-Hant": "小桃"
     },
     "species": {
       "en": "Squirrel",
@@ -2001,7 +2001,7 @@
     "name": {
       "en": "Cole",
       "ja": "アマミン",
-      "zh-Hant": "阿麻"
+      "zh-Hant": "阿甘"
     },
     "species": {
       "en": "Rabbit",
@@ -2022,7 +2022,7 @@
     "name": {
       "en": "Willow",
       "ja": "マリー",
-      "zh-Hant": "瑪莉"
+      "zh-Hant": "梅麗諾"
     },
     "species": {
       "en": "Sheep",
@@ -2064,7 +2064,7 @@
     "name": {
       "en": "Molly",
       "ja": "カモミ",
-      "zh-Hant": "鴨美"
+      "zh-Hant": "亞美"
     },
     "species": {
       "en": "Duck",
@@ -2085,7 +2085,7 @@
     "name": {
       "en": "Walker",
       "ja": "ベン",
-      "zh-Hant": "阿班"
+      "zh-Hant": "阿笨"
     },
     "species": {
       "en": "Dog",
@@ -2106,7 +2106,7 @@
     "name": {
       "en": "K.K.",
       "ja": "とたけけ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "KK"
     },
     "species": {
       "en": "Special",
@@ -2232,7 +2232,7 @@
     "name": {
       "en": "Katie",
       "ja": "まいこちゃん",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Special",
@@ -2463,7 +2463,7 @@
     "name": {
       "en": "Poncho",
       "ja": "ポンチョ",
-      "zh-Hant": "肌肉"
+      "zh-Hant": "蓬蓬"
     },
     "species": {
       "en": "Bear cub",
@@ -2484,7 +2484,7 @@
     "name": {
       "en": "Felicity",
       "ja": "みかっち",
-      "zh-Hant": "蜜柑"
+      "zh-Hant": "美佳"
     },
     "species": {
       "en": "Cat",
@@ -2505,7 +2505,7 @@
     "name": {
       "en": "Ozzie",
       "ja": "ドングリ",
-      "zh-Hant": "宣夫"
+      "zh-Hant": "阿栗"
     },
     "species": {
       "en": "Koala",
@@ -2526,7 +2526,7 @@
     "name": {
       "en": "Tia",
       "ja": "ティーナ",
-      "zh-Hant": "蒂娜"
+      "zh-Hant": "茉莉"
     },
     "species": {
       "en": "Elephant",
@@ -2547,7 +2547,7 @@
     "name": {
       "en": "Lucha",
       "ja": "マスカラス",
-      "zh-Hant": "雷斯利"
+      "zh-Hant": "摔角鴉"
     },
     "species": {
       "en": "Bird",
@@ -2568,7 +2568,7 @@
     "name": {
       "en": "Fuchsia",
       "ja": "ジェシカ",
-      "zh-Hant": "安妮"
+      "zh-Hant": "潔西卡"
     },
     "species": {
       "en": "Deer",
@@ -2589,7 +2589,7 @@
     "name": {
       "en": "Harry",
       "ja": "オリバー",
-      "zh-Hant": "哈力"
+      "zh-Hant": "歐世豪"
     },
     "species": {
       "en": "Hippo",
@@ -2610,7 +2610,7 @@
     "name": {
       "en": "Gwen",
       "ja": "ポーラ",
-      "zh-Hant": "茱莉"
+      "zh-Hant": "寶拉"
     },
     "species": {
       "en": "Penguin",
@@ -2631,7 +2631,7 @@
     "name": {
       "en": "Coach",
       "ja": "テッチャン",
-      "zh-Hant": "鐵丸"
+      "zh-Hant": "大常"
     },
     "species": {
       "en": "Bull",
@@ -2652,7 +2652,7 @@
     "name": {
       "en": "Kitt",
       "ja": "アップリケ",
-      "zh-Hant": "媽咪"
+      "zh-Hant": "縫縫"
     },
     "species": {
       "en": "Kangaroo",
@@ -2673,7 +2673,7 @@
     "name": {
       "en": "Tom",
       "ja": "バンタム",
-      "zh-Hant": "崑奇"
+      "zh-Hant": "阿邦"
     },
     "species": {
       "en": "Cat",
@@ -2694,7 +2694,7 @@
     "name": {
       "en": "Tipper",
       "ja": "まきば",
-      "zh-Hant": "愛美"
+      "zh-Hant": "牧牧"
     },
     "species": {
       "en": "Cow",
@@ -2715,7 +2715,7 @@
     "name": {
       "en": "Prince",
       "ja": "カール",
-      "zh-Hant": "嘉次"
+      "zh-Hant": "青呱"
     },
     "species": {
       "en": "Frog",
@@ -2736,7 +2736,7 @@
     "name": {
       "en": "Pate",
       "ja": "ナッキー",
-      "zh-Hant": "倪奇"
+      "zh-Hant": "愛哭鬼"
     },
     "species": {
       "en": "Duck",
@@ -2757,7 +2757,7 @@
     "name": {
       "en": "Vladimir",
       "ja": "ガビ",
-      "zh-Hant": "恰可"
+      "zh-Hant": "嘉弼"
     },
     "species": {
       "en": "Bear cub",
@@ -2778,7 +2778,7 @@
     "name": {
       "en": "Savannah",
       "ja": "サバンナ",
-      "zh-Hant": "莎彬娜"
+      "zh-Hant": "草斑娜"
     },
     "species": {
       "en": "Horse",
@@ -2799,7 +2799,7 @@
     "name": {
       "en": "Kidd",
       "ja": "やさお",
-      "zh-Hant": "文生"
+      "zh-Hant": "文青"
     },
     "species": {
       "en": "Goat",
@@ -2841,7 +2841,7 @@
     "name": {
       "en": "Egbert",
       "ja": "しもやけ",
-      "zh-Hant": "蛋蛋"
+      "zh-Hant": "黃金雞"
     },
     "species": {
       "en": "Chicken",
@@ -2862,7 +2862,7 @@
     "name": {
       "en": "Cookie",
       "ja": "ペリーヌ",
-      "zh-Hant": "真琴"
+      "zh-Hant": "珮琳"
     },
     "species": {
       "en": "Dog",
@@ -2883,7 +2883,7 @@
     "name": {
       "en": "Sly",
       "ja": "ハイド",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "海德"
     },
     "species": {
       "en": "Alligator",
@@ -2904,7 +2904,7 @@
     "name": {
       "en": "Blaire",
       "ja": "シルエット",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "小影"
     },
     "species": {
       "en": "Squirrel",
@@ -2925,7 +2925,7 @@
     "name": {
       "en": "Avery",
       "ja": "クスケチャ",
-      "zh-Hant": "太平"
+      "zh-Hant": "安谷斯"
     },
     "species": {
       "en": "Eagle",
@@ -2946,7 +2946,7 @@
     "name": {
       "en": "Nana",
       "ja": "チッチ",
-      "zh-Hant": "琪琪"
+      "zh-Hant": "七七"
     },
     "species": {
       "en": "Monkey",
@@ -2967,7 +2967,7 @@
     "name": {
       "en": "Peck",
       "ja": "ふみたろう",
-      "zh-Hant": "達磨"
+      "zh-Hant": "文雄"
     },
     "species": {
       "en": "Bird",
@@ -2988,7 +2988,7 @@
     "name": {
       "en": "Olivia",
       "ja": "オリビア",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "奧莉"
     },
     "species": {
       "en": "Cat",
@@ -3009,7 +3009,7 @@
     "name": {
       "en": "Cesar",
       "ja": "アラン",
-      "zh-Hant": "波以德"
+      "zh-Hant": "阿朗"
     },
     "species": {
       "en": "Gorilla",
@@ -3030,7 +3030,7 @@
     "name": {
       "en": "Carmen",
       "ja": "チョコ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "巧蔻"
     },
     "species": {
       "en": "Rabbit",
@@ -3051,7 +3051,7 @@
     "name": {
       "en": "Rodney",
       "ja": "ジミー",
-      "zh-Hant": "吉米"
+      "zh-Hant": "米米"
     },
     "species": {
       "en": "Hamster",
@@ -3072,7 +3072,7 @@
     "name": {
       "en": "Scoot",
       "ja": "マモル",
-      "zh-Hant": "阿倒"
+      "zh-Hant": "阿守"
     },
     "species": {
       "en": "Duck",
@@ -3093,7 +3093,7 @@
     "name": {
       "en": "Whitney",
       "ja": "ビアンカ",
-      "zh-Hant": "碧安卡"
+      "zh-Hant": "畢安卡"
     },
     "species": {
       "en": "Wolf",
@@ -3114,7 +3114,7 @@
     "name": {
       "en": "Broccolo",
       "ja": "ブロッコリー",
-      "zh-Hant": "服子"
+      "zh-Hant": "茜藍"
     },
     "species": {
       "en": "Mouse",
@@ -3135,7 +3135,7 @@
     "name": {
       "en": "Coco",
       "ja": "やよい",
-      "zh-Hant": "彌生"
+      "zh-Hant": "仰韶"
     },
     "species": {
       "en": "Rabbit",
@@ -3156,7 +3156,7 @@
     "name": {
       "en": "Groucho",
       "ja": "クロー",
-      "zh-Hant": "岡薩雷斯"
+      "zh-Hant": "爪爪"
     },
     "species": {
       "en": "Bear",
@@ -3177,7 +3177,7 @@
     "name": {
       "en": "Wendy",
       "ja": "みぞれ",
-      "zh-Hant": "壓克力"
+      "zh-Hant": "雪花"
     },
     "species": {
       "en": "Sheep",
@@ -3198,7 +3198,7 @@
     "name": {
       "en": "Alfonso",
       "ja": "アルベルト",
-      "zh-Hant": "阿博"
+      "zh-Hant": "阿泥"
     },
     "species": {
       "en": "Alligator",
@@ -3219,7 +3219,7 @@
     "name": {
       "en": "Rhonda",
       "ja": "ユメコ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "夢夢"
     },
     "species": {
       "en": "Rhino",
@@ -3240,7 +3240,7 @@
     "name": {
       "en": "Butch",
       "ja": "ジョン",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "約翰"
     },
     "species": {
       "en": "Dog",
@@ -3261,7 +3261,7 @@
     "name": {
       "en": "Gabi",
       "ja": "ペチカ",
-      "zh-Hant": "莉莉"
+      "zh-Hant": "珮琪"
     },
     "species": {
       "en": "Rabbit",
@@ -3282,7 +3282,7 @@
     "name": {
       "en": "Moose",
       "ja": "ピン",
-      "zh-Hant": "亞瑟"
+      "zh-Hant": "阿聘"
     },
     "species": {
       "en": "Mouse",
@@ -3303,7 +3303,7 @@
     "name": {
       "en": "Timbra",
       "ja": "つかさ",
-      "zh-Hant": "梅莉"
+      "zh-Hant": "阿司"
     },
     "species": {
       "en": "Sheep",
@@ -3324,7 +3324,7 @@
     "name": {
       "en": "Zell",
       "ja": "ネルソン",
-      "zh-Hant": "尼爾森"
+      "zh-Hant": "森森"
     },
     "species": {
       "en": "Deer",
@@ -3345,7 +3345,7 @@
     "name": {
       "en": "Pekoe",
       "ja": "ジャスミン",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "佳敏"
     },
     "species": {
       "en": "Bear cub",
@@ -3366,7 +3366,7 @@
     "name": {
       "en": "Teddy",
       "ja": "たいへいた",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "太平"
     },
     "species": {
       "en": "Bear",
@@ -3387,7 +3387,7 @@
     "name": {
       "en": "Mathilda",
       "ja": "アザラク",
-      "zh-Hant": "阿格"
+      "zh-Hant": "亞莎"
     },
     "species": {
       "en": "Kangaroo",
@@ -3408,7 +3408,7 @@
     "name": {
       "en": "Ed",
       "ja": "キザノホマレ",
-      "zh-Hant": "沙拉"
+      "zh-Hant": "馬譽"
     },
     "species": {
       "en": "Horse",
@@ -3471,7 +3471,7 @@
     "name": {
       "en": "Kitty",
       "ja": "ショコラ",
-      "zh-Hant": "巧可"
+      "zh-Hant": "朱古莉"
     },
     "species": {
       "en": "Cat",
@@ -3513,7 +3513,7 @@
     "name": {
       "en": "Nan",
       "ja": "スミ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "墨墨"
     },
     "species": {
       "en": "Goat",
@@ -3534,7 +3534,7 @@
     "name": {
       "en": "Bud",
       "ja": "グラさん",
-      "zh-Hant": "馬薩拉"
+      "zh-Hant": "莫敬"
     },
     "species": {
       "en": "Lion",
@@ -3555,7 +3555,7 @@
     "name": {
       "en": "Ruby",
       "ja": "ルナ",
-      "zh-Hant": "芙蘭"
+      "zh-Hant": "月兔"
     },
     "species": {
       "en": "Rabbit",
@@ -3576,7 +3576,7 @@
     "name": {
       "en": "Benedict",
       "ja": "ぺしみち",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "沛希"
     },
     "species": {
       "en": "Chicken",
@@ -3597,7 +3597,7 @@
     "name": {
       "en": "Agnes",
       "ja": "アグネス",
-      "zh-Hant": "安妮絲"
+      "zh-Hant": "古乃欣"
     },
     "species": {
       "en": "Pig",
@@ -3618,7 +3618,7 @@
     "name": {
       "en": "Julian",
       "ja": "ジュリー",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "朱黎"
     },
     "species": {
       "en": "Horse",
@@ -3639,7 +3639,7 @@
     "name": {
       "en": "Bettina",
       "ja": "マルコ",
-      "zh-Hant": "千歲"
+      "zh-Hant": "丸子"
     },
     "species": {
       "en": "Mouse",
@@ -3660,7 +3660,7 @@
     "name": {
       "en": "Jay",
       "ja": "ツバクロ",
-      "zh-Hant": "燕太郎"
+      "zh-Hant": "阿燕"
     },
     "species": {
       "en": "Bird",
@@ -3681,7 +3681,7 @@
     "name": {
       "en": "Sprinkle",
       "ja": "フラッペ",
-      "zh-Hant": "刨冰"
+      "zh-Hant": "冰莎"
     },
     "species": {
       "en": "Penguin",
@@ -3702,7 +3702,7 @@
     "name": {
       "en": "Flip",
       "ja": "さすけ",
-      "zh-Hant": "猴塞雷"
+      "zh-Hant": "天佑"
     },
     "species": {
       "en": "Monkey",
@@ -3723,7 +3723,7 @@
     "name": {
       "en": "Hugh",
       "ja": "クッチャネ",
-      "zh-Hant": "戴克"
+      "zh-Hant": "阿豬"
     },
     "species": {
       "en": "Pig",
@@ -3744,7 +3744,7 @@
     "name": {
       "en": "Hopper",
       "ja": "ダルマン",
-      "zh-Hant": "正男"
+      "zh-Hant": "達滿"
     },
     "species": {
       "en": "Penguin",
@@ -3765,7 +3765,7 @@
     "name": {
       "en": "Pecan",
       "ja": "レベッカ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "雷貝嘉"
     },
     "species": {
       "en": "Squirrel",
@@ -3786,7 +3786,7 @@
     "name": {
       "en": "Drake",
       "ja": "フォアグラ",
-      "zh-Hant": "肥鵝肝"
+      "zh-Hant": "肥肝"
     },
     "species": {
       "en": "Duck",
@@ -3807,7 +3807,7 @@
     "name": {
       "en": "Alice",
       "ja": "メルボルン",
-      "zh-Hant": "墨爾本"
+      "zh-Hant": "莫兒"
     },
     "species": {
       "en": "Koala",
@@ -3828,7 +3828,7 @@
     "name": {
       "en": "Camofrog",
       "ja": "フルメタル",
-      "zh-Hant": "全金屬"
+      "zh-Hant": "迷仔"
     },
     "species": {
       "en": "Frog",
@@ -3849,7 +3849,7 @@
     "name": {
       "en": "Anicotti",
       "ja": "ラザニア",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "羅萱兒"
     },
     "species": {
       "en": "Mouse",
@@ -3870,7 +3870,7 @@
     "name": {
       "en": "Chops",
       "ja": "トンファン",
-      "zh-Hant": "炸豬排"
+      "zh-Hant": "豚皇"
     },
     "species": {
       "en": "Pig",
@@ -3891,7 +3891,7 @@
     "name": {
       "en": "Charlise",
       "ja": "チャーミー",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "恰咪"
     },
     "species": {
       "en": "Bear",
@@ -3912,7 +3912,7 @@
     "name": {
       "en": "Vic",
       "ja": "ノルマン",
-      "zh-Hant": "大武"
+      "zh-Hant": "盧爾曼"
     },
     "species": {
       "en": "Bull",
@@ -3933,7 +3933,7 @@
     "name": {
       "en": "Ankha",
       "ja": "ナイル",
-      "zh-Hant": "尼羅"
+      "zh-Hant": "艷后"
     },
     "species": {
       "en": "Cat",
@@ -3954,7 +3954,7 @@
     "name": {
       "en": "Drift",
       "ja": "ドク",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "毒仔"
     },
     "species": {
       "en": "Frog",
@@ -3975,7 +3975,7 @@
     "name": {
       "en": "Vesta",
       "ja": "メリヤス",
-      "zh-Hant": "梅伊"
+      "zh-Hant": "綿綿"
     },
     "species": {
       "en": "Sheep",
@@ -3996,7 +3996,7 @@
     "name": {
       "en": "Marcel",
       "ja": "もんじゃ",
-      "zh-Hant": "法蘭"
+      "zh-Hant": "文字燒"
     },
     "species": {
       "en": "Dog",
@@ -4017,7 +4017,7 @@
     "name": {
       "en": "Pango",
       "ja": "パトラ",
-      "zh-Hant": "帕特拉"
+      "zh-Hant": "佩希"
     },
     "species": {
       "en": "Anteater",
@@ -4038,7 +4038,7 @@
     "name": {
       "en": "Keaton",
       "ja": "フランク",
-      "zh-Hant": "阿波羅"
+      "zh-Hant": "法蘭克"
     },
     "species": {
       "en": "Eagle",
@@ -4059,7 +4059,7 @@
     "name": {
       "en": "Gladys",
       "ja": "ちとせ",
-      "zh-Hant": "小櫻"
+      "zh-Hant": "仙仙"
     },
     "species": {
       "en": "Ostrich",
@@ -4080,7 +4080,7 @@
     "name": {
       "en": "Hamphrey",
       "ja": "ハムジ",
-      "zh-Hant": "哈姆"
+      "zh-Hant": "小倉"
     },
     "species": {
       "en": "Hamster",
@@ -4101,7 +4101,7 @@
     "name": {
       "en": "Freya",
       "ja": "ツンドラ",
-      "zh-Hant": "凍原"
+      "zh-Hant": "冰冰"
     },
     "species": {
       "en": "Wolf",
@@ -4122,7 +4122,7 @@
     "name": {
       "en": "Kid Cat",
       "ja": "1ごう",
-      "zh-Hant": "一號"
+      "zh-Hant": "阿一"
     },
     "species": {
       "en": "Cat",
@@ -4143,7 +4143,7 @@
     "name": {
       "en": "Agent S",
       "ja": "2ごう",
-      "zh-Hant": "二號"
+      "zh-Hant": "阿二"
     },
     "species": {
       "en": "Squirrel",
@@ -4164,7 +4164,7 @@
     "name": {
       "en": "Big Top",
       "ja": "3ごう",
-      "zh-Hant": "三號"
+      "zh-Hant": "阿三"
     },
     "species": {
       "en": "Elephant",
@@ -4185,7 +4185,7 @@
     "name": {
       "en": "Rocket",
       "ja": "4ごう",
-      "zh-Hant": "四號"
+      "zh-Hant": "阿四"
     },
     "species": {
       "en": "Gorilla",
@@ -4206,7 +4206,7 @@
     "name": {
       "en": "Rover",
       "ja": "みしらぬネコ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "陌陌"
     },
     "species": {
       "en": "Special",
@@ -4395,7 +4395,7 @@
     "name": {
       "en": "Cyrus",
       "ja": "カイゾー",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Special",
@@ -4416,7 +4416,7 @@
     "name": {
       "en": "Grams",
       "ja": "ゲコ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Special",
@@ -4563,7 +4563,7 @@
     "name": {
       "en": "Lily",
       "ja": "レイニー",
-      "zh-Hant": "蕾妮"
+      "zh-Hant": "雷妮"
     },
     "species": {
       "en": "Frog",
@@ -4584,7 +4584,7 @@
     "name": {
       "en": "Anchovy",
       "ja": "アンチョビ",
-      "zh-Hant": "鯷魚"
+      "zh-Hant": "鳳尾"
     },
     "species": {
       "en": "Bird",
@@ -4605,7 +4605,7 @@
     "name": {
       "en": "Tabby",
       "ja": "トラこ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "小虎"
     },
     "species": {
       "en": "Cat",
@@ -4626,7 +4626,7 @@
     "name": {
       "en": "Kody",
       "ja": "アイダホ",
-      "zh-Hant": "帕其"
+      "zh-Hant": "艾德豪"
     },
     "species": {
       "en": "Bear cub",
@@ -4647,7 +4647,7 @@
     "name": {
       "en": "Miranda",
       "ja": "ミランダ",
-      "zh-Hant": "塔琪安娜"
+      "zh-Hant": "米蘭達"
     },
     "species": {
       "en": "Duck",
@@ -4668,7 +4668,7 @@
     "name": {
       "en": "Del",
       "ja": "ヤマト",
-      "zh-Hant": "阿深"
+      "zh-Hant": "大和"
     },
     "species": {
       "en": "Alligator",
@@ -4689,7 +4689,7 @@
     "name": {
       "en": "Paula",
       "ja": "レイチェル",
-      "zh-Hant": "潔西卡"
+      "zh-Hant": "瑞秋"
     },
     "species": {
       "en": "Bear",
@@ -4710,7 +4710,7 @@
     "name": {
       "en": "Ken",
       "ja": "クロベエ",
-      "zh-Hant": "歌舞"
+      "zh-Hant": "烏骨雞"
     },
     "species": {
       "en": "Chicken",
@@ -4731,7 +4731,7 @@
     "name": {
       "en": "Mitzi",
       "ja": "マール",
-      "zh-Hant": "麥克"
+      "zh-Hant": "圓圓"
     },
     "species": {
       "en": "Cat",
@@ -4773,7 +4773,7 @@
     "name": {
       "en": "Bubbles",
       "ja": "チャコ",
-      "zh-Hant": "恰可"
+      "zh-Hant": "曹珂"
     },
     "species": {
       "en": "Hippo",
@@ -4794,7 +4794,7 @@
     "name": {
       "en": "Cousteau",
       "ja": "ハルマキ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "春卷"
     },
     "species": {
       "en": "Frog",
@@ -4815,7 +4815,7 @@
     "name": {
       "en": "Velma",
       "ja": "ピティエ",
-      "zh-Hant": "瓦內莎"
+      "zh-Hant": "班長"
     },
     "species": {
       "en": "Goat",
@@ -4836,7 +4836,7 @@
     "name": {
       "en": "Elvis",
       "ja": "キング",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "皇獅"
     },
     "species": {
       "en": "Lion",
@@ -4857,7 +4857,7 @@
     "name": {
       "en": "Canberra",
       "ja": "キャンベラ",
-      "zh-Hant": "坎培拉"
+      "zh-Hant": "簡培菈"
     },
     "species": {
       "en": "Koala",
@@ -4878,7 +4878,7 @@
     "name": {
       "en": "Colton",
       "ja": "アンソニー",
-      "zh-Hant": "安東尼奧"
+      "zh-Hant": "安索尼"
     },
     "species": {
       "en": "Horse",
@@ -4899,7 +4899,7 @@
     "name": {
       "en": "Marina",
       "ja": "タコリーナ",
-      "zh-Hant": "章丸丸"
+      "zh-Hant": "章立娜"
     },
     "species": {
       "en": "Octopus",
@@ -4920,7 +4920,7 @@
     "name": {
       "en": "Spork",
       "ja": "ポーク",
-      "zh-Hant": "肌肉"
+      "zh-Hant": "肉肉"
     },
     "species": {
       "en": "Pig",
@@ -4941,7 +4941,7 @@
     "name": {
       "en": "Freckles",
       "ja": "マグロ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "小鮪"
     },
     "species": {
       "en": "Duck",
@@ -4962,7 +4962,7 @@
     "name": {
       "en": "Bam",
       "ja": "タケル",
-      "zh-Hant": "大武"
+      "zh-Hant": "小健"
     },
     "species": {
       "en": "Deer",
@@ -4983,7 +4983,7 @@
     "name": {
       "en": "Friga",
       "ja": "サブリナ",
-      "zh-Hant": "莎賓娜"
+      "zh-Hant": "謝賓娜"
     },
     "species": {
       "en": "Penguin",
@@ -5004,7 +5004,7 @@
     "name": {
       "en": "Ricky",
       "ja": "カジロウ",
-      "zh-Hant": "亞倫"
+      "zh-Hant": "嘉治"
     },
     "species": {
       "en": "Squirrel",
@@ -5025,7 +5025,7 @@
     "name": {
       "en": "Deirdre",
       "ja": "ナディア",
-      "zh-Hant": "娜迪亞"
+      "zh-Hant": "娣雅"
     },
     "species": {
       "en": "Deer",
@@ -5046,7 +5046,7 @@
     "name": {
       "en": "Hans",
       "ja": "スナイル",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "史奈魯"
     },
     "species": {
       "en": "Gorilla",
@@ -5067,7 +5067,7 @@
     "name": {
       "en": "Chevre",
       "ja": "ユキ",
-      "zh-Hant": "小雪"
+      "zh-Hant": "雪兒"
     },
     "species": {
       "en": "Goat",
@@ -5088,7 +5088,7 @@
     "name": {
       "en": "Drago",
       "ja": "タツオ",
-      "zh-Hant": "龍男"
+      "zh-Hant": "阿龍"
     },
     "species": {
       "en": "Alligator",
@@ -5109,7 +5109,7 @@
     "name": {
       "en": "Tangy",
       "ja": "ヒャクパー",
-      "zh-Hant": "百趴"
+      "zh-Hant": "純純"
     },
     "species": {
       "en": "Cat",
@@ -5130,7 +5130,7 @@
     "name": {
       "en": "Mac",
       "ja": "チャンプ",
-      "zh-Hant": "毛吉"
+      "zh-Hant": "金牌"
     },
     "species": {
       "en": "Dog",
@@ -5172,7 +5172,7 @@
     "name": {
       "en": "Wart Jr.",
       "ja": "サム",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "山姆"
     },
     "species": {
       "en": "Frog",
@@ -5193,7 +5193,7 @@
     "name": {
       "en": "Hazel",
       "ja": "アイリス",
-      "zh-Hant": "春捲"
+      "zh-Hant": "艾栗絲"
     },
     "species": {
       "en": "Squirrel",
@@ -5214,7 +5214,7 @@
     "name": {
       "en": "Beardo",
       "ja": "ベアード",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "熊大叔"
     },
     "species": {
       "en": "Bear",
@@ -5235,7 +5235,7 @@
     "name": {
       "en": "Ava",
       "ja": "ドミグラ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "陶米咕"
     },
     "species": {
       "en": "Chicken",
@@ -5256,7 +5256,7 @@
     "name": {
       "en": "Chester",
       "ja": "パンタ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "胖達"
     },
     "species": {
       "en": "Bear cub",
@@ -5277,7 +5277,7 @@
     "name": {
       "en": "Merry",
       "ja": "さっち",
-      "zh-Hant": "巧可"
+      "zh-Hant": "莎莎"
     },
     "species": {
       "en": "Cat",
@@ -5298,7 +5298,7 @@
     "name": {
       "en": "Genji",
       "ja": "ゲンジ",
-      "zh-Hant": "源氏"
+      "zh-Hant": "儒林"
     },
     "species": {
       "en": "Rabbit",
@@ -5319,7 +5319,7 @@
     "name": {
       "en": "Greta",
       "ja": "ふくこ",
-      "zh-Hant": "戴安"
+      "zh-Hant": "如意"
     },
     "species": {
       "en": "Mouse",
@@ -5361,7 +5361,7 @@
     "name": {
       "en": "Diva",
       "ja": "アイーダ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "小睫"
     },
     "species": {
       "en": "Frog",
@@ -5382,7 +5382,7 @@
     "name": {
       "en": "Klaus",
       "ja": "クマロス",
-      "zh-Hant": "黑兵衛"
+      "zh-Hant": "熊戰士"
     },
     "species": {
       "en": "Bear",
@@ -5424,7 +5424,7 @@
     "name": {
       "en": "Stinky",
       "ja": "アセクサ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "男子汗"
     },
     "species": {
       "en": "Cat",
@@ -5445,7 +5445,7 @@
     "name": {
       "en": "Tammi",
       "ja": "エイプリル",
-      "zh-Hant": "愛達荷"
+      "zh-Hant": "四月"
     },
     "species": {
       "en": "Monkey",
@@ -5466,7 +5466,7 @@
     "name": {
       "en": "Tucker",
       "ja": "はじめ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "阿原"
     },
     "species": {
       "en": "Elephant",
@@ -5487,7 +5487,7 @@
     "name": {
       "en": "Blanche",
       "ja": "しのぶ",
-      "zh-Hant": "茱莉"
+      "zh-Hant": "小偲"
     },
     "species": {
       "en": "Ostrich",
@@ -5508,7 +5508,7 @@
     "name": {
       "en": "Gaston",
       "ja": "モサキチ",
-      "zh-Hant": "毛海"
+      "zh-Hant": "猛兔"
     },
     "species": {
       "en": "Rabbit",
@@ -5529,7 +5529,7 @@
     "name": {
       "en": "Marshal",
       "ja": "ジュン",
-      "zh-Hant": "阿純"
+      "zh-Hant": "小潤"
     },
     "species": {
       "en": "Squirrel",
@@ -5550,7 +5550,7 @@
     "name": {
       "en": "Gala",
       "ja": "ためこ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "小芽"
     },
     "species": {
       "en": "Pig",
@@ -5571,7 +5571,7 @@
     "name": {
       "en": "Joey",
       "ja": "リチャード",
-      "zh-Hant": "鐵丸"
+      "zh-Hant": "李察"
     },
     "species": {
       "en": "Duck",
@@ -5592,7 +5592,7 @@
     "name": {
       "en": "Pippy",
       "ja": "ロッタ",
-      "zh-Hant": "花花"
+      "zh-Hant": "羅塔"
     },
     "species": {
       "en": "Rabbit",
@@ -5613,7 +5613,7 @@
     "name": {
       "en": "Buck",
       "ja": "ヴァヤシコフ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "威亞"
     },
     "species": {
       "en": "Horse",
@@ -5634,7 +5634,7 @@
     "name": {
       "en": "Bree",
       "ja": "サラ",
-      "zh-Hant": "愛美"
+      "zh-Hant": "西瓜皮"
     },
     "species": {
       "en": "Mouse",
@@ -5655,7 +5655,7 @@
     "name": {
       "en": "Rooney",
       "ja": "マイク",
-      "zh-Hant": "拳擊手"
+      "zh-Hant": "麥克"
     },
     "species": {
       "en": "Kangaroo",
@@ -5676,7 +5676,7 @@
     "name": {
       "en": "Curlos",
       "ja": "カルロス",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "賈洛斯"
     },
     "species": {
       "en": "Sheep",
@@ -5697,7 +5697,7 @@
     "name": {
       "en": "Skye",
       "ja": "リリィ",
-      "zh-Hant": "天空"
+      "zh-Hant": "百合"
     },
     "species": {
       "en": "Wolf",
@@ -5739,7 +5739,7 @@
     "name": {
       "en": "Flora",
       "ja": "フララ",
-      "zh-Hant": "紅鶴"
+      "zh-Hant": "胡拉拉"
     },
     "species": {
       "en": "Ostrich",
@@ -5760,7 +5760,7 @@
     "name": {
       "en": "Hamlet",
       "ja": "ハムスケ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "哈姆"
     },
     "species": {
       "en": "Hamster",
@@ -5781,7 +5781,7 @@
     "name": {
       "en": "Astrid",
       "ja": "キッズ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "童兒"
     },
     "species": {
       "en": "Kangaroo",
@@ -5802,7 +5802,7 @@
     "name": {
       "en": "Monty",
       "ja": "サルモンティ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "皮猴"
     },
     "species": {
       "en": "Monkey",
@@ -5823,7 +5823,7 @@
     "name": {
       "en": "Dora",
       "ja": "とめ",
-      "zh-Hant": "克莉琪"
+      "zh-Hant": "杜美"
     },
     "species": {
       "en": "Mouse",
@@ -5865,7 +5865,7 @@
     "name": {
       "en": "Victoria",
       "ja": "セントアロー",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "聖蘿"
     },
     "species": {
       "en": "Horse",
@@ -5886,7 +5886,7 @@
     "name": {
       "en": "Lyman",
       "ja": "オズモンド",
-      "zh-Hant": "番茄醬"
+      "zh-Hant": "敖志明"
     },
     "species": {
       "en": "Koala",
@@ -5907,7 +5907,7 @@
     "name": {
       "en": "Violet",
       "ja": "ウズメ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "吳紫眉"
     },
     "species": {
       "en": "Gorilla",
@@ -5928,7 +5928,7 @@
     "name": {
       "en": "Frank",
       "ja": "ハルク",
-      "zh-Hant": "麥克"
+      "zh-Hant": "浩克"
     },
     "species": {
       "en": "Eagle",
@@ -5949,7 +5949,7 @@
     "name": {
       "en": "Chadder",
       "ja": "チーズ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "起司"
     },
     "species": {
       "en": "Mouse",
@@ -5970,7 +5970,7 @@
     "name": {
       "en": "Merengue",
       "ja": "パティ",
-      "zh-Hant": "帕蒂"
+      "zh-Hant": "草莓"
     },
     "species": {
       "en": "Rhino",
@@ -5991,7 +5991,7 @@
     "name": {
       "en": "Cube",
       "ja": "ビス",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "羅斯"
     },
     "species": {
       "en": "Penguin",
@@ -6012,7 +6012,7 @@
     "name": {
       "en": "Claudia",
       "ja": "マリリン",
-      "zh-Hant": "焦糖"
+      "zh-Hant": "馬麗蓮"
     },
     "species": {
       "en": "Tiger",
@@ -6033,7 +6033,7 @@
     "name": {
       "en": "Curly",
       "ja": "ハムカツ",
-      "zh-Hant": "炸豬排"
+      "zh-Hant": "勝利"
     },
     "species": {
       "en": "Pig",
@@ -6054,7 +6054,7 @@
     "name": {
       "en": "Boomer",
       "ja": "ショーイ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "秀益"
     },
     "species": {
       "en": "Penguin",
@@ -6075,7 +6075,7 @@
     "name": {
       "en": "Caroline",
       "ja": "キャロライン",
-      "zh-Hant": "卡洛琳"
+      "zh-Hant": "賈蘿琳"
     },
     "species": {
       "en": "Squirrel",
@@ -6096,7 +6096,7 @@
     "name": {
       "en": "Sparro",
       "ja": "ちゅんのすけ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "周之翔"
     },
     "species": {
       "en": "Bird",
@@ -6117,7 +6117,7 @@
     "name": {
       "en": "Baabara",
       "ja": "トロワ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "華爾滋"
     },
     "species": {
       "en": "Sheep",
@@ -6138,7 +6138,7 @@
     "name": {
       "en": "Rolf",
       "ja": "チョモラン",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "朱穆朗"
     },
     "species": {
       "en": "Tiger",
@@ -6159,7 +6159,7 @@
     "name": {
       "en": "Maple",
       "ja": "メープル",
-      "zh-Hant": "楓葉"
+      "zh-Hant": "小楓"
     },
     "species": {
       "en": "Bear cub",
@@ -6180,7 +6180,7 @@
     "name": {
       "en": "Antonio",
       "ja": "マコト",
-      "zh-Hant": "安東尼奧"
+      "zh-Hant": "阿誠"
     },
     "species": {
       "en": "Anteater",
@@ -6201,7 +6201,7 @@
     "name": {
       "en": "Soleil",
       "ja": "シャンティ",
-      "zh-Hant": "桑迪"
+      "zh-Hant": "安安"
     },
     "species": {
       "en": "Hamster",
@@ -6243,7 +6243,7 @@
     "name": {
       "en": "Derwin",
       "ja": "ボン",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "阿坊"
     },
     "species": {
       "en": "Duck",
@@ -6264,7 +6264,7 @@
     "name": {
       "en": "Francine",
       "ja": "フランソワ",
-      "zh-Hant": "芙蘭"
+      "zh-Hant": "法藍琪"
     },
     "species": {
       "en": "Rabbit",
@@ -6285,7 +6285,7 @@
     "name": {
       "en": "Chrissy",
       "ja": "クリスチーヌ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "克莉琪"
     },
     "species": {
       "en": "Rabbit",
@@ -6348,7 +6348,7 @@
     "name": {
       "en": "Katrina",
       "ja": "ハッケミィ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Special",
@@ -6369,7 +6369,7 @@
     "name": {
       "en": "Phineas",
       "ja": "パロンチーノ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Special",
@@ -6411,7 +6411,7 @@
     "name": {
       "en": "Tommy",
       "ja": "つぶきち",
-      "zh-Hant": "粒吉"
+      "zh-Hant": "粒狸"
     },
     "species": {
       "en": "Special",
@@ -6432,7 +6432,7 @@
     "name": {
       "en": "Gracie",
       "ja": "グレース",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Special",
@@ -6474,7 +6474,7 @@
     "name": {
       "en": "Resetti",
       "ja": "リセットさん",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Special",
@@ -6495,7 +6495,7 @@
     "name": {
       "en": "Timmy",
       "ja": "まめきち",
-      "zh-Hant": "豆吉"
+      "zh-Hant": "豆狸"
     },
     "species": {
       "en": "Special",
@@ -6579,7 +6579,7 @@
     "name": {
       "en": "Gulliver",
       "ja": "ジョニー",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Special",
@@ -6621,7 +6621,7 @@
     "name": {
       "en": "Zipper",
       "ja": "ぴょんたろう",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Special",
@@ -6642,7 +6642,7 @@
     "name": {
       "en": "Goldie",
       "ja": "キャラメル",
-      "zh-Hant": "村民"
+      "zh-Hant": "牛奶糖"
     },
     "species": {
       "en": "Dog",
@@ -6663,7 +6663,7 @@
     "name": {
       "en": "Stitches",
       "ja": "パッチ",
-      "zh-Hant": "帕其"
+      "zh-Hant": "玩具熊"
     },
     "species": {
       "en": "Bear cub",
@@ -6684,7 +6684,7 @@
     "name": {
       "en": "Pinky",
       "ja": "タンタン",
-      "zh-Hant": "瑞秋"
+      "zh-Hant": "丹丹"
     },
     "species": {
       "en": "Bear",
@@ -6705,7 +6705,7 @@
     "name": {
       "en": "Mott",
       "ja": "リック",
-      "zh-Hant": "森藏"
+      "zh-Hant": "李克"
     },
     "species": {
       "en": "Lion",
@@ -6726,7 +6726,7 @@
     "name": {
       "en": "Mallary",
       "ja": "スミモモ",
-      "zh-Hant": "四角"
+      "zh-Hant": "蘇米"
     },
     "species": {
       "en": "Duck",
@@ -6747,7 +6747,7 @@
     "name": {
       "en": "Rocco",
       "ja": "ゴンザレス",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "孔在來"
     },
     "species": {
       "en": "Hippo",
@@ -6768,7 +6768,7 @@
     "name": {
       "en": "Katt",
       "ja": "ちょい",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "巧巧"
     },
     "species": {
       "en": "Cat",
@@ -6789,7 +6789,7 @@
     "name": {
       "en": "Graham",
       "ja": "グラハム",
-      "zh-Hant": "格雷漢"
+      "zh-Hant": "麥麥"
     },
     "species": {
       "en": "Hamster",
@@ -6810,7 +6810,7 @@
     "name": {
       "en": "Peaches",
       "ja": "ドサコ",
-      "zh-Hant": "盆梅"
+      "zh-Hant": "小薰"
     },
     "species": {
       "en": "Horse",
@@ -6831,7 +6831,7 @@
     "name": {
       "en": "Dizzy",
       "ja": "ヒュージ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "巨巨"
     },
     "species": {
       "en": "Elephant",
@@ -6852,7 +6852,7 @@
     "name": {
       "en": "Penelope",
       "ja": "チューこ",
-      "zh-Hant": "企鵝達"
+      "zh-Hant": "小啾"
     },
     "species": {
       "en": "Mouse",
@@ -6873,7 +6873,7 @@
     "name": {
       "en": "Boone",
       "ja": "まんたろう",
-      "zh-Hant": "戴克"
+      "zh-Hant": "萬泰"
     },
     "species": {
       "en": "Gorilla",
@@ -6894,7 +6894,7 @@
     "name": {
       "en": "Broffina",
       "ja": "カサンドラ",
-      "zh-Hant": "渦卷"
+      "zh-Hant": "凱西"
     },
     "species": {
       "en": "Chicken",
@@ -6915,7 +6915,7 @@
     "name": {
       "en": "Croque",
       "ja": "タイシ",
-      "zh-Hant": "嘉次"
+      "zh-Hant": "太子"
     },
     "species": {
       "en": "Frog",
@@ -6957,7 +6957,7 @@
     "name": {
       "en": "Shep",
       "ja": "ボブ",
-      "zh-Hant": "波利斯"
+      "zh-Hant": "包伯"
     },
     "species": {
       "en": "Dog",
@@ -6978,7 +6978,7 @@
     "name": {
       "en": "Lolly",
       "ja": "ラムネ",
-      "zh-Hant": "彈珠汽水"
+      "zh-Hant": "檸檬娜"
     },
     "species": {
       "en": "Cat",
@@ -6999,7 +6999,7 @@
     "name": {
       "en": "Erik",
       "ja": "チャック",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "查克"
     },
     "species": {
       "en": "Deer",
@@ -7041,7 +7041,7 @@
     "name": {
       "en": "Pierce",
       "ja": "セバスチャン",
-      "zh-Hant": "安東尼"
+      "zh-Hant": "謝博強"
     },
     "species": {
       "en": "Eagle",
@@ -7062,7 +7062,7 @@
     "name": {
       "en": "Queenie",
       "ja": "タキュ",
-      "zh-Hant": "格雷歐"
+      "zh-Hant": "果果"
     },
     "species": {
       "en": "Ostrich",
@@ -7083,7 +7083,7 @@
     "name": {
       "en": "Fang",
       "ja": "シベリア",
-      "zh-Hant": "西伯利亞"
+      "zh-Hant": "史培亞"
     },
     "species": {
       "en": "Wolf",
@@ -7104,7 +7104,7 @@
     "name": {
       "en": "Frita",
       "ja": "ウェンディ",
-      "zh-Hant": "小潤"
+      "zh-Hant": "溫蒂"
     },
     "species": {
       "en": "Sheep",
@@ -7125,7 +7125,7 @@
     "name": {
       "en": "Tex",
       "ja": "ボルト",
-      "zh-Hant": "德州"
+      "zh-Hant": "伏特"
     },
     "species": {
       "en": "Penguin",
@@ -7146,7 +7146,7 @@
     "name": {
       "en": "Melba",
       "ja": "アデレード",
-      "zh-Hant": "墨爾本"
+      "zh-Hant": "阿得"
     },
     "species": {
       "en": "Koala",
@@ -7188,7 +7188,7 @@
     "name": {
       "en": "Anabelle",
       "ja": "あるみ",
-      "zh-Hant": "紅豆"
+      "zh-Hant": "有美"
     },
     "species": {
       "en": "Anteater",
@@ -7209,7 +7209,7 @@
     "name": {
       "en": "Rudy",
       "ja": "チャス",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "茶茶"
     },
     "species": {
       "en": "Cat",
@@ -7230,7 +7230,7 @@
     "name": {
       "en": "Naomi",
       "ja": "ハナコ",
-      "zh-Hant": "哈克"
+      "zh-Hant": "玉蘭"
     },
     "species": {
       "en": "Cow",
@@ -7251,7 +7251,7 @@
     "name": {
       "en": "Peewee",
       "ja": "ダンベル",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "啞鈴"
     },
     "species": {
       "en": "Gorilla",
@@ -7272,7 +7272,7 @@
     "name": {
       "en": "Tammy",
       "ja": "アネッサ",
-      "zh-Hant": "安妮"
+      "zh-Hant": "然姐"
     },
     "species": {
       "en": "Bear cub",
@@ -7293,7 +7293,7 @@
     "name": {
       "en": "Olaf",
       "ja": "アントニオ",
-      "zh-Hant": "亞倫"
+      "zh-Hant": "安東尼"
     },
     "species": {
       "en": "Anteater",
@@ -7314,7 +7314,7 @@
     "name": {
       "en": "Lucy",
       "ja": "ルーシー",
-      "zh-Hant": "莎莉"
+      "zh-Hant": "露西"
     },
     "species": {
       "en": "Pig",
@@ -7335,7 +7335,7 @@
     "name": {
       "en": "Elmer",
       "ja": "サブレ",
-      "zh-Hant": "火鳥"
+      "zh-Hant": "酥餅"
     },
     "species": {
       "en": "Horse",
@@ -7356,7 +7356,7 @@
     "name": {
       "en": "Puddles",
       "ja": "チョキ",
-      "zh-Hant": "蕾妮"
+      "zh-Hant": "剪刀"
     },
     "species": {
       "en": "Frog",
@@ -7377,7 +7377,7 @@
     "name": {
       "en": "Rory",
       "ja": "アーサー",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "亞瑟"
     },
     "species": {
       "en": "Lion",
@@ -7398,7 +7398,7 @@
     "name": {
       "en": "Elise",
       "ja": "モンこ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "孟琪"
     },
     "species": {
       "en": "Monkey",
@@ -7419,7 +7419,7 @@
     "name": {
       "en": "Walt",
       "ja": "カンロク",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "袋鋼"
     },
     "species": {
       "en": "Kangaroo",
@@ -7440,7 +7440,7 @@
     "name": {
       "en": "Mira",
       "ja": "ミラコ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "蜜拉"
     },
     "species": {
       "en": "Rabbit",
@@ -7461,7 +7461,7 @@
     "name": {
       "en": "Pietro",
       "ja": "ジュペッティ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "皮耶羅"
     },
     "species": {
       "en": "Sheep",
@@ -7503,7 +7503,7 @@
     "name": {
       "en": "Papi",
       "ja": "オカッピ",
-      "zh-Hant": "珀西瓦"
+      "zh-Hant": "小岡"
     },
     "species": {
       "en": "Horse",
@@ -7545,7 +7545,7 @@
     "name": {
       "en": "Rod",
       "ja": "ジャン",
-      "zh-Hant": "查克"
+      "zh-Hant": "阿將"
     },
     "species": {
       "en": "Mouse",
@@ -7566,7 +7566,7 @@
     "name": {
       "en": "Purrl",
       "ja": "たま",
-      "zh-Hant": "玉美"
+      "zh-Hant": "小玉"
     },
     "species": {
       "en": "Cat",
@@ -7587,7 +7587,7 @@
     "name": {
       "en": "Static",
       "ja": "スパーク",
-      "zh-Hant": "火花"
+      "zh-Hant": "閃電"
     },
     "species": {
       "en": "Squirrel",
@@ -7608,7 +7608,7 @@
     "name": {
       "en": "Celia",
       "ja": "ティファニー",
-      "zh-Hant": "珍妮"
+      "zh-Hant": "蒂芬妮"
     },
     "species": {
       "en": "Eagle",
@@ -7650,7 +7650,7 @@
     "name": {
       "en": "Peggy",
       "ja": "ちえり",
-      "zh-Hant": "阿格"
+      "zh-Hant": "千惠"
     },
     "species": {
       "en": "Pig",
@@ -7671,7 +7671,7 @@
     "name": {
       "en": "Ribbot",
       "ja": "ガチャ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "鏘鏘"
     },
     "species": {
       "en": "Frog",
@@ -7692,7 +7692,7 @@
     "name": {
       "en": "Annalise",
       "ja": "シルブプレ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "舒芙蕾"
     },
     "species": {
       "en": "Horse",
@@ -7713,7 +7713,7 @@
     "name": {
       "en": "Chow",
       "ja": "チャウヤン",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "朝陽"
     },
     "species": {
       "en": "Bear",
@@ -7734,7 +7734,7 @@
     "name": {
       "en": "Sylvia",
       "ja": "シルビア",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "希薇亞"
     },
     "species": {
       "en": "Kangaroo",
@@ -7755,7 +7755,7 @@
     "name": {
       "en": "Jacques",
       "ja": "ジョッキー",
-      "zh-Hant": "傑克"
+      "zh-Hant": "趙奇"
     },
     "species": {
       "en": "Bird",
@@ -7776,7 +7776,7 @@
     "name": {
       "en": "Sally",
       "ja": "ララミー",
-      "zh-Hant": "盆梅"
+      "zh-Hant": "拉拉米"
     },
     "species": {
       "en": "Squirrel",
@@ -7797,7 +7797,7 @@
     "name": {
       "en": "Doc",
       "ja": "トビオ",
-      "zh-Hant": "海苔卷"
+      "zh-Hant": "阿飛"
     },
     "species": {
       "en": "Rabbit",
@@ -7818,7 +7818,7 @@
     "name": {
       "en": "Pompom",
       "ja": "のりっぺ",
-      "zh-Hant": "恰可"
+      "zh-Hant": "海苔裴"
     },
     "species": {
       "en": "Duck",
@@ -7839,7 +7839,7 @@
     "name": {
       "en": "Tank",
       "ja": "くるぶし",
-      "zh-Hant": "正男"
+      "zh-Hant": "阿足"
     },
     "species": {
       "en": "Rhino",
@@ -7860,7 +7860,7 @@
     "name": {
       "en": "Becky",
       "ja": "アリア",
-      "zh-Hant": "娜塔莉"
+      "zh-Hant": "詠旋"
     },
     "species": {
       "en": "Chicken",
@@ -7881,7 +7881,7 @@
     "name": {
       "en": "Rizzo",
       "ja": "ちょろきち",
-      "zh-Hant": "千歲"
+      "zh-Hant": "悄俊"
     },
     "species": {
       "en": "Mouse",
@@ -7902,7 +7902,7 @@
     "name": {
       "en": "Sydney",
       "ja": "シドニー",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "思穎"
     },
     "species": {
       "en": "Koala",
@@ -7923,7 +7923,7 @@
     "name": {
       "en": "Barold",
       "ja": "ニッシー",
-      "zh-Hant": "宣夫"
+      "zh-Hant": "阿西"
     },
     "species": {
       "en": "Bear cub",
@@ -7944,7 +7944,7 @@
     "name": {
       "en": "Nibbles",
       "ja": "ガリガリ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "咬咬"
     },
     "species": {
       "en": "Squirrel",
@@ -7965,7 +7965,7 @@
     "name": {
       "en": "Kevin",
       "ja": "イノッチ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "伊比利"
     },
     "species": {
       "en": "Pig",
@@ -7986,7 +7986,7 @@
     "name": {
       "en": "Gloria",
       "ja": "スワンソン",
-      "zh-Hant": "莎賓娜"
+      "zh-Hant": "素返真"
     },
     "species": {
       "en": "Duck",
@@ -8007,7 +8007,7 @@
     "name": {
       "en": "Lobo",
       "ja": "ブンジロウ",
-      "zh-Hant": "文次郎"
+      "zh-Hant": "潘奇隆"
     },
     "species": {
       "en": "Wolf",
@@ -8028,7 +8028,7 @@
     "name": {
       "en": "Hippeux",
       "ja": "ディビッド",
-      "zh-Hant": "大介"
+      "zh-Hant": "戴維"
     },
     "species": {
       "en": "Hippo",
@@ -8070,7 +8070,7 @@
     "name": {
       "en": "Lucky",
       "ja": "ラッキー",
-      "zh-Hant": "好運"
+      "zh-Hant": "大吉"
     },
     "species": {
       "en": "Dog",
@@ -8091,7 +8091,7 @@
     "name": {
       "en": "Rosie",
       "ja": "ブーケ",
-      "zh-Hant": "花花"
+      "zh-Hant": "彭花"
     },
     "species": {
       "en": "Cat",
@@ -8112,7 +8112,7 @@
     "name": {
       "en": "Rowan",
       "ja": "ゴメス",
-      "zh-Hant": "章魚燒"
+      "zh-Hant": "戈麥斯"
     },
     "species": {
       "en": "Tiger",
@@ -8133,7 +8133,7 @@
     "name": {
       "en": "Maelle",
       "ja": "アンヌ",
-      "zh-Hant": "櫻桃"
+      "zh-Hant": "安妮"
     },
     "species": {
       "en": "Duck",
@@ -8154,7 +8154,7 @@
     "name": {
       "en": "Bruce",
       "ja": "ブルース",
-      "zh-Hant": "布魯斯"
+      "zh-Hant": "布鹿斯"
     },
     "species": {
       "en": "Deer",
@@ -8175,7 +8175,7 @@
     "name": {
       "en": "O'Hare",
       "ja": "サントス",
-      "zh-Hant": "薄荷"
+      "zh-Hant": "桑托斯"
     },
     "species": {
       "en": "Rabbit",
@@ -8196,7 +8196,7 @@
     "name": {
       "en": "Gayle",
       "ja": "アリゲッティ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "愛莉"
     },
     "species": {
       "en": "Alligator",
@@ -8217,7 +8217,7 @@
     "name": {
       "en": "Cranston",
       "ja": "トキオ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "朱祿"
     },
     "species": {
       "en": "Ostrich",
@@ -8238,7 +8238,7 @@
     "name": {
       "en": "Frobert",
       "ja": "コージィ",
-      "zh-Hant": "卡爾"
+      "zh-Hant": "江適"
     },
     "species": {
       "en": "Frog",
@@ -8259,7 +8259,7 @@
     "name": {
       "en": "Grizzly",
       "ja": "ムー",
-      "zh-Hant": "阿牧"
+      "zh-Hant": "穆穆"
     },
     "species": {
       "en": "Bear",
@@ -8280,7 +8280,7 @@
     "name": {
       "en": "Cally",
       "ja": "パセリ",
-      "zh-Hant": "巴西利"
+      "zh-Hant": "小芹"
     },
     "species": {
       "en": "Squirrel",
@@ -8301,7 +8301,7 @@
     "name": {
       "en": "Simon",
       "ja": "エテキチ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "遠仁"
     },
     "species": {
       "en": "Monkey",
@@ -8322,7 +8322,7 @@
     "name": {
       "en": "Iggly",
       "ja": "のりまき",
-      "zh-Hant": "企鵝達"
+      "zh-Hant": "花壽司"
     },
     "species": {
       "en": "Penguin",
@@ -8343,7 +8343,7 @@
     "name": {
       "en": "Angus",
       "ja": "セルバンテス",
-      "zh-Hant": "波爾奇"
+      "zh-Hant": "施萬德"
     },
     "species": {
       "en": "Bull",
@@ -8364,7 +8364,7 @@
     "name": {
       "en": "Twiggy",
       "ja": "ピーチク",
-      "zh-Hant": "皮可蘿"
+      "zh-Hant": "嘰嘰"
     },
     "species": {
       "en": "Bird",
@@ -8385,7 +8385,7 @@
     "name": {
       "en": "Robin",
       "ja": "パーチク",
-      "zh-Hant": "時雄"
+      "zh-Hant": "喳喳"
     },
     "species": {
       "en": "Bird",
@@ -8616,7 +8616,7 @@
     "name": {
       "en": "K.K.",
       "ja": "とたけけ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "KK"
     },
     "species": {
       "en": "Special",
@@ -8658,7 +8658,7 @@
     "name": {
       "en": "Flick",
       "ja": "レックス",
-      "zh-Hant": "俐落思"
+      "zh-Hant": "雷克思"
     },
     "species": {
       "en": "Special",
@@ -8721,7 +8721,7 @@
     "name": {
       "en": "Saharah",
       "ja": "ローラン",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Special",
@@ -8763,7 +8763,7 @@
     "name": {
       "en": "Gulliver",
       "ja": "ジョニー",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Special",
@@ -8847,7 +8847,7 @@
     "name": {
       "en": "Wardell",
       "ja": "ナッティー",
-      "zh-Hant": "浩一"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Special",
@@ -8931,7 +8931,7 @@
     "name": {
       "en": "Megan",
       "ja": "キャンディ",
-      "zh-Hant": "惠美"
+      "zh-Hant": "糖果"
     },
     "species": {
       "en": "Bear",
@@ -8952,7 +8952,7 @@
     "name": {
       "en": "Dom",
       "ja": "ちゃちゃまる",
-      "zh-Hant": "恰恰"
+      "zh-Hant": "茶茶丸"
     },
     "species": {
       "en": "Sheep",
@@ -8994,7 +8994,7 @@
     "name": {
       "en": "Cyd",
       "ja": "パンクス",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Elephant",
@@ -9057,7 +9057,7 @@
     "name": {
       "en": "Reneigh",
       "ja": "リアーナ",
-      "zh-Hant": "蕾妮"
+      "zh-Hant": "蕾哈娜"
     },
     "species": {
       "en": "Horse",
@@ -9099,7 +9099,7 @@
     "name": {
       "en": "Ione",
       "ja": "スピカ",
-      "zh-Hant": "蜜拉可"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Squirrel",
@@ -9162,7 +9162,7 @@
     "name": {
       "en": "Marlo",
       "ja": "ドンチャン",
-      "zh-Hant": "卡西諾"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Hamster",
@@ -9183,7 +9183,7 @@
     "name": {
       "en": "Petri",
       "ja": "リカ",
-      "zh-Hant": "茱莉亞"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Mouse",
@@ -9225,7 +9225,7 @@
     "name": {
       "en": "Quinn",
       "ja": "シオン",
-      "zh-Hant": "秀吉"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Eagle",
@@ -9246,7 +9246,7 @@
     "name": {
       "en": "Chabwick",
       "ja": "のぶお",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Penguin",
@@ -9267,7 +9267,7 @@
     "name": {
       "en": "Zoe",
       "ja": "ビーフン",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Anteater",
@@ -9288,7 +9288,7 @@
     "name": {
       "en": "Ace",
       "ja": "フェザー",
-      "zh-Hant": "秀一"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Bird",
@@ -9309,7 +9309,7 @@
     "name": {
       "en": "Rio",
       "ja": "デジャネイロ",
-      "zh-Hant": "乘龍"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Ostrich",
@@ -9330,7 +9330,7 @@
     "name": {
       "en": "Frett",
       "ja": "シャンペン",
-      "zh-Hant": "哈姆"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Dog",
@@ -9351,7 +9351,7 @@
     "name": {
       "en": "Azalea",
       "ja": "ペチュニア",
-      "zh-Hant": "杜鵑"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Rhino",
@@ -9393,7 +9393,7 @@
     "name": {
       "en": "Faith",
       "ja": "マーチ",
-      "zh-Hant": "光男"
+      "zh-Hant": "??"
     },
     "species": {
       "en": "Koala",
